@@ -1,2 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+Android/maingameplay filter=lfs diff=lfs merge=lfs -text
+iOS/maingameplay filter=lfs diff=lfs merge=lfs -text
+OSX/maingameplay filter=lfs diff=lfs merge=lfs -text
