@@ -2,7 +2,7 @@
     "version":"1.0",
     "AppVersion":{
     "Versions": [{
-        "AndroidV": "1.0",
+        "AndroidV": "1.02",
         "iOSV": "1.0"
     }, {
         "AndroidV": "1.01",
