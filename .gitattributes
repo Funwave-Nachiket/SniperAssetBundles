@@ -3,3 +3,9 @@
 Android/maingameplay filter=lfs diff=lfs merge=lfs -text
 iOS/maingameplay filter=lfs diff=lfs merge=lfs -text
 OSX/maingameplay filter=lfs diff=lfs merge=lfs -text
+Testing/Android filter=lfs diff=lfs merge=lfs -text
+Testing/maingameplay filter=lfs diff=lfs merge=lfs -text
+Testing/maingameplay_base filter=lfs diff=lfs merge=lfs -text
+Testing/shared_assets filter=lfs diff=lfs merge=lfs -text
+Testing/unifiedraytracing filter=lfs diff=lfs merge=lfs -text
+Testing/level_* filter=lfs diff=lfs merge=lfs -text
