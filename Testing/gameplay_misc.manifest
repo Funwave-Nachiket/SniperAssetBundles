@@ -1,0 +1,1088 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.11f1
+CRC: 1217071567
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 2bc33fffff1c03550261e0e1095c44f5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 4a944d0b11f10ed3f6db098483c88b27
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 566917e6d47f5c7ed87db9070f35863f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 72
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 89
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7a68c43fe1f2a47cfa234b5eeaa98012, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 909d917d73a63f940ac158d02e936645, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c70b3df2d1985449daaed3cb512f6e38, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a09f4a6ae35bb4f958de74456262e61d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f54e17d705a2894d88787e24190ebfa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cb3acf4ea8d0a4ee888e6f78251b49b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 749f28fa8872b4311937fc761fb3b0b7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61dc8ba04e1ad5d40af2dbc451e9b140, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97581daf7ab1f48449bebf8845db9251, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0668ff620c66644c9e7186c984320c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc04eded0592d4145b34047310311721, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1d3a0497d010f9468823fbeca9b3fa7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c92dcc0663d3c8408a6eb0be362e0a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fda1e05b20502ea4f819030884fb988f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea559fd31a0fccb46ba33415ef2baa8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 799991b4d32283e43b62bb1b3876aec1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 532ba84d74760c749ab7afc679b3e271, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3fe22f2023a34a54ba862c4e4d050011, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7b1c419a7187154b960572ddbb43188, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb9426afc4813db4fae3e4e02d750120, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff5a8987b67c05a4b8de195dceb29f6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 303087fd20ac76f448794caca3b8003d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d65195ab7ae737a4e88370987607cac9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ce773311c289e54a8f19cc9bfa26ae3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99c91316f0694834593b894cb50a743e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: be3985c3af1374339b662586e204ff0f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3779a55b50ccb4919aad47834ac2667b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f94fbcc55099045a59f9b359f0bb523a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 434e7e60a16ae45459875df66d29913e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ce9fb3be51c0349358e88ae9961b9a0e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1de051fe064c6493d8262366bd940435, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 926253b8618684d01b1ab90c518744d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fcf7219bab7fe46a1ad266029b2fee19, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e087ecce43ebbff45a1b360637807d93, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 26e54e5a728a9234ab24fcf1460ed8a2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f4688fdb7df04437aeb418b961361dc5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bd6043bde05a7fc4cba197d06915c1e3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68bb026fafb42b14791938953eaace77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9dfa5b682dcd46bda6128250e975f58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ac0b09e7857660247b1477e93731de29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 45e653bab7fb20e499bda25e1b646fea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7f59e54f2bfd184b9dd451a678d089b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e3c430f382484144e925c097c2d33cfe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70b342d8ce5c2fd48b8fa3147d48d1d1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fff0960ef4ea6e04eac66b4a7fd2189d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 48948dfe9d76b07488dacd46a7955fa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: aeda7bfbf984f2a4da5ab4b8967b115d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 39fa3d8997a24136984ca6e2c99902bc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc1515ab76e54f068e2f2207940fab32, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c46f07b5ed07e4e92aa78254188d3d10, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 62899f850307741f2a39c98a8b639597, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 01614664b831546d2ae94a42149d80ac, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6bd486065ce11414fa40e631affc4900, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0b2db86121404754db890f4c8dfe81b2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: cdfbdbb87d3286943a057f7791b43141, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 81180773991d8724ab7f2d216912b564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 66f335fb1ffd8684294ad653bf1c7564, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3eb4b772797da9440885e8bd939e9560, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e021b4c809a781e468c2988c016ebbea, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c01700fd266d6914ababb731e09af2eb, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 29fa0085f50d5e54f8144f766051a691, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c5e1dc532bcb41949b58bc4f2abfbb7e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5485954d14dfb9a4c8ead8edb0ded5b1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ccf1aba9553839d41ae37dd52e9ebcce, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fb60a22f311433c4c962b888d1393f88, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 572910c10080c0945a0ef731ccedc739, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f62c9c65cf3354c93be831c8bc075510, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 06437c1ff663d574d9447842ba0a72e4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 558a8e2b6826cf840aae193990ba9f2e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 70afe9e12c7a7ed47911bb608a23a8ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97c23e3b12dc18c42a140437e53d3951, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: bf2edee5c58d82540a51f03df9d42094, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ec995e51a6e251468d2a3fd8a686257, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: de640fe3d0db1804a85f9fc8f5cadab6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 899c54efeace73346a0a16faa3afe726, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 221518ef91623a7438a71fef23660601, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 172515602e62fb746b5d573b38a5fe58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d7fd9488000d3734a9e00ee676215985, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 4e29b1a8efbd4b44bb3f3716e73f07ff, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 30649d3a9faa99c48a7b1166b86bf2a0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 31a19414c41e5ae4aae2af33fee712f6, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b4a8e662125fe4b3aabba3aa010c9c63, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 34ede2b92b76641b99870bd9494ac935, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 144
+  Script: {instanceID: 0}
+- Class: 195
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 215
+  Script: {instanceID: 0}
+- Class: 220
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 238
+  Script: {instanceID: 0}
+- Class: 363
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+- Class: 1183024399
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Assembly-CSharp
+  ClassName: MapLevel/MapLevelData
+- AssemblyName: Assembly-CSharp
+  ClassName: PatrolSettings
+- AssemblyName: Assembly-CSharp
+  ClassName: Readme/Section
+- AssemblyName: Assembly-CSharp
+  ClassName: Reward
+- AssemblyName: RSBRuntime
+  ClassName: IE.RSB.BulletTimeCameraDefault/CameraEffect
+- AssemblyName: RSBRuntime
+  ClassName: IE.RSB.BulletTimeCameraDefault/CameraEffectStage
+- AssemblyName: RSBRuntime
+  ClassName: IE.RSB.DynamicScopeSystem/ZoomLevel
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.MultiAimConstraintData
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.RigEffectorData
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.RigEffectorData/Style
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.RigLayer
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.TwoBoneIKConstraintData
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.Vector3Bool
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.WeightedTransform
+- AssemblyName: Unity.Animation.Rigging
+  ClassName: UnityEngine.Animations.Rigging.WeightedTransformArray
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.CameraTarget
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.CinemachineBlendDefinition
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.CinemachineBrain/LensModeOverrideSettings
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.CinemachineLegacyCameraEvents/OnCameraLiveEvent
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.CinemachineVirtualCamera/LegacyTransitionParams
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.LegacyLensSettings
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.LensSettings
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.LensSettings/PhysicalSettings
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.NoiseSettings/NoiseParams
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.NoiseSettings/TransformNoiseParams
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.PrioritySettings
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.InputAction
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.InputActionMap
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.InputBinding
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.InputControlScheme
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.InputControlScheme/DeviceRequirement
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.InputSettings/iOSSettings
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.PlayerInput/ActionEvent
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.PlayerInput/ControlsChangedEvent
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.PlayerInput/DeviceLostEvent
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.PlayerInput/DeviceRegainedEvent
+- AssemblyName: Unity.InputSystem
+  ClassName: UnityEngine.InputSystem.iOS.PrivacyDataUsage
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.APVLeakReductionModeParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.BoolParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ClampedIntParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ColorParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.FloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.IncludeAdditionalRPAssets
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.LightmapSamplingSettings
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.MinFloatParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.NoInterpTextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ProbeVolumeBakingResources
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ProbeVolumeBlendingTextureMemoryBudget
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ProbeVolumeDebugResources
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ProbeVolumeGlobalSettings
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ProbeVolumeRuntimeResources
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ProbeVolumeSHBands
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ProbeVolumeSceneData
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ProbeVolumeTextureMemoryBudget
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.RenderGraphGlobalSettings
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.RenderGraphModule.Util.RenderGraphUtilsResources
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.RenderPipelineGraphicsSettingsContainer
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.RenderingDebuggerRuntimeResources
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.STP/RuntimeResources
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.SerializedDictionary`2
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.ShaderStrippingSetting
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureCurve
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureCurveParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.TextureParameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector2Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector3Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.Vector4Parameter
+- AssemblyName: Unity.RenderPipelines.Core.Runtime
+  ClassName: UnityEngine.Rendering.VrsRenderPipelineRuntimeResources
+- AssemblyName: Unity.RenderPipelines.GPUDriven.Runtime
+  ClassName: UnityEngine.Rendering.GPUResidentDrawerResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.URPReflectionProbeSettings
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.BloomFilterModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.DepthOfFieldModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.DownscaleParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.FilmGrainLookupParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.HDRACESPresetParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.MotionBlurModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.MotionBlurQualityParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.NeutralRangeReductionModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.OnTilePostProcessResource
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.PostProcessData/ShaderResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.PostProcessData/TextureResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.RenderGraphSettings
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.Renderer2DResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.ScreenSpaceAmbientOcclusionDynamicResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.ScreenSpaceAmbientOcclusionPersistentResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.ScreenSpaceAmbientOcclusionSettings
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.ScreenSpaceLensFlareResolutionParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.ScriptableRendererData/DebugShaderResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.ScriptableRendererData/ProbeVolumeResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.StencilStateData
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TonemappingModeParameter
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.URPDefaultVolumeProfileSettings
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.URPShaderStrippingSetting
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.URPTerrainShaderSetting
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRenderPipelineAsset/TextureResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRenderPipelineDebugShaders
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorAssets
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorMaterials
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRenderPipelineEditorShaders
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRenderPipelineRuntimeShaders
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRenderPipelineRuntimeTerrainShaders
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRenderPipelineRuntimeTextures
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRenderPipelineRuntimeXRResources
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.UniversalRendererResources
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.VertexGradient
+- AssemblyName: Unity.UnifiedRayTracing.Runtime
+  ClassName: UnityEngine.Rendering.UnifiedRayTracing.RayTracingRenderPipelineResources
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Bounds
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RectOffset
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Rendering.RenderPipelineGraphicsSettingsCollection
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RenderingLayerMask
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.AnimationTriggers
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Button/ButtonClickedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.ColorBlock
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Navigation
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.Slider/SliderEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.SpriteState
+Assets:
+- Assets/Military/Texture/Equip/T_Military_Vest1_metalness.png
+- Assets/Mesh/Materials/Image_0.mat
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_4Bhima Anti-Mat/_4Bhima Anti-Matupdate
+  4.asset
+- Assets/Military/Materials URP/URP_Boots2_Skin3.mat
+- Assets/Military/Animations/Idle Crouching.fbx
+- Assets/Military/Texture/Body/T_Military_Head2_color.png
+- Assets/Military/Materials URP/URP_Rifle2_skin1.mat
+- Assets/Military/Materials/Rifle2_skin4.mat
+- Assets/Military/Materials URP/URP_Rifle1_skin1.mat
+- Assets/Military/Prefab/Weapon.prefab
+- Assets/Military/Prefab/Environment.prefab
+- Assets/Military/Materials URP/URP_Boots3_Skin3.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 29.asset
+- Assets/Military/Materials/FPS_Hands1_Skin1.mat
+- Assets/Prefab/Snipers/Recon_E_PreSet.prefab
+- Assets/Military/Prefab/PlayerArmature.prefab
+- Assets/Military/Texture/Body/T_Military_Gasmask1_color_skin4.png
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 18.asset
+- Assets/Scripts/Scriptable/Weapons/_1Sena-1.asset
+- Assets/Animations/UI/Image.controller
+- Assets/Military/Materials URP/URP_Pants2_Skin3.mat
+- Assets/Military/Materials/Boots3_Skin2.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 17.asset
+- Assets/Military/Texture/Equip/T_Military_Backpack1_metalness.png
+- Assets/Military/Texture/Bottom/T_Military_Pants1_metalness.png
+- Assets/Military/Floor/MAT_Floor.mat
+- Assets/Military/Texture/FPS_Arms/T_Military_Hands3_color_skin1.png
+- Assets/Military/Texture/Body/T_Military_Head2_ao.png
+- Assets/Military/Texture/Bottom/T_Military_Boots3_Skin2_color.png
+- Assets/Military/StarterAssets/Environment/Art/Models/Ground_Mesh.fbx
+- Assets/Military/Texture/Body/T_Military_Gasmask1_nmap.png
+- Assets/Military/Materials URP/URP_Shirt3_Skin3.mat
+- Assets/Military/Materials URP/URP_FPS_Hands1_Skin1.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots1_metalness.png
+- Assets/Military/Materials URP/URP_Cap1_Skin3.mat
+- Assets/Military/Prefab/Modules.prefab
+- Assets/Military/Materials URP/URP_Gasmask1_Skin3.mat
+- Assets/Military/Materials URP/URP_Rifle1_skin3.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 4.asset
+- Assets/Mesh/textures/Extinguisher_albedo.jpeg
+- Assets/Military/Materials URP/URP_Rifle1_skin4.mat
+- Assets/Military/Texture/Weapon/T_Military_Rifle1_ao.png
+- Assets/Military/Texture/Bottom/T_Military_Pants2_color_skin1.png
+- Assets/Prefab/UI/WeaponUpgrade/Damage_stat.prefab
+- Assets/Military/Texture/Top/T_Military_Shirt3_Skin2_color.png
+- Assets/Military/Basemesh/Separated/SK_Military_Cap1_Gasmask.fbx
+- Assets/Military/Texture/FPS_Arms/T_Military_Hands3_ao.png
+- Assets/Military/Texture/Body/T_Military_Head2_nmap.png
+- Assets/Military/Materials/Shirt3_Skin3.mat
+- Assets/Settings/Mobile_Renderer.asset
+- Assets/Prefab/Snipers/Recon_E_2_PreSet.prefab
+- Assets/Military/Texture/Equip/T_Military_Pouches1_Skin1_color.png
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Stand--Idle.anim.fbx
+- Assets/Prefab/Snipers/Recon_C_PreSet.prefab
+- Assets/Military/Texture/Weapon/T_Military_Rifle3_nmap.png
+- Assets/Military/StarterAssets/Environment/Art/Models/Structure_Mesh.fbx
+- Assets/Military/Basemesh/Separated/FPS/SK_Miliary_FPS_Arms.fbx
+- Assets/Military/Materials URP/URP_Shirt3_Skin2.mat
+- Assets/Animations/ShooterTargetFall/New Animation.anim
+- Assets/Military/Texture/Top/T_Military_Caps1_metalness.png
+- Assets/Military/Texture/Top/T_Military_Shirt2_Skin3_color.png
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 1.asset
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 19.asset
+- Assets/Military/Prefab/URP/Environment_URP.prefab
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 13.asset
+- Assets/Military/Materials URP/URP_Shirt2_Skin2.mat
+- Assets/Military/Materials URP/URP_Floor.mat
+- Assets/Military/Prefab/FPS_Hands.prefab
+- Assets/Military/Materials/Hands1_Skin2.mat
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_4Bhima Anti-Mat/_4Bhima Anti-Matbase.asset
+- Assets/Military/Texture/Equip/T_Military_Vest1_nmap.png
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_2Garuda_tacktical/_2Garuda_tacktical_base.asset
+- Assets/Military/StarterAssets/Environment/Art/Materials/GridOrange_01_Mat.mat
+- Assets/Military/Texture/Bottom/T_Military_Pants2_rough.png
+- Assets/Prefab/Character_1.prefab
+- Assets/Military/Materials URP/URP_Gasmask1_Skin2.mat
+- Assets/Military/Texture/Bottom/T_Military_Pants1_rough.png
+- Assets/Military/Texture/Body/T_Military_Gasmask1_rough.png
+- Assets/Military/Materials/Rifle3_skin2.mat
+- Assets/Military/Prefab/Lighting.prefab
+- Assets/Animations/Car/Standing W_Briefcase Idle.fbx
+- Assets/Military/Texture/Weapon/T_Military_Rifle1_nmap.png
+- Assets/Military/Materials/Pouches1_Skin3.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 3.asset
+- Assets/Military/Materials/Rifle1_skin1.mat
+- Assets/Military/Texture/Body/T_Military_Hands1_ao.png
+- Assets/Military/StarterAssets/Environment/Art/Materials/Blue_Mat.mat
+- Assets/Military/Materials/Rifle1_skin4.mat
+- Assets/Military/Materials URP/URP_Vest1_Skin2.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 14.asset
+- Assets/Military/Texture/Weapon/T_Military_Rifle1_color_skin2.png
+- Assets/Military/Texture/Bottom/T_Military_Boots3_nmap.png
+- Assets/Military/Texture/Body/T_Military_Head2_rough.png
+- Assets/Military/Materials/Boots2_Skin2.mat
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_1sena/_sena_update 4.asset
+- Assets/Animations/Aim/Jumping Up.fbx
+- Assets/Military/Texture/Bottom/T_Military_Boots2_rough.png
+- Assets/Military/Basemesh/Separated/SK_Military_Backpack1_vest.fbx
+- Assets/Military/Texture/Body/T_Military_Head1_color.png
+- Assets/Military/Materials/Pants2_Skin2.mat
+- Assets/Animations/Car/Walk With Briefcase.fbx
+- Assets/Military/StarterAssets/Environment/Art/Models/Ramp_Mesh.fbx
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_3Nishabd Covert/_3Nishabd Covertupdate
+  4.asset
+- Assets/Military/Prefab/UI_EventSystem.prefab
+- Assets/Military/Texture/Body/T_Military_Gasmask1_color_skin1.png
+- Assets/Military/Texture/Equip/T_Military_Pouches1_Skin2_color.png
+- Assets/Military/StarterAssets/Environment/Art/Models/Stairs_200x100x200_Mesh.fbx
+- Assets/Military/Basemesh/Separated/SK_Military_Boots3.fbx
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 21.asset
+- Assets/Military/Texture/Top/T_Military_Shirt3_nmap.png
+- Assets/Military/Texture/Weapon/T_Military_Rifle1_rough.png
+- Assets/Military/StarterAssets/Environment/Art/Materials/GridBlue_01_Mat.mat
+- Assets/Military/Texture/Bottom/T_Military_Pants3_rough.png
+- Assets/Military/Materials/Vest1_Skin1.mat
+- Assets/Military/Basemesh/Separated/SK_Military_Vest1_2.fbx
+- Assets/Military/Materials URP/URP_Rifle1_skin2.mat
+- Assets/Military/Texture/Bottom/T_Military_Pants3_nmap.png
+- Assets/Military/Materials/Shirt1_Skin4.mat
+- Assets/Military/Materials/Cap1_Skin3.mat
+- Assets/Prefab/Enemy.prefab
+- Assets/Military/Basemesh/Separated/SK_Military_Shirt3.fbx
+- Assets/Military/Texture/Weapon/T_Military_Rifle2_ao.png
+- Assets/Military/Materials URP/URP_Boots1_Skin3.mat
+- Assets/Audio/DesertEdgeByVishal.mp3
+- Assets/Military/StarterAssets/Environment/Art/Textures/Grid_02_BaseMap.png
+- Assets/Settings/PC_Renderer.asset
+- Assets/Military/Basemesh/Separated/SK_Military_Head1.fbx
+- Assets/Military/Floor/MAT_Floor_URP.mat
+- Assets/Military/StarterAssets/Environment/Art/Models/Stairs_650_400_300_Mesh.fbx
+- Assets/Military/Texture/Top/T_Military_Shirt1_ao.png
+- Assets/Military/Texture/Top/T_Military_Shirt1_color_skin4.png
+- Assets/Military/Materials/Shirt1_Skin3.mat
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_6DhanushLongShot/_6DhanushLongShotupdate
+  1.asset
+- Assets/Military/Materials URP/URP_Pants1_Skin1.mat
+- Assets/Prefab/UI/MainMenu/DailyLoginPanelItem.prefab
+- Assets/Military/Basemesh/Separated/SK_Military_Vest1_4.fbx
+- Assets/Military/Texture/Equip/T_Military_Vest1_Skin1_color.png
+- Assets/Military/Materials/Pants3_Skin2.mat
+- Assets/Military/Texture/Top/T_Military_Shirt1_color_skin2.png
+- Assets/Military/Texture/Weapon/T_Military_Rifle2_color_skin2.png
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_6DhanushLongShot/_6DhanushLongShotupdate
+  4.asset
+- Assets/Military/Basemesh/Separated/SK_Military_Boots1.fbx
+- Assets/Military/Basemesh/Rifle1.fbx
+- Assets/Prefab/UI/IAPItem/Panel_item.prefab
+- Assets/Military/Materials URP/URP_Rifle2_skin3.mat
+- Assets/Prefab/PanelObj_Objective.prefab
+- Assets/Military/Materials/Gloves1_Skin2.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots1_Skin1_color.png
+- Assets/Military/Texture/Top/T_Military_Shirt1_color_skin3.png
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_2Garuda_tacktical/_2Garuda_tacktical
+  1.asset
+- Assets/Military/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPRenderer.asset
+- Assets/Military/Texture/Body/T_Military_Gasmask1_metalness.png
+- Assets/Military/Basemesh/Separated/SK_Military_Shirt2.fbx
+- Assets/Scripts/Scriptable/Weapons/_2Garuda_tacktical.asset
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_1sena/_sena_update 2.asset
+- Assets/Military/Texture/Bottom/T_Military_Pants1_ao.png
+- Assets/Scenes/MainGameplay/ReflectionProbe-4.exr
+- Assets/Military/Materials URP/URP_Head1.mat
+- Assets/Military/Materials/Head1.mat
+- Assets/Military/Texture/Bottom/T_Military_Pants1_Skin1_color.png
+- Assets/Military/Materials URP/URP_Rifle2_skin2.mat
+- Assets/Prefab/UI/PanelItem (1).prefab
+- Assets/Scripts/Scriptable/Maps/Kashmir-MapLevel.asset
+- Assets/Military/Basemesh/Separated/SK_Military_Vest1_Belt.fbx
+- Assets/Military/Materials/Shirt1_Skin1.mat
+- Assets/Military/Materials/Pants1_Skin3.mat
+- Assets/Military/Materials/Gasmask1_Skin2.mat
+- Assets/Military/Texture/Top/T_Military_Shirt3_Skin3_color.png
+- Assets/Military/Materials URP/URP_Hands1_Skin2.mat
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N.anim.fbx
+- Assets/Military/Texture/Equip/T_Military_Gloves1_color_skin1.png
+- Assets/Military/StarterAssets/Environment/Art/Textures/Grid_01_Normal.png
+- Assets/Military/Materials URP/URP_Cap1_Skin1.mat
+- Assets/Prefab/SniperBase.prefab
+- Assets/Military/StarterAssets/InputSystem/StarterAssets.inputsettings.asset
+- Assets/Military/Basemesh/Separated/SK_Military_Helmet1_Gasmask.fbx
+- Assets/Prefab/Snipers/Recon_D_PreSet.prefab
+- Assets/Military/Materials/Pants1_Skin2.mat
+- Assets/Military/Materials URP/URP_Shirt1_Skin3.mat
+- Assets/Military/Prefab/URP/URP_Ready-made.prefab
+- Assets/Military/Materials/Boots1_Skin1.mat
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_4Bhima Anti-Mat/_4Bhima Anti-Matupdate
+  1.asset
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Jump--Jump.anim.fbx
+- Assets/Military/Materials URP/URP_Boots1_Skin2.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 12.asset
+- Assets/Military/Materials/Pants2_Skin1.mat
+- Assets/Military/Materials URP/URP_Pouches1_Skin1.mat
+- Assets/Prefab/UI/MainMenu/RewardITem.prefab
+- Assets/Military/Materials URP/URP_Pants2_Skin2.mat
+- Assets/Military/Basemesh/Separated/FPS/SK_Miliary_FPS_Hands.fbx
+- Assets/Military/Texture/Weapon/T_Military_Rifle1_color_skin1.png
+- Assets/Military/Basemesh/Separated/FPS/SK_Miliary_Military_FPS_Shirt1.fbx
+- Assets/Military/Basemesh/Separated/SK_Military_Pants1.fbx
+- Assets/Military/Basemesh/Separated/SK_Military_Gasmask1_Filter_R.fbx
+- Assets/Military/Materials/Eyes1.mat
+- Assets/Mesh/textures/Extinguisher_AO.jpeg
+- Assets/Military/Materials URP/URP_Boots3_Skin1.mat
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_2Garuda_tacktical/_2Garuda_tacktical_3.asset
+- Assets/Military/Texture/Bottom/T_Military_Pants1_Skin2_color.png
+- Assets/Military/Basemesh/Separated/SK_Military_Pants2.fbx
+- Assets/Military/Basemesh/Separated/FPS/SK_Miliary_Military_FPS_Shirt3.fbx
+- Assets/Military/Texture/Bottom/T_Military_Pants1_Skin3_color.png
+- Assets/Military/Materials URP/URP_Backpack1_Skin2.mat
+- Assets/Material/shiny.mat
+- Assets/Military/Materials/Rifle2_skin3.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots2_color_skin2.png
+- Assets/Military/Basemesh/Separated/SK_Military_Shirt1.fbx
+- Assets/Military/Materials URP/URP_Rifle3_skin1.mat
+- Assets/Military/Materials/Head2.mat
+- Assets/Military/Basemesh/Separated/SK_Military_Male_Gloves1.fbx
+- Assets/Military/Basemesh/Separated/SK_Military_Cap1_Gasmask_Rotated.fbx
+- Assets/Military/Basemesh/Separated/SK_Military_Vest1.fbx
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 10.asset
+- Assets/Military/Basemesh/Separated/SK_Military_Helmet1.fbx
+- Assets/Military/Texture/Bottom/T_Military_Boots2_color_skin3.png
+- Assets/Settings/DefaultVolumeProfile.asset
+- Assets/Military/Materials/Pouches1_Skin1.mat
+- Assets/Military/Materials/Rifle2_skin1.mat
+- Assets/Military/Texture/Bottom/T_Military_Pants3_metalness.png
+- Assets/Military/Materials URP/URP_Shirt1_Skin1.mat
+- Assets/Animations/Aim/Rifle Aiming Idle.fbx
+- Assets/Military/Texture/Top/T_Military_Caps1_ao.png
+- Assets/Military/Texture/Equip/T_Military_Pouches1_metalness.png
+- Assets/Military/Materials URP/URP_Gasmask1_Skin1.mat
+- Assets/Settings/PC_RPAsset.asset
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_3Nishabd Covert/_3Nishabd Covertupdate
+  1.asset
+- Assets/Military/Texture/Top/T_Military_Shirt2_metalness.png
+- Assets/Military/Materials URP/URP_Pants3_Skin1.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots3_ao.png
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 25.asset
+- Assets/Animations/Aim/Crouched Walking.fbx
+- Assets/Military/Texture/Body/T_Military_Eyes1_normal.png
+- Assets/Military/Materials URP/URP_Gloves1_Skin1.mat
+- Assets/Military/Texture/Top/T_Military_Shirt2_rough.png
+- Assets/Military/Materials URP/URP_Gasmask1_Skin4.mat
+- Assets/Military/Texture/Equip/T_Military_Backpack1_nmap.png
+- Assets/Military/Materials/Pants2_Skin3.mat
+- Assets/Military/Materials URP/URP_Gloves1_Skin2.mat
+- Assets/Military/StarterAssets/Settings/PlaygroundSettings.lighting
+- Assets/Scripts/Scriptable/Maps/theSevenSister-MapLevel.asset
+- Assets/Military/Materials URP/URP_Hands1_Skin1.mat
+- Assets/Military/Texture/FPS_Arms/T_Military_Hands3_nmap.png
+- Assets/Military/Texture/Top/T_Military_Shirt3_Skin1_color.png
+- Assets/Military/StarterAssets/Environment/Art/Models/Tunnel_Mesh.fbx
+- Assets/Military/Materials/Boots2_Skin3.mat
+- Assets/Military/Basemesh/Separated/SK_Military_Backpack1.fbx
+- Assets/Military/Texture/Weapon/T_Military_Rifle2_rough.png
+- Assets/Military/Texture/Top/T_Military_Caps1_skin4_color.png
+- Assets/Scripts/Scriptable/Weapons/_6DhanushLongShot.asset
+- Assets/Military/Texture/Bottom/T_Military_Pants2_nmap.png
+- Assets/Military/Basemesh/Separated/SK_Military_Boots2.fbx
+- Assets/Military/Materials/Shirt3_Skin1.mat
+- Assets/Military/Materials/Boots2_Skin1.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots3_Skin1_color.png
+- Assets/Scripts/Scriptable/Weapons/_5Teer_RapidStrike.asset
+- Assets/Military/Prefab/Ready-made.prefab
+- Assets/Military/StarterAssets/Environment/Art/Materials/GreyBlue_Mat.mat
+- Assets/Military/Materials/Vest1_Skin3.mat
+- Assets/Military/Materials/Pants3_Skin1.mat
+- Assets/Mesh/textures/Extinguisher_roughness.jpeg
+- Assets/Military/Materials/Shirt3_Skin2.mat
+- Assets/Scenes/MainGameplay/ReflectionProbe-3.exr
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 26.asset
+- Assets/Military/Materials/Shirt2_Skin3.mat
+- Assets/Military/Texture/Body/T_Military_Head1_nmap.png
+- Assets/Military/Animations/Terrified (1).fbx
+- Assets/Military/Texture/Top/T_Military_Shirt1_color_skin1.png
+- Assets/Military/Materials URP/URP_Cap1_Skin4.mat
+- Assets/Prefab/FireExtinguish.prefab
+- Assets/Military/Texture/Weapon/T_Military_Rifle1_color_skin3.png
+- Assets/Military/Texture/Weapon/T_Military_Rifle2_color_skin4.png
+- Assets/Military/Texture/Equip/T_Military_Backpack1_rough.png
+- Assets/Military/Materials/Backpack1_Skin4.mat
+- Assets/Military/Materials/Boots1_Skin3.mat
+- Assets/Military/Basemesh/Separated/SK_Military_Gasmask1.fbx
+- Assets/Military/Prefab/GameObject.prefab
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/StarterAssetsThirdPerson.controller
+- Assets/Military/Basemesh/Separated/FPS/SK_Miliary_Military_FPS_Shirt2.fbx
+- Assets/Military/StarterAssets/InputSystem/StarterAssets.inputactions
+- Assets/Military/Basemesh/Separated/SK_Military_Vest1_3.fbx
+- Assets/Military/Texture/Weapon/T_Military_Rifle3_ao.png
+- Assets/Military/Materials URP/URP_Eyes1.mat
+- Assets/Military/Materials URP/URP_Rifle2_skin4.mat
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_3Nishabd Covert/_3Nishabd CovertUpdate
+  2.asset
+- Assets/Military/Basemesh/Separated/SK_Military_Gasmask1_Filter_L.fbx
+- Assets/Mesh/punjabi_sikh_Kada.fbx
+- Assets/Military/StarterAssets/Environment/Art/Models/Box_350x250x300_Mesh.fbx
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 23.asset
+- Assets/Military/Materials/Hands1_Skin1.mat
+- Assets/Military/Floor/MAT_Floor_HDRP.mat
+- Assets/Military/Texture/Top/T_Military_Caps1_rough.png
+- Assets/Military/Materials URP/URP_Rifle3_skin2.mat
+- Assets/Military/Texture/Top/T_Military_Shirt2_Skin1_color.png
+- Assets/Military/Animations/Rifle Idle.fbx
+- Assets/Military/Materials/Backpack1_Skin1.mat
+- Assets/Military/Materials URP/URP_Backpack1_Skin3.mat
+- Assets/Military/Texture/Top/T_Military_Shirt1_rough.png
+- Assets/Military/Materials URP/URP_Shirt1_Skin2.mat
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Walk_N.anim.fbx
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 6.asset
+- Assets/Military/Texture/Equip/T_Military_Pouches1_Skin3_color.png
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 27.asset
+- Assets/Military/Materials URP/URP_Shirt1_Skin4.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots1_Skin2_color.png
+- Assets/Military/Texture/Bottom/T_Military_Boots2_nmap.png
+- Assets/Scripts/Scriptable/Weapons/_3Nishabd Covert.asset
+- Assets/Military/Texture/Bottom/T_Military_Boots3_rough.png
+- Assets/Military/Texture/Top/T_Military_Caps1_nmap.png
+- Assets/Military/Texture/Top/T_Military_Caps1_Skin3_color.png
+- Assets/Military/Materials URP/URP_Pouches1_Skin3.mat
+- Assets/Military/Texture/Equip/T_Military_Backpack1_ao.png
+- Assets/Military/Materials URP/URP_Boots1_Skin1.mat
+- Assets/Military/Texture/Weapon/T_Military_Rifle2_color_skin3.png
+- Assets/Military/Texture/Weapon/T_Military_Rifle3_color_skin1.png
+- Assets/Military/Texture/Bottom/T_Military_Pants2_metalness.png
+- Assets/Military/Basemesh/Separated/SK_Military_Cap2_Gasmask.fbx
+- Assets/Military/Texture/Bottom/T_Military_Pants3_Skin3_color.png
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_5Teer_RapidStrike/_5Teer_RapidStrikeupdate
+  4.asset
+- Assets/Military/Materials/Backpack1_Skin3.mat
+- Assets/Military/Materials URP/URP_Head2.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots3_Skin3_color.png
+- Assets/Military/Materials URP/URP_Vest1_Skin3.mat
+- Assets/Military/Materials/Backpack1_Skin2.mat
+- Assets/Military/Materials/FPS_Hands1_Skin2.mat
+- Assets/Military/Texture/Body/T_Military_Eyes1_albedo.png
+- Assets/Military/Texture/Equip/T_Military_Backpack1_color_skin3.png
+- Assets/Scripts/Scriptable/Weapons/_4Bhima Anti-Mat.asset
+- Assets/Military/Materials/Rifle3_skin1.mat
+- Assets/Military/Materials/Rifle1_skin2.mat
+- Assets/Military/Texture/Body/T_Military_Gasmask1_color_skin3.png
+- Assets/Military/Materials URP/URP_Vest1_Skin1.mat
+- Assets/Military/Texture/Equip/T_Military_Pouches1_ao.png
+- Assets/Military/StarterAssets/Environment/Art/Textures/Grid_01_BaseMap.png
+- Assets/Military/Animations/rifleWalk.fbx
+- Assets/Military/Materials URP/URP_Pants2_Skin1.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface.asset
+- Assets/Military/Materials URP/URP_Backpack1_Skin1.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots2_ao.png
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 20.asset
+- Assets/Military/Texture/Body/T_Military_Gasmask1_ao.png
+- Assets/Military/Texture/Weapon/T_Military_Rifle1_metalness.png
+- Assets/Military/Materials URP/URP_Boots3_Skin2.mat
+- Assets/Military/Materials URP/URP_Shirt2_Skin3.mat
+- Assets/Military/Texture/Bottom/T_Military_Pants1_nmap.png
+- Assets/Military/StarterAssets/license.txt
+- Assets/Military/Basemesh/Separated/SK_Military_Helmet1_Fastering.fbx
+- Assets/Military/Texture/Bottom/T_Military_Pants2_color_skin2.png
+- Assets/Military/Materials/Boots1_Skin2.mat
+- Assets/Military/StarterAssets/Environment/Art/Textures/Grid_01_Emissive.png
+- Assets/Military/Materials/Vest1_Skin2.mat
+- Assets/Settings/Mobile_RPAsset.asset
+- Assets/Military/Texture/Equip/T_Military_Gloves1_nmap.png
+- Assets/Military/Basemesh/Separated/SK_Military_Vest1_5.fbx
+- Assets/Military/Texture/Bottom/T_Military_Boots1_Skin3_color.png
+- Assets/Settings/SampleSceneProfile.asset
+- Assets/Military/Basemesh/Separated/SK_Military_Head2.fbx
+- Assets/Military/Texture/Weapon/T_Military_Rifle3_rough.png
+- Assets/Military/Texture/Top/T_Military_Shirt2_Skin2_color.png
+- Assets/Animations/UI/Highlighter.anim
+- Assets/Military/Texture/Equip/T_Military_Vest1_Skin3_color.png
+- Assets/Animations/Car/Entering Car.fbx
+- Assets/Military/Materials/Pouches1_Skin2.mat
+- Assets/Military/Materials URP/URP_Shirt2_Skin1.mat
+- Assets/Military/Materials/Gasmask1_Skin4.mat
+- Assets/Military/Texture/Top/T_Military_Shirt1_nmap.png
+- Assets/Scripts/Scriptable/Maps/AndamanNicobar-MapLevel.asset
+- Assets/Prefab/Snipers/Recon_A_PreSet.prefab
+- Assets/Military/Texture/Bottom/T_Military_Pants3_ao.png
+- Assets/Military/Materials URP/URP_Boots2_Skin1.mat
+- Assets/Military/Basemesh/Separated/SK_Military_Male_Hands1.fbx
+- Assets/Military/Materials URP/URP_Backpack1_Skin4.mat
+- Assets/Military/Materials URP/URP_Boots2_Skin2.mat
+- Assets/Military/Texture/Equip/T_Military_Vest1_rough.png
+- Assets/Military/Texture/Body/T_Military_Hands1_color_skin2.png
+- Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Jump--InAir.anim.fbx
+- Assets/Military/Texture/Body/T_Military_Head1_ao.png
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_S.anim.fbx
+- Assets/Military/Texture/Top/T_Military_Shirt2_nmap.png
+- Assets/Military/Materials URP/URP_Shirt3_Skin1.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots1_ao.png
+- Assets/Scenes/MainGameplay/OcclusionCullingData.asset
+- Assets/Animations/Car/basic_briefcase.controller
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 15.asset
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_6DhanushLongShot/_6DhanushLongShotbase.asset
+- Assets/Military/Texture/Weapon/T_Military_Rifle2_color_skin1.png
+- Assets/Material/Scope.mat
+- Assets/Military/Basemesh/Separated/SK_Military_Male_Arms1.fbx
+- Assets/Military/Texture/Equip/T_Military_Gloves1_rough.png
+- Assets/Military/Texture/Top/T_Military_Shirt3_ao.png
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_5Teer_RapidStrike/_5Teer_RapidStrikeupdate
+  1.asset
+- Assets/Military/Materials URP/URP_Pants3_Skin3.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots2_color_skin1.png
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Walk_N_Land.anim.fbx
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_6DhanushLongShot/_6DhanushLongShotupdate
+  3.asset
+- Assets/Military/Texture/Equip/T_Military_Backpack1_color_skin2.png
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_3Nishabd Covert/_3Nishabd Covertbase.asset
+- Assets/Military/Basemesh/Separated/FPS/SK_Miliary_FPS_Hands_Gloves1.fbx
+- Assets/Military/Texture/Body/T_Military_Hands1_nmap.png
+- Assets/Military/Materials/Rifle2_skin2.mat
+- Assets/Military/Basemesh/Rifle3.fbx
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_1sena/_sena_update 1.asset
+- Assets/Prefab/UI/Objective/InGame/ObjectivePanelUI.prefab
+- Assets/Military/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPAsset.asset
+- Assets/Military/Materials/Shirt1_Skin2.mat
+- Assets/Animations/ShooterTargetFall/Target.controller
+- Assets/Military/StarterAssets/Environment/Art/Models/Box_350x250x200_Mesh.fbx
+- Assets/Military/Texture/FPS_Arms/T_Military_Hands3_rough.png
+- Assets/Military/Materials/Rifle1_skin3.mat
+- Assets/Animations/headerAnim.anim
+- Assets/Military/Basemesh/Rifle2.fbx
+- Assets/Military/Basemesh/Separated/SK_Military_Vest1_7.fbx
+- Assets/Military/Texture/FPS_Arms/T_Military_Hands3_color_skin2.png
+- Assets/Military/Basemesh/Separated/SK_Military_Male_Arms1_Gloves1.fbx
+- Assets/Military/Materials/Cap1_Skin2.mat
+- Assets/Military/Basemesh/SK_Modular_Military.fbx
+- Assets/Military/Basemesh/Separated/SK_Military_Vest1_6.fbx
+- Assets/Military/Texture/Equip/T_Military_Pouches1_nmap.png
+- Assets/Military/Texture/Weapon/T_Military_Rifle3_metalness.png
+- Assets/Prefab/Barrel.prefab
+- Assets/Military/Texture/Weapon/T_Military_Rifle2_metalness.png
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_4Bhima Anti-Mat/_4Bhima Anti-MatUpdate
+  2.asset
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_5Teer_RapidStrike/_5Teer_RapidStrikeupdate
+  3.asset
+- Assets/Prefab/UI/MainMenu/TabIcon.prefab
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_1sena/_sena_base.asset
+- Assets/Military/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPGlobalSettings.asset
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 5.asset
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_2Garuda_tacktical/_2Garuda_tacktical_2.asset
+- Assets/Military/Texture/Bottom/T_Military_Pants2_ao.png
+- Assets/Military/Texture/Equip/T_Military_Backpack1_color_skin4.png
+- Assets/Military/Materials URP/URP_FPS_Hands1_Skin2.mat
+- Assets/Military/Prefab/HDRP/Environment_HDRP.prefab
+- Assets/Prefab/Snipers/Recon_B_PreSet.prefab
+- Assets/Military/Texture/Bottom/T_Military_Boots2_metalness.png
+- Assets/Military/Basemesh/Separated/SK_Military_Cap2.fbx
+- Assets/Military/Texture/Bottom/T_Military_Boots1_rough.png
+- Assets/Military/Materials/Gloves1_Skin1.mat
+- Assets/Military/Materials/Pants1_Skin1.mat
+- Assets/Military/Texture/Bottom/T_Military_Pants3_Skin2_color.png
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 24.asset
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_4Bhima Anti-Mat/_4Bhima Anti-Matupdate
+  3.asset
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_1sena/_sena_update 3.asset
+- Assets/Military/Texture/Weapon/T_Military_Rifle1_color_skin4.png
+- Assets/Military/Materials/Cap1_Skin4.mat
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_2Garuda_tacktical/_2Garuda_tacktical_update
+  4.asset
+- Assets/Military/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsHDRPVolumeProfile.asset
+- Assets/Military/Texture/Equip/T_Military_Pouches1_rough.png
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_5Teer_RapidStrike/_5Teer_RapidStrikeupdate
+  2.asset
+- Assets/Military/Materials/Boots3_Skin1.mat
+- Assets/Military/Texture/Body/T_Military_Hands1_color_skin1.png
+- Assets/Military/Materials URP/URP_Pouches1_Skin2.mat
+- Assets/Military/Animations/URP_Ready_made (4).controller
+- Assets/Military/Texture/Top/T_Military_Shirt2_ao.png
+- Assets/Military/Materials/Boots3_Skin3.mat
+- Assets/Military/Materials/Shirt2_Skin1.mat
+- Assets/Scenes/MainGameplay/NavMesh-NacmeshSurface.asset
+- Assets/Military/Materials URP/URP_Pants1_Skin2.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots1_nmap.png
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_6DhanushLongShot/_6DhanushLongShotUpdate
+  2.asset
+- Assets/Military/Materials URP/URP_Cap1_Skin2.mat
+- Assets/Mesh/textures/Extinguisher_metallic.jpeg
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_3Nishabd Covert/_3Nishabd Covertupdate
+  3.asset
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 22.asset
+- Assets/Military/Texture/Top/T_Military_Shirt3_rough.png
+- Assets/Military/Materials URP/URP_Pants3_Skin2.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 2.asset
+- Assets/Military/Texture/Bottom/T_Military_Pants3_Skin1_color.png
+- Assets/Military/Materials/Gasmask1_Skin3.mat
+- Assets/Military/Materials/Cap1_Skin1.mat
+- Assets/Military/Texture/Top/T_Military_Caps1_Skin2_color.png
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 16.asset
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_5Teer_RapidStrike/_5Teer_RapidStrikebase.asset
+- Assets/Military/Basemesh/Separated/SK_Military_Cap1_Rotated.fbx
+- Assets/Military/Materials URP/URP_Pants1_Skin3.mat
+- Assets/Military/Texture/Weapon/T_Military_Rifle2_nmap.png
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N_Land.anim.fbx
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 8.asset
+- Assets/Military/Prefab/HDRP/HDRP_Ready-made.prefab
+- Assets/Military/Texture/Equip/T_Military_Vest1_ao.png
+- Assets/Military/Texture/Top/T_Military_Caps1_Skin1_color.png
+- Assets/Military/Texture/Top/T_Military_Shirt3_metalness.png
+- Assets/Military/Texture/Equip/T_Military_Gloves1_color_skin2.png
+- Assets/Military/Texture/Body/T_Military_Hands1_rough.png
+- Assets/Animations/Car/Run With Item.fbx
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 28.asset
+- Assets/Military/StarterAssets/Readme.asset
+- Assets/Military/Basemesh/Separated/FPS/SK_Miliary_FPS_Arms_Gloves1.fbx
+- Assets/Military/Texture/Body/T_Military_Gasmask1_color_skin2.png
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 11.asset
+- Assets/Military/Materials/Pants3_Skin3.mat
+- Assets/Mesh/fireextinguisher.fbx
+- Assets/Military/Texture/Equip/T_Military_Vest1_Skin2_color.png
+- Assets/Military/Texture/Equip/T_Military_Gloves1_ao.png
+- Assets/Military/Texture/Equip/T_Military_Backpack1_color_skin1.png
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 7.asset
+- Assets/Military/Basemesh/Separated/SK_Military_Cap1.fbx
+- Assets/Military/Texture/Bottom/T_Military_Pants2_color_skin3.png
+- Assets/Military/StarterAssets/Environment/Art/Materials/GridWhite_01_Mat.mat
+- Assets/Military/StarterAssets/Environment/Art/Models/Wall_Mesh.fbx
+- Assets/Animations/Aim/Jumping.fbx
+- Assets/Military/Texture/Body/T_Military_Head1_rough.png
+- Assets/Animations/Image.controller
+- Assets/Military/Materials/Shirt2_Skin2.mat
+- Assets/Military/Basemesh/Separated/SK_Military_Pants3.fbx
+- Assets/Military/Texture/Bottom/T_Military_Boots3_metalness.png
+- Assets/Mesh/textures/internal_ground_ao_texture.jpeg
+- Assets/Military/Materials/Gasmask1_Skin1.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 9.asset
+- Assets/Military/Texture/Weapon/T_Military_Rifle3_color_skin2.png
+- Assets/Mesh/textures/Extinguisher_normal.jpeg
+- Assets/Military/StarterAssets/Environment/Art/Skybox/SkyboxLiteWarm.mat
+- Assets/Material/CameraScope.renderTexture
+Dependencies:
+- /Users/funwave1/Desktop/SniperAssetBundles/Android/character_assets
+- /Users/funwave1/Desktop/SniperAssetBundles/Android/environment_highlands
+- /Users/funwave1/Desktop/SniperAssetBundles/Android/environment_polygon
+- /Users/funwave1/Desktop/SniperAssetBundles/Android/gameplay_fx
+- /Users/funwave1/Desktop/SniperAssetBundles/Android/sniper_core
+- /Users/funwave1/Desktop/SniperAssetBundles/Android/ui_assets
+- /Users/funwave1/Desktop/SniperAssetBundles/Android/unifiedraytracing
+- /Users/funwave1/Desktop/SniperAssetBundles/Android/weapons_pack
