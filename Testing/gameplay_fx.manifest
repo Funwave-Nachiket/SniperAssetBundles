@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.11f1
-CRC: 2289251294
+CRC: 4224149457
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 196dbc055114f6f707ed506d48a70e2c
+    Hash: a07a4d63bba3d509aae8313e1ec54a05
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1c375a1afdad242ea7b13dd9191a104e
@@ -1202,4 +1202,4 @@ Assets:
 - Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/SparkleArea/SparkleAreaGreen.prefab
 - Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NukeVerticalExplosion/NukeVerticalExplosionPink.prefab
 Dependencies:
-- /Users/funwave1/Desktop/SniperAssetBundles/Android/fx_magic
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/fx_magic

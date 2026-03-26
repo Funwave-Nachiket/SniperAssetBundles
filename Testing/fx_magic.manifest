@@ -1,10 +1,10 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.11f1
-CRC: 1120804443
+CRC: 2376568787
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f44c6fb770c04ad4320b916083e89d09
+    Hash: 09ec52bec786044ea07f0d79ec022a13
   TypeTreeHash:
     serializedVersion: 2
     Hash: b6652e38ca8bf68add5b0025329fc216
@@ -220,4 +220,4 @@ Assets:
 - Assets/FX/Hovl Studio/Magic effects pack/Prefabs/Sparks/Sparks explode pink.prefab
 - Assets/FX/Hovl Studio/Magic effects pack/Textures/CrystalFree1.png
 Dependencies:
-- /Users/funwave1/Desktop/SniperAssetBundles/Android/gameplay_fx
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/gameplay_fx

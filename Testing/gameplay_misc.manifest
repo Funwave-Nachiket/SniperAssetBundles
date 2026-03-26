@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.11f1
-CRC: 1217071567
+CRC: 1587163221
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 2bc33fffff1c03550261e0e1095c44f5
+    Hash: 65fb620cf4e4622f0edd1bedd3c4eca1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4a944d0b11f10ed3f6db098483c88b27
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 566917e6d47f5c7ed87db9070f35863f
+    Hash: 4dfb88b72fcb35da4a029bd4283f3e62
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1078,11 +1078,11 @@ Assets:
 - Assets/Military/StarterAssets/Environment/Art/Skybox/SkyboxLiteWarm.mat
 - Assets/Material/CameraScope.renderTexture
 Dependencies:
-- /Users/funwave1/Desktop/SniperAssetBundles/Android/character_assets
-- /Users/funwave1/Desktop/SniperAssetBundles/Android/environment_highlands
-- /Users/funwave1/Desktop/SniperAssetBundles/Android/environment_polygon
-- /Users/funwave1/Desktop/SniperAssetBundles/Android/gameplay_fx
-- /Users/funwave1/Desktop/SniperAssetBundles/Android/sniper_core
-- /Users/funwave1/Desktop/SniperAssetBundles/Android/ui_assets
-- /Users/funwave1/Desktop/SniperAssetBundles/Android/unifiedraytracing
-- /Users/funwave1/Desktop/SniperAssetBundles/Android/weapons_pack
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/character_assets
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/environment_highlands
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/environment_polygon
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/gameplay_fx
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/sniper_core
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/ui_assets
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/unifiedraytracing
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/weapons_pack
