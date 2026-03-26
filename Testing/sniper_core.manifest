@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.11f1
-CRC: 2218729202
+CRC: 3524832884
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 57ce803f4a7ed1a73a4600947f8b46a7
+    Hash: 6628da9fc2e7ef276cf51756e57c2219
   TypeTreeHash:
     serializedVersion: 2
     Hash: aa282b78f9563bd6c152bdec22a116f8
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: d460f69b34af1bf56832058bb425ae8b
+    Hash: d29a9a0f7b3cedccf99241352e713306
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -488,4 +488,4 @@ Assets:
   Reload.anim
 - Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Tent/TentCamo.png
 Dependencies:
-- /Users/funwave1/Desktop/SniperAssetBundles/Testing/gameplay_misc
+- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/gameplay_misc
