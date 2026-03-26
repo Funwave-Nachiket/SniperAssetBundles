@@ -1,0 +1,491 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.11f1
+CRC: 1044006946
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 1caf31b9bfcfbb1364bb1904d3bb56e5
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: aa282b78f9563bd6c152bdec22a116f8
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 273240f4e0dbb1f1e1d34213a788d9e5
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 20
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 54
+  Script: {instanceID: 0}
+- Class: 59
+  Script: {instanceID: 0}
+- Class: 64
+  Script: {instanceID: 0}
+- Class: 65
+  Script: {instanceID: 0}
+- Class: 74
+  Script: {instanceID: 0}
+- Class: 81
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 84
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 91
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 96
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: baaf0565473334611a1168e7292af14e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e37e6a9a722e344a7b2f2f70166e975a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 61dc8ba04e1ad5d40af2dbc451e9b140, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 97581daf7ab1f48449bebf8845db9251, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b0668ff620c66644c9e7186c984320c2, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fc04eded0592d4145b34047310311721, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a1d3a0497d010f9468823fbeca9b3fa7, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 793b9141979b40142b710e8788f8190a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d74d08ea8285059419c0cfbcf4bedddf, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: c25038e951bf4894fbae7934d8e824e8, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 9c7d50f2f1b1c7149b5a19695ec64eda, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 1c92dcc0663d3c8408a6eb0be362e0a9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 717b3eefe58c812408ac9a8406395c4b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fda1e05b20502ea4f819030884fb988f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ea559fd31a0fccb46ba33415ef2baa8a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 799991b4d32283e43b62bb1b3876aec1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 532ba84d74760c749ab7afc679b3e271, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 6ce32deeb175882408009cbecaa5102a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 3fe22f2023a34a54ba862c4e4d050011, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ede2191aa3ab63f41af6262fa74511df, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f7b1c419a7187154b960572ddbb43188, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: eb9426afc4813db4fae3e4e02d750120, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ff5a8987b67c05a4b8de195dceb29f6a, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 303087fd20ac76f448794caca3b8003d, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d65195ab7ae737a4e88370987607cac9, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2ce773311c289e54a8f19cc9bfa26ae3, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8df4ade84f717cd44a874b0be1f2ad29, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 99c91316f0694834593b894cb50a743e, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 926253b8618684d01b1ab90c518744d5, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 68bb026fafb42b14791938953eaace77, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 72ece51f2901e7445ab60da3685d6b5f, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: f9dfa5b682dcd46bda6128250e975f58, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: b7f59e54f2bfd184b9dd451a678d089b, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: d0b148fe25e99eb48b9724523833bab1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: a79441f348de89743a2939f4d699eac1, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 0cd44c1031e13a943bb63640046fad76, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: dc42784cf147c0c48a680349fa168899, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: fe87c0e1cc204ed48ad3b37840f39efc, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: e19747de3f5aca642ab2be37e372fb86, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 120
+  Script: {instanceID: 0}
+- Class: 124
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 135
+  Script: {instanceID: 0}
+- Class: 136
+  Script: {instanceID: 0}
+- Class: 137
+  Script: {instanceID: 0}
+- Class: 138
+  Script: {instanceID: 0}
+- Class: 143
+  Script: {instanceID: 0}
+- Class: 144
+  Script: {instanceID: 0}
+- Class: 154
+  Script: {instanceID: 0}
+- Class: 156
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 212
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+- Class: 218
+  Script: {instanceID: 0}
+- Class: 222
+  Script: {instanceID: 0}
+- Class: 223
+  Script: {instanceID: 0}
+- Class: 224
+  Script: {instanceID: 0}
+- Class: 225
+  Script: {instanceID: 0}
+- Class: 1953259897
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: RSBRuntime
+  ClassName: IE.RSB.BulletTimeCameraDefault/CameraEffect
+- AssemblyName: RSBRuntime
+  ClassName: IE.RSB.BulletTimeCameraDefault/CameraEffectStage
+- AssemblyName: RSBRuntime
+  ClassName: IE.RSB.DynamicScopeSystem/ZoomLevel
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.CameraTarget
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.CinemachineBlendDefinition
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.CinemachineBrain/LensModeOverrideSettings
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.LensSettings
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.LensSettings/PhysicalSettings
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.NoiseSettings/NoiseParams
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.NoiseSettings/TransformNoiseParams
+- AssemblyName: Unity.Cinemachine
+  ClassName: Unity.Cinemachine.PrioritySettings
+- AssemblyName: Unity.RenderPipelines.Universal.Runtime
+  ClassName: UnityEngine.Rendering.Universal.TemporalAA/Settings
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.ArgumentCache
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentCallGroup
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.PersistentListenerMode
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.Events.UnityEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/Entry
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.EventSystems.EventTrigger/TriggerEvent
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.FontData
+- AssemblyName: UnityEngine.UI
+  ClassName: UnityEngine.UI.MaskableGraphic/CullStateChangedEvent
+Assets:
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Dynamic Target/Man Silhoutte.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Bullet/BulletCasing.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/SniperRifleFire.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Scope_Base.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Penetration Target/Materials/Target_Iron.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Scope/Materials/Knob_Plastic.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Table/Table.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Hands/Hands_Body_Roughness.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Scope/Materials/Tube_Back.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Sniper Rifle/snipercolor.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sniper Rifle/Reload Bolt.anim
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/StationaryTarget/Target_Chains.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Crate/Crate.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/System Prefabs/Bullet Time - Camera
+  Default Presets.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Footstep_4.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Sniper Rifle/SniperRifle.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Penetration Target/Wood.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Animations/Wind Indicator - Extreme
+  Wind Text.anim
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Penetration Target/WoodAO.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Bullet Tracer/shcokwave.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Demo Scenes/BulletProperty.asset
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Penetration Target/PenetrationTarget_Wood.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Bullet Tracer/Bullet
+  Tracer.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Tent/Tent.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Stationary Target/Stationary
+  Target.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Ricochet Target/RicochetTarget_Steel.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Ricochet Target/Materials/Iron_basecolor.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Hands/Hands_Hands_Roughness.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Demo Enemy/Demo Enemy.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Bullet/Bullet.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/Materials/main.002.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/System Prefabs/Player With Weapon.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/Materials/main.001.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Demo Enemy/Guy.controller
+- Assets/InanEvin/Realistic Sniper and Ballistics/System Prefabs/Bullet Time - Bullet.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/System Prefabs/Sniper and Ballistics
+  System.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Animations/Wind Up Vector Indicator.controller
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sniper Rifle/SniperRifleWithHands.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Crate/Materials/Box_Mat.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/DirtImpact.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Demo Scenes/DemoBulletProperty.asset
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Bullet Tracer/Tracer.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Tent/TentCamo.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Ricochet Target/Materials/Target_Iron.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Particles/Hit Effect Wood.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Hands/Hands_Body_Normal.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Bullet/Materials/BulletCasing.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Tent/Materials/Steel.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Terrain/Rock.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/M4 Rifle/Rifle_main.002.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Table/Table.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Penetration Target/PenetrationTarget_Steel.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Penetration Target/PenetrationTargetWoodDeflective.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Scope/Tube_Back.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Bullet Tracer/Bullet
+  Tracer Trail 1.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/M4 Rifle/Rifle_main.003.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Animations/Extreme Wind Notification.controller
+- Assets/Settings/breathNoise.asset
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Dynamic Target/Materials/Man
+  Silhoutte.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Animations/Sniper Rifle - Idle.anim
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/transparentBand.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/src/Editor/Images/rsb_cover_img.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/MinimalDemoCube.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Particles/Hit Effect Metal.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Mag Insert.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Demo Enemy/Enemy-Idle.anim
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Terrain/Dirt2.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Dynamic Target/Target.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sniper Rifle/Materials/FPS-Arms_Body_BaseColor_Alt.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/StationaryTarget/Target_Inner.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Dynamic Target/Target.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Tent/Materials/TentCamo.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Dynamic Target/Dynamic
+  Target - Move.anim
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Dynamic Target/Steel.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Sniper Bolt.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Scope/Knob_Plastic.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Hands/Hands_Hands_Normal.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Penetration Target/PenetrationTarget.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Bullet/BulletN.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sniper Rifle/SniperRifleWithHands.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sniper Rifle/Materials/Material.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Swoosh2.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Stationary Target/Target_IronN.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Crate/CrateN.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Crate/Crate.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Mag Eject.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Penetration Target/PenetrationTarget_Concrete.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Ricochet Target/RicochetTarget.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sniper Rifle/SniperRifleWithHands.controller
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Penetration Target/PenetrationTarget_Metal.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Animations/Sniper Rifle.controller
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Iron-Steel/Iron_roughness.png
+- Assets/InanEvin/Distorion.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Terrain/DirtN.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Bullet/Bullet.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/M4 Rifle/Rifle_main.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/BulletTimeOut.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Penetration Target/PenetrationTargetMetal.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/System Prefabs/CANVAS - Dynamic
+  Scope System.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Footstep_1.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Swoosh1.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/TrajectoryRenderer/Bullet
+  Trajectory Renderer.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/Materials/Material.001.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Sandbags/Sandbags.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Table/Materials/Table.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/Materials/handle.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Footstep_7.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Tent/Steel.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Particles/Muzzle Flash
+  Glow.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Dynamic Target/ConcreteRail.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sandbags/Sandbags.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Dirt.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Scope/Materials/Tube_Front.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Ricochet Target/Ricochet_Target.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Particles/Hit Effect
+  Debris.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/StationaryTarget/Target_ChainSupport.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Terrain/RockN.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Dynamic Target/Materials/Target.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Tent/TentN.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Ricochet Target/RicochetTarget.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Hands/Hands_Hands.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/M4 Rifle/Rifle_Material.001.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Scope/Materials/Screw.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Dynamic Target/Dynamic
+  Target.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/M4 Rifle/Rifle_handle.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Bullet/Bullet.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Scope/Screw.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Bullet/BulletCasingN.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Particles/Hit Effect Dirt.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Terrain.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Animations/Wind Indicator - Up
+  Vector Idle Anim.anim
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Penetration Target/PenetrationTargetWood.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/HoldBreath.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/Materials/main.003.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Table/Table.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Bullet/BulletCasing.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/bulletDecal.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Iron-Steel/Iron_basecolor.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Sandbags/SandbagsN.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Footstep_3.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Table/Table.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Crate/Crate.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Trajectory Renderer/Bullet
+  Trajectory Renderer.prefab
+- Assets/InanEvin/conefbx.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Iron-Steel/Target_Iron.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/Materials/Material.002.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/M416.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sniper Rifle/Idle.anim
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/M4 Rifle/Rifle_screw.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Sniper Rifle/sniperspecular.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/StationaryTarget/Target_Support.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Skybox/Demo Skybox.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Hands/Hands_Hands_Base.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sandbags/Sandbags.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Demo Enemy/Materials/default.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/BodyImpact.ogg
+- Assets/Shader/bulletWake.shader
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Particles/Hit Efffect Body.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/windUpIndicator.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Animations/Camera - Bolt Reload.anim
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/zeroDistanceIcon.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/M4 Rifle/Rifle_magazine.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/BulletFly.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Stationary Target/Target_Iron_Rect.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/System Prefabs/CANVAS - Crosshair
+  & Ammo.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Dynamic Target/Materials/Concrete.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Crate/Crate.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Particles/Hit Effect
+  Splinters.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sniper Rifle/Materials/FPS-Arms_Hands_BaseColor_Alt.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Bullet/Bullet Shell.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Dynamic Target/Concrete.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/System Prefabs/Player Without Weapon.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/Materials/main.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Sniper Rifle/sniperNormal.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Demo Enemy/Guy.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/windDirectionIcon.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Stationary Target/Materials/No
+  Name.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Iron-Steel/Iron_metallic.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Footstep_2.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Particles/Hit Effect
+  Smoke.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Dynamic Target/Dynamic
+  Target.controller
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Tent/Tent.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/Materials/magazine.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Hands/Hands_Body_Base.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Metal Hit.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Scope/Lens_02.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Bullet Tracer/Bullet
+  Tracer Trail.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Terrain/Dirt2N.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/StationaryTarget/Target_Outer.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Penetration Target/Materials/Wood.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Scope/Tube_Front.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Scope/Lens_01.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Dynamic Target/Wheels.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Particles/Spark.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Tent/Tent.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Particles/Muzzle Flash
+  Sparks.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Ricochet Target/Materials/Iron_Target.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/M416.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Particles/Spark2.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Ricochet Target/RicochetTarget_Base.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Particles/Muzzle Flash.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Terrain/Terrain.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Iron-Steel/Iron_normal.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Bullet/Materials/Bullet.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Dynamic Target/Target.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sandbags/Materials/Sandbags.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Sniper Empty Clip.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Ricochet Target/RicochetTarget_Concrete.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Dynamic Target/Materials/Wheels.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Penetration Target/WoodN.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/scope_Base_Reticle.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Demo Enemy/Demo Enemy.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/System Prefabs/CANVAS - Mobile
+  Controls.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/M4 Rifle/Rifle_Material.002.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/mobileJoystickBase.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Penetration Target/PenetrationTargetSteel.prefab
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Dynamic Target/Materials/Steel.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Footstep_6.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Sandbags/Sandbags.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Particles/Smoke.tga
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/M4 Rifle/Materials/screw.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Dynamic Target/Man Silhoutte.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Scope/Scope.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sniper Rifle/Reload Mag.anim
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Bullet/Bullet.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Scope/Materials/Lens_01.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Stationary Target/Target
+  Circle.fbx
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Table/TableN.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/BulletTimeIn.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Animations/Camera Animator.controller
+- Assets/InanEvin/Realistic Sniper and Ballistics/Audio/Footstep_5.ogg
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/mobileJoystickHandle.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Terrain/Dirt.png
+- Assets/InanEvin/Realistic Sniper and Ballistics/Objects/Sniper Rifle/Materials/snipercolor.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Demo Scenes/DemoEnvironmentProperty.asset
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/Hands/Hands_Body.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Materials/M4 Rifle/Rifle_main.001.mat
+- Assets/InanEvin/Realistic Sniper and Ballistics/Animations/Sniper Rifle - Bolt
+  Reload.anim
+- Assets/InanEvin/Realistic Sniper and Ballistics/Textures/Tent/TentCamo.png
+Dependencies:
+- /Users/funwave1/Desktop/SniperAssetBundles/OSX/gameplay_misc
