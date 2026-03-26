@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.11f1
-CRC: 2455717119
+CRC: 1587163221
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 80d1cc1d23d4cd4b8f97acdde31fd7b2
+    Hash: 65fb620cf4e4622f0edd1bedd3c4eca1
   TypeTreeHash:
     serializedVersion: 2
     Hash: 4a944d0b11f10ed3f6db098483c88b27
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1f16a505687fcf56a93c6cf5a74ccd29
+    Hash: 4dfb88b72fcb35da4a029bd4283f3e62
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1078,11 +1078,11 @@ Assets:
 - Assets/Military/StarterAssets/Environment/Art/Skybox/SkyboxLiteWarm.mat
 - Assets/Material/CameraScope.renderTexture
 Dependencies:
-- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/character_assets
-- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/environment_highlands
-- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/environment_polygon
-- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/gameplay_fx
-- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/sniper_core
-- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/ui_assets
-- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/unifiedraytracing
-- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/weapons_pack
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/character_assets
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/environment_highlands
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/environment_polygon
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/gameplay_fx
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/sniper_core
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/ui_assets
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/unifiedraytracing
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/weapons_pack

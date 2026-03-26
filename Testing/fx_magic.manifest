@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.11f1
-CRC: 2288292701
+CRC: 2376568787
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: e6751010b1889dc8e39db9b8cee799b8
+    Hash: 09ec52bec786044ea07f0d79ec022a13
   TypeTreeHash:
     serializedVersion: 2
     Hash: b6652e38ca8bf68add5b0025329fc216
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 727d6cc1418e9049765ca254f2490935
+    Hash: 28797a0dc268b8c9243921431c714851
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -220,4 +220,4 @@ Assets:
 - Assets/FX/Hovl Studio/Magic effects pack/Prefabs/Sparks/Sparks explode pink.prefab
 - Assets/FX/Hovl Studio/Magic effects pack/Textures/CrystalFree1.png
 Dependencies:
-- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/gameplay_fx
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/gameplay_fx

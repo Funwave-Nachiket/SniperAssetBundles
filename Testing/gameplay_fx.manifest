@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.11f1
-CRC: 596606885
+CRC: 4224149457
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: dd73fb8476b6d09a0cbd94dba8a0dbd8
+    Hash: a07a4d63bba3d509aae8313e1ec54a05
   TypeTreeHash:
     serializedVersion: 2
     Hash: 1c375a1afdad242ea7b13dd9191a104e
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 350c786b5108ed5470c757c6b59b17e3
+    Hash: e53b698f2120d2e74d9418565ad55a94
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -1202,4 +1202,4 @@ Assets:
 - Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/SparkleArea/SparkleAreaGreen.prefab
 - Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NukeVerticalExplosion/NukeVerticalExplosionPink.prefab
 Dependencies:
-- /Users/funwave1/Desktop/SILENT-SHOOTER-INDIA/AssetBundles/Testing/fx_magic
+- /Users/funwave1/Desktop/SniperAssetBundles/Testing/fx_magic
