@@ -1,0 +1,419 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.11f1
+CRC: 2327030958
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: e7b726827fdd0ff42c3a9a7d9d1eed69
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 93fd7b396c173e2377e0ac3789444119
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 4527a6bb0b6e35a8fbd31e5d56e35d7f
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 850595691
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/SMG Weapons/SMG_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/ShotGun Weapons/ShotGun_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics_Recon/Optic_Recon_F.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lights/Light_D_Left.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Materials/Low Poly Weapon_TYPE_A.mat
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_F.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_F.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/DMR Weapons/DMR_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Materials/Low Poly Weapon.mat
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets/Bullet_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics_Pistol/Optic_Pistol_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Pistol Weapons/Pistol_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_SMG/Bullet_SMG_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/LMG Weapons/LMG_B_2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Suppressor_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_A_2.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics_Recon/Optic_Recon_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/DMR Weapons/DMR_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Rails/Rail_Right.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_ShotGun/Bullet_ShotGun_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_F.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_Pistol/Muzzle_Pistol_Suppressor_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Materials/Low Poly Lens.mat
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Materials/Low Poly Weapon Emission.mat
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lights/Light_A_Left.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/SMG Weapons/SMG_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Suppressor_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/DMR Weapons/DMR_PreSet/DMR_A_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/DMR Weapons/DMR_PreSet/DMR_B_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_C_2_Black.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lights/Light_D_Left.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_B_Sand.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Rails/Rail_Up.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lasers/Laser_A_Right.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Recon Weapons/Recon_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Pistol Weapons/Pistol_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_F.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_Pistol/Bullet_Pistol_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_Pistol/Muzzle_Pistol_Flash
+  Hider_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_Pistol/Bullet_Pistol_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Rails/Rail_A_Down_Sand.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Suppressor_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/DMR Weapons/DMR_PreSet/DMR_E_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Rails/Rail_Down.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets/Bullet_Belt.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_PreSet/ShotGun_B_2_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/LMG Weapons/LMG_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics_Recon/Optic_Recon_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Suppressor_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lasers/Laser_D_Left.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lights/Light_D_Right.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/DMR Weapons/DMR_PreSet/DMR_C_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_F.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_C_2_Black.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_C_2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics_Recon/Optic_Recon_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Brake_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_PreSet/SMG_C_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Materials/Plane.mat
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/ShotGun Weapons/ShotGun_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics_Pistol/Optic_Pistol_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Rails/Rail_A_Down_Sand.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics_Recon/Optic_Recon_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lasers/Laser_D_Right.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Device_G.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics_Recon/Optic_Recon_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_K.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_K.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_L.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_L.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_B_2_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_E_2.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_D_2_Sand.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Device_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Suppressor_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Flash
+  Hider_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_I.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lasers/Laser_A_Left.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics_Recon/Optic_Recon_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_H.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_PreSet/LMG_B_2_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/DMR Weapons/DMR_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/ShotGun Weapons/ShotGun_B_2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_G.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics_Recon/Optic_Recon_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/SMG Weapons/SMG_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_Recon/Bullet_Recon_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/Bayonet_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Suppressor_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Flash
+  Hider_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lights/Light_B_Left.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lasers/Laser_B_Left.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_Pistol/Muzzle_Pistol_Suppressor_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_SMG/Bullet_SMG_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_Pistol/Bullet_Pistol_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/SMG Weapons/SMG_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/ShotGun Weapons/ShotGun_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Brake_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Flash
+  Hider_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Recon Weapons/Recon_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Rails/Rail_A_Up_Sand.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Flash
+  Hider_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_Pistol/Muzzle_Pistol_Brake_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lights/Light_C_Left.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics_Pistol/Optic_Pistol_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Brake_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Pistol Weapons/Pistol_PreSet/Pistol_B_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_I.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_ShotGun/Bullet_ShotGun_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Device_G.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_H.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lasers/Laser_A_Left.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lasers/Laser_B_Right.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_F.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_B_2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lasers/Laser_B_Right.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_ShotGun/Bullet_ShotGun_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Flash
+  Hider_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_H.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_Pistol/Muzzle_Pistol_Suppressor_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lights/Light_A_Right.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_Pistol/Muzzle_Pistol_Brake_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_PreSet/SMG_E_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_PreSet/LMG_E_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/DMR Weapons/DMR_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Pistol Weapons/Pistol_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lights/Light_A_Right.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Brake_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_SMG/Bullet_SMG_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Pistol Weapons/Pistol_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/DMR Weapons/DMR_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_Pistol/Bullet_Pistol_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Scenes/Demo Lighting Settings.lighting
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_PreSet/ShotGun_E_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Rails/Rail_A_Left_Sand.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Flash
+  Hider_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_B_2.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_PreSet/Recon_E_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_PreSet/ShotGun_B_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Rails/Rail_A_Right_Sand.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/DMR Weapons/DMR_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_C_2_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Rails/Rail_Left.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_Pistol/Bullet_Pistol_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_PreSet/Recon_B_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_PreSet/Recon_E_2_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Accessories_Pistol/Light_Pistol_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Flash
+  Hider_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Recon Weapons/Recon_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets/Bullet_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_PreSet/SMG_D_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Pistol Weapons/Pistol_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/ShotGun Weapons/ShotGun_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_PreSet/Recon_D_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/SMG Weapons/SMG_B_2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets/Bullet_Belt.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_PreSet/ShotGun_A_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Brake_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Accessories_Pistol/Laser_Pistol_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_B_2.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Suppressor_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Suppressor_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_D_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_B_2.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Suppresor_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_I_2.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Brake_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Device_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Flash
+  Hider_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lights/Light_B_Left.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_Recon/Bullet_Recon_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lasers/Laser_B_Left.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Device_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Brake_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Suppressor_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_G.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Device_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/DMR Weapons/DMR_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lights/Light_C_Left.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_C_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_ShotGun/Bullet_ShotGun_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_ShotGun/Bullet_ShotGun_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Suppressor_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics_Recon/Optic_Recon_F.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Materials/Low Poly Weapon 1.mat
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_PreSet/LMG_A_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Brake_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets/Bullet_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_Pistol/Bullet_Pistol_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_PreSet/Recon_A_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_C_Sand.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Rails/Rail_Left.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Rails/Rail_Right.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_Recon/Bullet_Recon_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/DMR Weapons/DMR_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Rails/Rail_A_Left_Sand.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Flash
+  Hider_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Brake_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/LMG Weapons/LMG_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics_Pistol/Optic_Pistol_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Rails/Rail_A_Up_Sand.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lasers/Laser_D_Right.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Shoke_A_X2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Shoke_A_X2.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_PreSet/SMG_B_2_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Pistol Weapons/Pistol_PreSet/Pistol_A_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_D_2_Sand.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Rails/Rail_Up.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics_Recon/Optic_Recon_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_PreSet/ShotGun_C_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Suppressor_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Suppressor_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lights/Light_B_Right.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Rails/Rail_Down.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Textures/Low Poly Weapon.png
+- Assets/Low Poly Weapon Bundle Pack 1/Materials/images.jpeg
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Suppresor_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics_Recon/Optic_Recon_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Pistol Weapons/Pistol_PreSet/Pistol_E_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_C_Black.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Flash
+  Hider_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Brake_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lights/Light_C_Right.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Suppressor_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Pistol Weapons/Pistol_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/Bayonet_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lights/Light_B_Right.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_J.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_I.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_D_2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Flash
+  Hider_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lights/Light_A_Left.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lights/Light_D_Right.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_H.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lasers/Laser_C_Right.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_E_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lasers/Laser_C_Right.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/DMR Weapons/DMR_PreSet/DMR_D_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_C_2_Black_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/LMG Weapons/LMG_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_A_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lasers/Laser_A_Right.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lasers/Laser_D_Left.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Textures/Low Poly Weapon copy.psd
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Pistol Weapons/Pistol_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_G.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_Recon/Bullet_Recon_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets/Bullet_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics_Recon/Optic_Recon_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_L_2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Flash
+  Hider_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics_Pistol/Optic_Pistol_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_A_2_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Recon Weapons/Recon_E_2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_PreSet/LMG_B_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lasers/Laser_C_Left.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_SMG/Bullet_SMG_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Pistol Weapons/Pistol_PreSet/Pistol_D_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_B_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_C_Black_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/AR Weapons/AR_A_2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_A_Sand.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Rails/Rail_A_Right_Sand.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_A_Sand.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Shoke_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_PreSet/AR_F_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_Pistol/Muzzle_Pistol_Suppressor_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_I_2.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Recon Weapons/Recon_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Pistol Weapons/Pistol_PreSet/Pistol_C_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_D_Sand.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_PreSet/Recon_C_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Flash
+  Hider_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_J.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_SMG/Bullet_SMG_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_C_Sand.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_SMG/Bullet_SMG_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_PreSet/SMG_B_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/DMR Weapons/DMR_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Recon Weapons/Recon_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_Recon/Bullet_Recon_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/LMG Weapons/LMG_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/SMG Weapons/SMG_E.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Recon Weapons/gun.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/DMR Weapons/DMR_C.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_G.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_I.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_PreSet/LMG_C_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets/Bullet_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_ShotGun/Muzzle_ShotGun_Shoke_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles/Muzzle_Flash
+  Hider_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Recon Weapons/Recon_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Optics/Optics/Optic_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Lights/Light_C_Right.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_B_Sand.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_E.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Accessories_Pistol/Laser_Pistol_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles/Muzzle_Suppressor_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_Pistol/Muzzle_Pistol_Flash
+  Hider_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/SMG Weapons/SMG_PreSet/SMG_A_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_D_Sand.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/ShotGun Weapons/ShotGun_C.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Accessories/Accessories_Pistol/Light_Pistol_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/Pistol Weapons/Pistol_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Brake_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_C_Black.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_C_2.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets_Recon/Bullet_Recon_B.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Accessories/Lasers/Laser_C_Left.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Bullets/Bullets_ShotGun/Bullet_ShotGun_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/ShotGun Weapons/ShotGun_PreSet/ShotGun_D_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Pistol Weapons/Pistol_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Bullets/Bullets/Bullet_A.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Muzzles/Muzzles_Recon/Muzzle_Recon_Brake_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_PreSet/LMG_D_PreSet.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics_Pistol/Optic_Pistol_A.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/Optics/Optics/Optic_L_2.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/LMG Weapons/LMG_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Weapons/Pistol Weapons/Pistol_D.fbx
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/LMG Weapons/LMG_D.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Attachments/UnderBarrels/ForwardGrip_D_2.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Prefabs/Weapons/AR Weapons/AR_B.prefab
+- Assets/Low Poly Weapon Bundle Pack 1/Models/Attachments/UnderBarrels/ForwardGrip_D.fbx
+Dependencies: []

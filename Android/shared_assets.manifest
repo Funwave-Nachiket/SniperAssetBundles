@@ -1,0 +1,65 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.11f1
+CRC: 1856768772
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: b8e4f88f9c995a9c3c8ce45d8115b2db
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: db1571c5055d93407c8f9b96229eba91
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: c406c18c0b2dea3691aedb410cd8e465
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers: []
+Assets:
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-Rules.mat
+- Assets/EnvironmentTemplate/Materials/Metal_1.mat
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/FirstAidKit_texture_v1_2.png
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/wood1.jpg
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-Wood.mat
+- Assets/EnvironmentTemplate/Materials/SR_T_2.mat
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-Metal_1.mat
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-Danger.mat
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-Metal_2.mat
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/198.JPG
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/Plant_Alpha.png
+- Assets/EnvironmentTemplate/Materials/Rules.mat
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-Plant_mat.mat
+- Assets/EnvironmentTemplate/Materials/Metal_2.mat
+- Assets/EnvironmentTemplate/Materials/SR_T_1.mat
+- Assets/EnvironmentTemplate/Materials/Plant_mat.mat
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/DANGER.jpg
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-SR_T_1.mat
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-Grass.mat
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-FirstAidTexture.mat
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-Trashcan_1.mat
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/pattern_05_diffus.png
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-SR_T_2.mat
+- Assets/EnvironmentTemplate/Materials/Wood.mat
+- Assets/EnvironmentTemplate/Materials/Danger.mat
+- Assets/EnvironmentTemplate/Materials/Trashcan_1.mat
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/sofa_1.jpeg
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/199.JPG
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/pattern_214_diffuse.png
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-ArmyCrateTex.mat
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/grass_ground_d.jpg
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/SR_target_1.png
+- Assets/EnvironmentTemplate/Materials/uploads_files_2091983_ShootingRangePack-PlantVase_side.mat
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/SR_target_2.png
+- Assets/EnvironmentTemplate/Materials/ArmyCrateTex.mat
+- Assets/EnvironmentTemplate/Materials/FirstAidTexture.mat
+- Assets/EnvironmentTemplate/Materials/Grass.mat
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/rules.jpg
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/Box.png
+- Assets/EnvironmentTemplate/Materials/PlantVase_side.mat
+- Assets/EnvironmentTemplate/uploads_files_2091983_textures/grating_05.jpg
+Dependencies: []
