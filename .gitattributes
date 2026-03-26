@@ -1,11 +1,47 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+
+# Android bundles
 Android/maingameplay filter=lfs diff=lfs merge=lfs -text
+Android/sniper_core filter=lfs diff=lfs merge=lfs -text
+Android/ui_assets filter=lfs diff=lfs merge=lfs -text
+Android/character_assets filter=lfs diff=lfs merge=lfs -text
+Android/gameplay_fx filter=lfs diff=lfs merge=lfs -text
+Android/gameplay_misc filter=lfs diff=lfs merge=lfs -text
+Android/environment_highlands filter=lfs diff=lfs merge=lfs -text
+Android/environment_polygon filter=lfs diff=lfs merge=lfs -text
+Android/weapons_pack filter=lfs diff=lfs merge=lfs -text
+Android/fx_magic filter=lfs diff=lfs merge=lfs -text
+Android/shared_assets filter=lfs diff=lfs merge=lfs -text
+Android/level_* filter=lfs diff=lfs merge=lfs -text
+
+# iOS bundles
 iOS/maingameplay filter=lfs diff=lfs merge=lfs -text
-OSX/maingameplay filter=lfs diff=lfs merge=lfs -text
+iOS/sniper_core filter=lfs diff=lfs merge=lfs -text
+iOS/ui_assets filter=lfs diff=lfs merge=lfs -text
+iOS/character_assets filter=lfs diff=lfs merge=lfs -text
+iOS/gameplay_fx filter=lfs diff=lfs merge=lfs -text
+iOS/gameplay_misc filter=lfs diff=lfs merge=lfs -text
+iOS/environment_highlands filter=lfs diff=lfs merge=lfs -text
+iOS/environment_polygon filter=lfs diff=lfs merge=lfs -text
+iOS/weapons_pack filter=lfs diff=lfs merge=lfs -text
+iOS/fx_magic filter=lfs diff=lfs merge=lfs -text
+iOS/shared_assets filter=lfs diff=lfs merge=lfs -text
+iOS/level_* filter=lfs diff=lfs merge=lfs -text
+
+# Testing bundles
 Testing/Android filter=lfs diff=lfs merge=lfs -text
 Testing/maingameplay filter=lfs diff=lfs merge=lfs -text
 Testing/maingameplay_base filter=lfs diff=lfs merge=lfs -text
+Testing/sniper_core filter=lfs diff=lfs merge=lfs -text
+Testing/ui_assets filter=lfs diff=lfs merge=lfs -text
+Testing/character_assets filter=lfs diff=lfs merge=lfs -text
+Testing/gameplay_fx filter=lfs diff=lfs merge=lfs -text
+Testing/gameplay_misc filter=lfs diff=lfs merge=lfs -text
+Testing/environment_highlands filter=lfs diff=lfs merge=lfs -text
+Testing/environment_polygon filter=lfs diff=lfs merge=lfs -text
+Testing/weapons_pack filter=lfs diff=lfs merge=lfs -text
+Testing/fx_magic filter=lfs diff=lfs merge=lfs -text
 Testing/shared_assets filter=lfs diff=lfs merge=lfs -text
 Testing/unifiedraytracing filter=lfs diff=lfs merge=lfs -text
 Testing/level_* filter=lfs diff=lfs merge=lfs -text
