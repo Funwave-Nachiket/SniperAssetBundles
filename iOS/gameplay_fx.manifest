@@ -1,0 +1,1205 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.11f1
+CRC: 3140844485
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: bf108ed2fdaf0f578de8cf740a5d0364
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: 1c375a1afdad242ea7b13dd9191a104e
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 3b9f379d17b182ec54481fc422857ef0
+HashAppended: 0
+ClassTypes:
+- Class: 1
+  Script: {instanceID: 0}
+- Class: 4
+  Script: {instanceID: 0}
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 23
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 33
+  Script: {instanceID: 0}
+- Class: 43
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 82
+  Script: {instanceID: 0}
+- Class: 83
+  Script: {instanceID: 0}
+- Class: 90
+  Script: {instanceID: 0}
+- Class: 95
+  Script: {instanceID: 0}
+- Class: 108
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 8e658bb9434c1490faf3961ba980c3fe, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2f54e17d705a2894d88787e24190ebfa, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 628ef9b0c7e4fd24db54868035e11237, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 7faa64a828219b44cb0eb5bfbfa83524, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 474bcb49853aa07438625e644c072ee6, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 198
+  Script: {instanceID: 0}
+- Class: 199
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: UnityEngine.CoreModule
+  ClassName: UnityEngine.RenderingLayerMask
+Assets:
+- Assets/FX/Epic Toon FX/Models/ETFX_AuraVertical.FBX
+- Assets/FX/Epic Toon FX/Textures/heart.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/Torch/CartoonFireTorchGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Magic/magic_blast.mat
+- Assets/FX/Epic Toon FX/Materials/Misc/explosion_spritesheet_3x3.mat
+- Assets/FX/Epic Toon FX/Textures/magic_runecircle.png
+- Assets/FX/Epic Toon FX/Textures/ShieldHex.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Lightning/NovaLightningGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/bigsmile.png
+- Assets/FX/Epic Toon FX/Textures/portal_stripes_soft.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MagicSoftExplosion/MagicSoftExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Bullet/BulletSmallGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/candle_soft.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/ShadowMuzzle/ShadowMuzzle.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/SpinZone/SpinZoneBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/SparkleSolo/SparkleSoloGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/confetti_blur.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Soft/Additive/SoftFireAdditivePurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Soft/Alpha Blend/FlamethrowerAlphaBlendBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fireflies/FireFliesYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Rocket/RocketMissileFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiSmile.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/sick3.mat
+- Assets/FX/Epic Toon FX/Materials/Text/flash_white.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/SparkleArea/SparkleAreaBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Explosions/MetalHit2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fog/Black/FogCalm.prefab
+- Assets/FX/Epic Toon FX/Materials/Fire/fire2x2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordSpin/SwordSpinBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/- Misc/StunExplosion.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LiquidExplosion/LiquidExplosionOil.prefab
+- Assets/FX/Epic Toon FX/Textures/shield_magic3.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Buff/MagicBuffYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Buff/MagicBuffGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/SuperEvilDeath.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Cartoony/CartoonyFightAction.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/FatBullet/BulletFatGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LaserExplosion/LaserExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiTearyEyes.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/- Misc/GunFire/GunFireBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/sick3.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Dust/DustMotesLively.prefab
+- Assets/FX/Epic Toon FX/Materials/Clouds/cloud_magic.mat
+- Assets/FX/Epic Toon FX/Textures/spiky.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SmallExplosion/SmallExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Rocket/RocketMissileBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/StormExplosion/StormExplosion.prefab
+- Assets/FX/Epic Toon FX/Textures/confetti.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/TorchIntense/CartoonFireTorchIntenseYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MysticMuzzle/MysticMuzzleWhite.prefab
+- Assets/FX/Epic Toon FX/Materials/Text/smack.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Stars/BigStarFilled.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Spiky/Additive/SpikyFireAdditivePurple.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/clenchteeth.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Directional/ConfettiDirectionalOrangeGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Flares/FlareRed.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/explosion_spritesheet_2x2.mat
+- Assets/FX/Epic Toon FX/Materials/Bubbles/bubble_round3.mat
+- Assets/FX/Epic Toon FX/Materials/Geometric/rectangle.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/GlowOrb/GlowOrbYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fog/White/FogHeavy.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/SparkleArea/SparkleAreaWhite.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/TinySparkle.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Trails/SoftFireTrail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/White/SmokeWhiteSoftTrail.prefab
+- Assets/FX/Epic Toon FX/Textures/lightning2.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Mystic/MysticMissileGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Firework/FireworkGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LiquidMuzzle/LiquidMuzzleWater.prefab
+- Assets/FX/Epic Toon FX/Textures/splat03.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/White/SmokeWhiteTrail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/FireballMuzzle/MuzzleFireballFire.prefab
+- Assets/FX/Epic Toon FX/Textures/skull_evil.png
+- Assets/FX/Epic Toon FX/Models/Materials/ARPG FX.mat
+- Assets/FX/Epic Toon FX/Materials/Emoticons/disappoint.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Soft/SoftPunchLight.prefab
+- Assets/FX/Epic Toon FX/Materials/Stars/star_outline.mat
+- Assets/FX/Epic Toon FX/Materials/Fire/fire_ground3x3.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/BulletMuzzle/BulletMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/portal_stripes4.png
+- Assets/FX/Epic Toon FX/Materials/Sparkle/sparkle_AB.mat
+- Assets/FX/Epic Toon FX/Textures/aura_punch.png
+- Assets/FX/Epic Toon FX/Textures/feather_outlined.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Firework/FireworkRedCluster.prefab
+- Assets/FX/Epic Toon FX/Textures/star.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/SparkleSolo/SparkleSoloWhite.prefab
+- Assets/FX/Epic Toon FX/Textures/fire_ground_softest3x3.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Firework/FireworkYellowCluster.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/cry.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Text/Zap.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LightningMuzzle/LightningMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/clenchteeth2.png
+- Assets/FX/Epic Toon FX/Materials/Water/wave.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/EnergyNovaMuzzle/EnergyNovaMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/StarExplosion/StarExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Standard/NovaBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/skull3.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fog/Black/FogHeavy.prefab
+- Assets/FX/Epic Toon FX/Textures/candle.png
+- Assets/FX/Epic Toon FX/Textures/bubble_half_thick.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiShocked.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiKiss.prefab
+- Assets/FX/Epic Toon FX/Textures/feather_new_particle.png
+- Assets/FX/Epic Toon FX/Models/Materials/Material #30.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Interactive FX.txt
+- Assets/FX/Epic Toon FX/Materials/Text/sharp_yellow.mat
+- Assets/FX/Epic Toon FX/Materials/Sparkle/sparkle_AB 1.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodShowerLoop.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/RoundExplosion/ExplosionRoundBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/RocketMuzzle/RocketMuzzleFire.prefab
+- Assets/FX/Epic Toon FX/Textures/heart2.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/RocketMuzzle/RocketMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Explosions/StarBurst2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiHappy.prefab
+- Assets/FX/Epic Toon FX/Textures/wave.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Rocket/RocketMissilePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fog/Black/FogLively.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MagicMuzzle/MagicMuzzleFire.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/Materials/punch.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Money/MoneyDollarbillDirectional.prefab
+- Assets/FX/Epic Toon FX/Textures/numbers.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/Torch/CartoonFireTorchPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodSplatWide.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/ice_spikes.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrb/PowerOrbYellow.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/explosionring.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodExplosion.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodSplatDirectional.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MagicExplosion/MagicExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupGlow/PowerupGlow6.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/BulletFatMuzzle/BulletFatMuzzleBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LaserMuzzle/LaserMuzzleBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/circlecurve.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbSciFi/PowerOrbSciFi03.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/PoisonDeath.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Soft/Alpha Blend/SoftFireABRed.prefab
+- Assets/FX/Epic Toon FX/Materials/Skulls/skull4.mat
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Green/GreenBloodSplatDirectional2D.prefab
+- Assets/FX/Epic Toon FX/Materials/Glows/glow2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Liquid/LiquidMissileWater.prefab
+- Assets/FX/Epic Toon FX/Textures/fire_ground3x3.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Nova/MagicNovaGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Geometric/triangle_soft_centered.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Sparks/SparkRadialExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MagicExplosion/MagicExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MysticMuzzle/MysticMuzzlePurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/Legacy/SwordHitLegacy/SwordHitBlueLegacy.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/EnergyNovaMuzzle/EnergyNovaMuzzleBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/BulletExplosion/BulletExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Materials/Stars/star_AB.mat
+- Assets/FX/Epic Toon FX/Materials/Clouds/cloud.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Healing/HealOnce.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/TallFire/TallBlueFire.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/line_sharp.mat
+- Assets/FX/Epic Toon FX/Textures/cloud_2x2_hardshadow.png
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_pistol02.wav
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SmallExplosion/SmallExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Materials/Portals/portal_stripes.mat
+- Assets/FX/Epic Toon FX/Textures/cloud_magic.png
+- Assets/FX/Epic Toon FX/Models/Materials/verticalgradient2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/Rain/RainMedium.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/BulletFatExplosion/BulletFatExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Materials/Clouds/cloud_soft_UI.mat
+- Assets/FX/Epic Toon FX/Textures/heart2broken_blue.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/BulletFatExplosion/BulletFatExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MagicExplosion/MagicExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Laser/LaserMissileGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Clouds/cloud_2x2_soft_UI.mat
+- Assets/FX/Epic Toon FX/Textures/etfx_shield.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Soft/SoftBodySlam.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Cartoon/FlamethrowerCartoonyFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodDripping.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Soft/SoftPunchExtreme.prefab
+- Assets/FX/Epic Toon FX/Materials/Bubbles/bubble_half_clear.mat
+- Assets/FX/Epic Toon FX/Textures/Emoticons/sick.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Water/Flowing/WaterDripping.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MagicMuzzle/MagicMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/MagicSwordHit/MagicSwordHitGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Stars/StarFogFlow/StarFogFlowYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Lightning/Soft/LightningBlastPink.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/silly.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Soft/Additive/SoftFireAdditiveBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Soft/Alpha Blend/SoftFireABRedSmall.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/flash_white.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LaserMuzzle/LaserMuzzlePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Soft/Alpha Blend/FlamethrowerAlphaBlendGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/drool.png
+- Assets/FX/Epic Toon FX/Materials/Glows/glow emission.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Liquid/AcidBoiling.prefab
+- Assets/FX/Epic Toon FX/Materials/Hearts/heart.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/- Misc/BalloonPopExplosion.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/StormMuzzle/StormMuzzle.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_slime2.wav
+- Assets/FX/Epic Toon FX/Materials/Emoticons/shocked.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordHitCritical/PowerupCollected.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastGreenYellow.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/zzzap.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/Dark/Lattu Smoke Trail.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Red/BloodExplosion2D.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/derp.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/ShadowExplosion/ShadowExplosion.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_plasma.wav
+- Assets/FX/Epic Toon FX/Models/aura_inward.FBX
+- Assets/FX/Epic Toon FX/Materials/Misc/talkbubble_4x4.mat
+- Assets/FX/Epic Toon FX/Materials/Emoticons/kiss.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Lightning/Soft/LightningStrike.prefab
+- Assets/FX/Epic Toon FX/Textures/magic_blast.png
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_magic.wav
+- Assets/FX/Epic Toon FX/Textures/lightning1.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Magic/MagicMissileGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LaserExplosion/LaserExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Sphere/MagicSphereYellow.prefab
+- Assets/FX/Epic Toon FX/Materials/Skulls/skull_evil.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Dust/DustMotesCalm.prefab
+- Assets/FX/Epic Toon FX/Materials/Skulls/skull3.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NukeExplosion/NukeExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Sphere/MagicSphereBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordHitCritical/SwordHitGreenCritical.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LightningMuzzle/LightningMuzzleBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastRainbow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Healing/HealNova.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZoneWall/BasicZoneWallBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Soft/SoftFightAction.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LaserExplosion/LaserExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_energy01.wav
+- Assets/FX/Epic Toon FX/Textures/aura_slam.png
+- Assets/FX/Epic Toon FX/Textures/Text/sharp_white.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NovaSmallExplosion/ExplosionNovaSmallFire.prefab
+- Assets/FX/Epic Toon FX/Materials/Shield/shield_magic2.mat
+- Assets/FX/Epic Toon FX/Textures/evil_spirit.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/Snow/SnowMedium.prefab
+- Assets/FX/Epic Toon FX/Textures/triangle_soft.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/Dark/SmokeDarkTrail.prefab
+- Assets/FX/Epic Toon FX/Textures/moneybills.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Text/Pow.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/lightning2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/Field/FireFieldRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Soft/SoftPunchHeavy.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodExplosionSpikyAnimated.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/StinkyCloudTrail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/CandleLight.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/Torch/CartoonFireTorchBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/drool.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Stars/StarFog/StarFogYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SpikyExplosion/SpikyExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Shadow/ShadowMissile.prefab
+- Assets/FX/Epic Toon FX/Materials/Glows/glow4.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/White/SmokeBurstWhite.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiCry.prefab
+- Assets/FX/Epic Toon FX/Textures/line_sharp2.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Trails/SpikyFireTrail.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/heart.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fireflies/FireFliesPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SimplePortal/SimplePortalGold.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/StarExplosion/StarExplosionOrange.prefab
+- Assets/FX/Epic Toon FX/Textures/explosion_spritesheet_3x3.png
+- Assets/FX/Epic Toon FX/Textures/lightray3.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/FrostExplosion/FrostExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupActivate/PowerupActivateYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MysticMuzzle/MysticMuzzleOrange.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZoneWall/BasicZoneWallPurple.prefab
+- Assets/FX/Epic Toon FX/Textures/ice_spikes.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastOrangePurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/Rain/RainLight.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiAngry.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SoulExplosion/SoulExplosionOrange.prefab
+- Assets/FX/Epic Toon FX/Textures/rectangle.png
+- Assets/FX/Epic Toon FX/Textures/bubble_round3.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LaserMuzzle/LaserMuzzleFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Soft/Alpha Blend/SoftFireABBlue.prefab
+- Assets/FX/Epic Toon FX/Models/aura_straight.FBX
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LightningExplosion/LightningExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Geometric/circle.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Directional/ConfettiDirectionalRainbow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/EnergyNovaMuzzle/EnergyNovaMuzzleFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Trails/LightningFloorYellowTrail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Magic/MagicMissileFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fireflies/FireFliesRed.prefab
+- Assets/FX/Epic Toon FX/Textures/explosion_spritesheet.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Soft/Additive/FlamethrowerAdditiveBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/White/SmokeWhiteSoft.prefab
+- Assets/FX/Epic Toon FX/Textures/magic_orb.png
+- Assets/FX/Epic Toon FX/Materials/Glows/UI_lightray.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodExplosionRoundAnimated.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Spiky/Additive/SpikyFireAdditiveRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/GasExplosion/GasExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/ItemSparkle/ItemSparkleBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodExplosionRoundAnimated.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MysticMuzzle/MysticMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Hexagon.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/TreasureChestGlowRays.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Fire/NovaFireBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZone/BasicZoneWhite.prefab
+- Assets/FX/Epic Toon FX/Materials/Portals/portal_stripes_soft.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LiquidMuzzle/LiquidMuzzleOil.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_mystic.wav
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Trails/LightningFloorPurpleTrail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordSpin/SwordSpinGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Soul/SoulMissilePurple.prefab
+- Assets/FX/Epic Toon FX/Materials/Magic/magic_orb_EMISSIVE.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Hearts/HeartTrail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Aura/MagicAuraBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Field/MagicFieldWhite.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_frost.wav
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/MagicZone/MagicZonePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordHit/SwordHitBlue.prefab
+- Assets/FX/Epic Toon FX/Models/toon_shield.FBX
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Shower/ConfettiShowerOrangePurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Water/Flowing/WaterDrippingHeavy.prefab
+- Assets/FX/Epic Toon FX/Materials/Sparkle/sparkle_ADD.mat
+- Assets/FX/Epic Toon FX/Materials/Misc/line_sharp2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodSplatWideAnimated.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_bullet.wav
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Soft/Alpha Blend/FlamethrowerAlphaBlendRed.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_nuke.wav
+- Assets/FX/Epic Toon FX/Materials/Fire/candle.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NukeVerticalExplosion/NukeVerticalExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZone/BasicZoneYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/StunnedCirclingStars.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/ChestAppear/ChestAppearYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Sparks/SparkExplosionYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SoulExplosion/SoulExplosionPurple.prefab
+- Assets/FX/Epic Toon FX/Materials/Fire/fire_soft.mat
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_nuke.wav
+- Assets/FX/Epic Toon FX/Textures/talkbubble.png
+- Assets/FX/Epic Toon FX/Materials/Geometric/circle_additive.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Nova/MagicNovaYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/TorchIntense/CartoonFireTorchIntensePink.prefab
+- Assets/FX/Epic Toon FX/Textures/fire_soft.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fog/Grey/FogLively.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/critical.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/TallExplosion/TallExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/clunk.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fireflies/FireFliesBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SpikyExplosion/SpikyExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/laughsweatdrop.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Liquid/LiquidMissileAcid.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodSplatWide.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Shower/ConfettiShowerRainbow.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_storm.wav
+- Assets/FX/Epic Toon FX/Materials/Misc/Unsorted/leaf_3x3_AB.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Bullet/BulletSmallPink.prefab
+- Assets/FX/Epic Toon FX/Materials/Text/sharp_white.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/Legacy/SwordHitLegacy/SwordHitRedLegacy.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Lightning/LightningMissileGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/EnergyNovaSmallMuzzle/EnergyNovaMuzzleSmallPink.prefab
+- Assets/FX/Epic Toon FX/Materials/Shield/etfx_shield.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Sparks/SparkExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/square.png
+- Assets/FX/Epic Toon FX/Textures/Text/crit.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/Dark/SmokeDark.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/FireballExplosion/Gulal Explosion.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/NukeMuzzle/NukeMuzzlePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZone/BasicZoneGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LiquidExplosion/LiquidExplosionWater.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/GasExplosion/GasExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupGlow/PowerupGlow2.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiLaughCry.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/FireDeath.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Nova/MagicNovaBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/leaf_3x3.png
+- Assets/FX/Epic Toon FX/Materials/Text/sharp_blue.mat
+- Assets/FX/Epic Toon FX/Materials/Magic/magic_orb.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Shield/ShieldGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/angry.mat
+- Assets/FX/Epic Toon FX/Materials/Misc/talkbubble.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Money/MoneyCoinFountain.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LiquidExplosion/LiquidExplosionAcid.prefab
+- Assets/FX/Epic Toon FX/Materials/Bubbles/bubble_round2.mat
+- Assets/FX/Epic Toon FX/Textures/Emoticons/laughcry.png
+- Assets/FX/Epic Toon FX/Textures/splat01_animated_3x3.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/TorchIntense/CartoonFireTorchIntenseGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Geometric/circlecurve.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Mystic/MysticMissileOrange.prefab
+- Assets/FX/Epic Toon FX/Materials/Fire/fire_soft_blank.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodShowerLoop.prefab
+- Assets/FX/Epic Toon FX/Textures/lightray2.png
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_fireball.wav
+- Assets/FX/Epic Toon FX/Textures/Text/blam.png
+- Assets/FX/Epic Toon FX/Textures/Emoticons/shocked.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Healing/HealField.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_pistol01.wav
+- Assets/FX/Epic Toon FX/Materials/Water/wave2.mat
+- Assets/FX/Epic Toon FX/ETFX Readme.txt
+- Assets/FX/Epic Toon FX/Textures/Text/sharp_yellow.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/FireballExplosion/ExplosionFireballPink.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_mystic.wav
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodExplosion.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SpikyExplosion/SpikyExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Trails/FireFloorTrail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/BulletMuzzle/BulletMuzzleBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/clenchteeth2.mat
+- Assets/FX/Epic Toon FX/Materials/Geometric/circle 1.mat
+- Assets/FX/Epic Toon FX/Textures/snowflake.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LiquidMuzzle/LiquidMuzzleLava.prefab
+- Assets/FX/Epic Toon FX/Textures/candle_soft2.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordSlash/SwordSlashGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LaserExplosion/LaserExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LightningMuzzle/LightningMuzzleYellow.prefab
+- Assets/FX/Epic Toon FX/Materials/Clouds/cloud_soft.mat
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_lava.wav
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZone/BasicZoneBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/sad.png
+- Assets/FX/Epic Toon FX/Textures/Text/punch.png
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_rocket.wav
+- Assets/FX/Epic Toon FX/Materials/Emoticons/sick2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/StarExplosion/StarExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SimplePortal/SimplePortalBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Firework/FireworkPurpleCluster.prefab
+- Assets/FX/Epic Toon FX/Models/Materials/sphereshield.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodSplatDirectional.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Trails/CartoonFireTrail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Shield/ShieldPurple.prefab
+- Assets/FX/Epic Toon FX/Textures/glow4.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Soul/SoulMissileCrimson.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/EnergyNovaSmallMuzzle/EnergyNovaMuzzleSmallBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Firework/FireworkYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SpinPortal/SpinPortalRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Cartoon/FlamethrowerCartoonyPink.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/sick2.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MagicSoftMuzzle/MagicSoftMuzzlePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Soft/Additive/SoftFireAdditiveRed.prefab
+- Assets/FX/Epic Toon FX/Textures/skull4.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Red/BloodShowerLoop2D.prefab
+- Assets/FX/Epic Toon FX/Textures/wave2.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Laser/LaserMissileRed.prefab
+- Assets/FX/Epic Toon FX/Textures/cloud_soft.png
+- Assets/FX/Epic Toon FX/Textures/circle.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrb/PowerOrbRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/FrostMuzzle/FrostMuzzleBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Hearts/HeartPoof.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/Field/FireFieldBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/NovaMissile/NovaMissileGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/smack.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/Dark/SmokeBurstDark.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Magic/MagicMissilePink.prefab
+- Assets/FX/Epic Toon FX/Textures/etfx_shield2.png
+- Assets/FX/Epic Toon FX/Textures/fire_soft_blank.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NovaExplosion/ExplosionNovaPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/RoundHit/RoundHitYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordSlash/SwordSlashBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/angry.png
+- Assets/FX/Epic Toon FX/Materials/Misc/aura_vertical_soft_UI.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SimplePortal/SimplePortalGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Stars/StarTrail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SimplePortal/SimplePortalRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Charge/MagicChargeGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/cute.mat
+- Assets/FX/Epic Toon FX/Textures/ShieldHex_Em.png
+- Assets/FX/Epic Toon FX/Textures/healing.png
+- Assets/FX/Epic Toon FX/Materials/Emoticons/poop.mat
+- Assets/FX/Epic Toon FX/Textures/circlecurve2.png
+- Assets/FX/Epic Toon FX/Materials/Misc/leaf_UI.mat
+- Assets/FX/Epic Toon FX/Materials/Emoticons/tearyeyes.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Mystic/MysticMissileWhite.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/MagicSwordHit/MagicSwordHitRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/SoulMuzzle/SoulMuzzlePurple.prefab
+- Assets/FX/Epic Toon FX/Materials/Geometric/triangle_curve.mat
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_laser.wav
+- Assets/FX/Epic Toon FX/Materials/Magic/magic_line.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MagicSoftExplosion/MagicSoftExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SoulExplosion/SoulExplosionCrimson.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/GenericDeath.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Healing/HealBig.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/Whirlwind.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZoneWall/BasicZoneWallYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Mystic/MysticMissilePurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/BulletFatExplosion/BulletFatExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Materials/Portals/portal_stripes2.mat
+- Assets/FX/Epic Toon FX/Materials/Magic/Diwali Rocket Explosion.prefab
+- Assets/FX/Epic Toon FX/Textures/coins_outline.png
+- Assets/FX/Epic Toon FX/Materials/Misc/notes.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiNervous.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordSlash/SwordSlashYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Directional/ConfettiDirectionalBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/cool.png
+- Assets/FX/Epic Toon FX/Materials/Misc/feather_UI.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbSmall/PowerOrbSmallRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Stars/StarFogFlow/StarFogFlowBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Splat/splat03.mat
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_pistol03.wav
+- Assets/FX/Epic Toon FX/Materials/Misc/snowflake.mat
+- Assets/FX/Epic Toon FX/Materials/Emoticons/cry.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/PillarBlast/MagicPillarBlastYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/NovaSmall/NovaMissileSmallBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/SparkleSolo/SparkleSoloBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/EnergyNovaSmallMuzzle/EnergyNovaMuzzleSmallGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/TorchIntense/CartoonFireTorchIntenseBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/lightning_spritesheet_3x3.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Soft/Alpha Blend/SoftFireABPurple.prefab
+- Assets/FX/Epic Toon FX/Materials/Glows/glow.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiSad.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Enchant/MagicEnchantYellow 1.prefab
+- Assets/FX/Epic Toon FX/Textures/sparkle.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Healing/HealStream.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbSmall/PowerOrbSmallYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Circle/MagicCircleBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Sphere/MagicSphereGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/Dark/SmokeDarkSoft.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiClenchTeeth.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Firework/FireworkPurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/BulletExplosion/BulletExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Materials/Hearts/heart2broken.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Laser/LaserMissilePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/RocketMuzzle/RocketMuzzleBlue.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_lightning2.wav
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZoneWall/BasicZoneWallRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiCool.prefab
+- Assets/FX/Epic Toon FX/Materials/Glows/glow emission red.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Cartoony/CartoonyPunchHeavy.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Flares/FlareBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/ItemSparkle/ItemSparkleYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Shower/ConfettiShowerBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Underwater/BubbleStreamUnderwater.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodSplatDirectionalAnimated.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupGlow/PowerupGlow5.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Enchant/MagicEnchantYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MysticExplosion/MysticExplosionWhite.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Water/Flowing/WaterDrippingHeavy2D.prefab
+- Assets/FX/Epic Toon FX/Textures/triangle.png
+- Assets/FX/Epic Toon FX/Materials/Portals/portal_stripes5.mat
+- Assets/FX/Epic Toon FX/Textures/splat02.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/- Misc/StarBurst.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/TallFire/TallGreenFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/FireballExplosion/ExplosionFireballBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Soft/Additive/SoftFireAdditiveGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodSplatDirectionalAnimated.prefab
+- Assets/FX/Epic Toon FX/Textures/fire2x2.png
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_dark01.wav
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrb/PowerOrbGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/ka-pow.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodShowerLoop.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/MagicZone/MagicZoneBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/FireballMuzzle/MuzzleFireballBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Glows/glow 3.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Field/MagicFieldBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/ChestAppear/ChestAppearBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Firework/FireworkBlueCluster.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiDrool.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/kick.png
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Red/BloodSplatDirectional2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NukeVerticalExplosion/NukeVerticalExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_acid.wav
+- Assets/FX/Epic Toon FX/Textures/skull_love.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SpinPortal/SpinPortalPurple.prefab
+- Assets/FX/Epic Toon FX/Textures/heart2broken.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodSplatDirectionalAnimated.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Yellow/YellowBloodSplatCritical2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/- Misc/FlashBomb.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/BlowingLeaves.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/FireballExplosion/ExplosionFireballFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZoneWall/BasicZoneWallGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Soft/SoftFightAction2.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbElemental/PowerOrbWaterElemental.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NovaSmallExplosion/ExplosionNovaSmallGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/triangle_soft_centered.png
+- Assets/FX/Epic Toon FX/Materials/Portals/portal_stripes4.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SoftPortal/SoftPortalPurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Shield/ShieldBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Stars/star_outlined_colored.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiQueasy.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NukeExplosion/NukeExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordSpin/SwordSpinRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/RoundHit/RoundHitRed.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_mystic02.wav
+- Assets/FX/Epic Toon FX/Textures/notes.png
+- Assets/FX/Epic Toon FX/Textures/Emoticons/tearyeyes.png
+- Assets/FX/Epic Toon FX/Textures/nova_spritesheet.png
+- Assets/FX/Epic Toon FX/Materials/Glows/UI_lightray2.mat
+- Assets/FX/Epic Toon FX/Textures/lightning_spritesheet_3x3.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MysticExplosion/MysticExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LightningExplosion/LightningExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/hit.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/StarExplosion/StarExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Textures/bubble_half_clear.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/MagicSoft/MagicMissileSoftPink.prefab
+- Assets/FX/Epic Toon FX/Textures/waterspray.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Frost/FrostMissileBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Flares/FlarePurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodPoolGrowing.prefab
+- Assets/FX/Epic Toon FX/Textures/evil_spirit2.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Circle/MagicCircleGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/- Misc/GunFire/GunFireGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZoneWall/BasicZoneWallWhite.prefab
+- Assets/FX/Epic Toon FX/Materials/Geometric/chappal.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Lightning/Soft/LightningOrb.prefab
+- Assets/FX/Epic Toon FX/Materials/Portals/portal_glow.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/TallFire/TallRedFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbElemental/PowerOrbFireElemental.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MysticExplosion/MysticExplosionPurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Lightning/Sharp/LightningStrikeSharpTall.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MagicSoftExplosion/MagicSoftExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/Dark/SmokeExplosionDark.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MagicSoftExplosion/MagicSoftExplosionYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/TallFire/TallPurpleFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrb/PowerOrbPurple.prefab
+- Assets/FX/Epic Toon FX/Materials/Glows/lightray_UI.mat
+- Assets/FX/Epic Toon FX/Materials/Geometric/Hexagon.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/BulletMuzzle/BulletMuzzleFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SpinPortal/SpinPortalGold.prefab
+- Assets/FX/Epic Toon FX/Materials/Water/wave3.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SoulExplosion/SoulExplosionOrange
+  1.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Money/MoneyCoinShower.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/ring (additive)_UI.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Lightning/Sharp/LightningOrbSharp.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbSmall/PowerOrbSmallGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/cloud_2x2_soft.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SpinPortal/SpinPortalGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Standard/NovaPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbElemental/PowerOrbFrostElemental.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_soul.wav
+- Assets/FX/Epic Toon FX/Materials/Stars/star_outlined.mat
+- Assets/FX/Epic Toon FX/Materials/Geometric/spiky.mat
+- Assets/FX/Epic Toon FX/Textures/moneybillsv2.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Money/MoneyDollarbillShower.prefab
+- Assets/FX/Epic Toon FX/Textures/magic_orb3.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Frost/NovaFrost.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_frost.wav
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_storm.wav
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Nuke/NukeMissilePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Firework/FireworkBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Stars/StarExplosion.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_dark02.wav
+- Assets/FX/Epic Toon FX/Models/Materials/verticalglow02.mat
+- Assets/FX/Epic Toon FX/Textures/splat02_animated_3x3.png
+- Assets/FX/Epic Toon FX/Materials/Text/ka-pow.mat
+- Assets/FX/Epic Toon FX/Textures/sparkle2.png
+- Assets/FX/Epic Toon FX/Textures/cloud_2x2_hard.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Environment FX.txt
+- Assets/FX/Epic Toon FX/Textures/bubble_round2.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbSciFi/PowerOrbSciFi01.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/BulletFatMuzzle/BulletFatMuzzleFire.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/evil_spirit2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/Dark/SmokeDarkSoftTrail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/NovaSmall/NovaMissileSmallFire.prefab
+- Assets/FX/Epic Toon FX/Models/ETFX_AuraVerticalCentered.FBX
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiSick.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Water/Other/WaterRainRipples.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Shower/ConfettiShowerOrangeGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Magic/MagicMissileBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupActivate/PowerupActivateGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/BulletMuzzle/BulletMuzzlePink.prefab
+- Assets/FX/Epic Toon FX/Materials/Shield/etfx_shield2 1.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Cartoony/CartoonyPunchMedium.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodDripping.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZone/BasicZonePurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/RoundExplosion/ExplosionRoundFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Cartoony/CartoonyBodySlam.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/cool.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MagicSoftExplosion/MagicSoftExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/BulletExplosion/BulletExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Confetti/confetti.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Money/MoneyCoinDirectional.prefab
+- Assets/FX/Epic Toon FX/Textures/fire_soft_spiky.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/TallExplosion/TallExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Skulls/skull2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Directional/ConfettiDirectionalOrangePurple.prefab
+- Assets/FX/Epic Toon FX/Textures/triangle_curve.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Stars/StarVortex.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Red/BloodDripping2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbSmall/PowerOrbSmallBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/Legacy/SwordHitCriticalLegacy/SwordHitBlueCriticalLegacy.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/lightning1.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/White/SmokeWhite.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodSplatWide.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/NovaMissile/NovaMissileBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/EnergyNovaSmallMuzzle/EnergyNovaMuzzleSmallFire.prefab
+- Assets/FX/Epic Toon FX/Textures/star_outline.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/FatBullet/BulletFatBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Stars/StarFog/StarFogBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/SparkleSolo/SparkleSoloYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/ChestAppear/Handi Break.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/haha.mat
+- Assets/FX/Epic Toon FX/Materials/Shield/etfx_shield2.mat
+- Assets/FX/Epic Toon FX/Materials/Text/zzzap.mat
+- Assets/FX/Epic Toon FX/Materials/Glows/glow3.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NovaExplosion/ExplosionNovaFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Stars/StarFog/StarFogGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/magic_orb2.png
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_lightning.wav
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/BulletExplosion/BulletExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Water/Flowing/WaterFallBig.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Text/Crack.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/GasExplosion/GasExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/Lattu Hit.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Lightning/LightningMissileBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/sharp_red.png
+- Assets/FX/Epic Toon FX/Materials/Magic/aura_vertical.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Aura/MagicAuraYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Storm/StormMissile.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Lightning/Sharp/LightningStrikePinkSharp.prefab
+- Assets/FX/Epic Toon FX/Materials/Glows/glow2 1.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Text/KaPow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Rocket/RocketMissileGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/poop.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Fire/NovaFirePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiPoop.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/FatBullet/BulletFatPink.prefab
+- Assets/FX/Epic Toon FX/Textures/portal_glow.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/Rain/RainHard.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Water/Other/WaterSurfaceSplashSmall.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodSplatCritical.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Liquid/LiquidMissileLava.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Fireball/FireballMissileBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/ElectricDeathBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/NukeMuzzle/NukeMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Geometric/circlestretchy.mat
+- Assets/FX/veerDoubleJump.prefab
+- Assets/FX/Epic Toon FX/Materials/Glows/lightray2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordHitCritical/SwordHitYellowCritical.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbSciFi/PowerOrbSciFi04.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/CuteDeath.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordHit/SwordHitGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Splat/splat02_animated_3x3.mat
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_soul.wav
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SoulExplosion/SoulExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/Legacy/SwordHitCriticalLegacy/SwordHitRedCriticalLegacy.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/Snow/SnowHard.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Explosions/SparkExplosion2D.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/sharp_blue.png
+- Assets/FX/Epic Toon FX/Textures/Emoticons/laughsweatdrop.png
+- Assets/FX/Epic Toon FX/Materials/Glows/glow_UI.mat
+- Assets/FX/Epic Toon FX/Textures/portal_stripes.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodSplatCritical.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Water/Other/WaterSurfaceSplash.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiLaughSweatdrop.prefab
+- Assets/FX/Epic Toon FX/Textures/aura_vertical_soft.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Lightning/Sharp/LightningStrikeSharp.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NukeExplosion/NukeExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiCute.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/poof.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Stars/StarStream.prefab
+- Assets/FX/Epic Toon FX/Textures/feather.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Chipku Splash.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Spiky/Additive/SpikyFireAdditiveBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/SpinZone/SpinZoneOrange.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Aura/MagicAuraGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/nova_3x3_spritesheet.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Lightning/Soft/LightningBlast.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodExplosionSpikyAnimated.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/grab2.mat
+- Assets/FX/Epic Toon FX/Materials/Magic/magic_orb2.mat
+- Assets/FX/Epic Toon FX/Materials/Misc/aura_punch.mat
+- Assets/FX/Epic Toon FX/Materials/Text/crack.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LaserExplosion/LaserExplosionRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/StinkyCloud.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/PillarBlast/MagicPillarBlastBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/Field/FireFieldGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/derp.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/BulletFatMuzzle/BulletFatMuzzlePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Yellow/YellowBloodExplosion2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/NovaSmall/NovaMissileSmallGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/MagicSoft/MagicMissileSoftBlue.prefab
+- Assets/FX/Epic Toon FX/Models/ETFX_Shield.FBX
+- Assets/FX/Epic Toon FX/Materials/Clouds/cloud_2x2_hard.mat
+- Assets/FX/Epic Toon FX/Textures/Emoticons/disappoint2.png
+- Assets/FX/Epic Toon FX/Materials/Portals/portal_stripes3.mat
+- Assets/FX/Epic Toon FX/Textures/star_outlined_colored.png
+- Assets/FX/Epic Toon FX/Textures/shield_magic.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Dust/DustDirtyPoof.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Misc/CurvySmoke.prefab
+- Assets/FX/Epic Toon FX/Materials/Clouds/cloud_2x2_softshadow.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Water/Flowing/WaterFall.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Misc/TypingMessage.prefab
+- Assets/FX/Epic Toon FX/Textures/slash.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiSilly.prefab
+- Assets/FX/Epic Toon FX/Materials/Fire/candle_soft.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Healing/HealStream2.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbElemental/PowerOrbLightningElemental.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/MagicSoft/MagicMissileSoftFire.prefab
+- Assets/FX/Epic Toon FX/Textures/magic_line.png
+- Assets/FX/Epic Toon FX/Models/ETFX_MagicWall.FBX
+- Assets/FX/Epic Toon FX/Materials/Skulls/skull.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/FireballExplosion/ExplosionFireballGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/money/coins.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Sparks/SparkLoopBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/nova_3x3_spritesheet.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Flares/FlareGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Shadow/Chai Trail.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/RoundHit/RoundHitBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Liquid/LiquidMissileOil.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Buff/MagicBuffBlue.prefab
+- Assets/FX/Epic Toon FX/Models/aura_flat.FBX
+- Assets/FX/Epic Toon FX/Textures/star_outlined.png
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_liquid.wav
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/- Misc/GunFire/GunFireYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Green/GreenBloodDripping2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Fireball/FireballMissileFire.prefab
+- Assets/FX/Epic Toon FX/Materials/Geometric/circlecurve2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Flares/FlareYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Bullet/BulletSmallFire.prefab
+- Assets/FX/Epic Toon FX/Textures/lightray.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbSciFi/PowerOrbSciFi02.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/GasExplosion/GasExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiDerp.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Green/GreenBloodShowerLoop2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SoftPortal/SoftPortalGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Shadow/Speed Boost.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Bullet/BulletSmallBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/ChestAppear/ChestAppearWhite.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/Rain/RainSimple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/TallExplosion/TallExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Materials/Stars/UI_star_AB.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Laser/LaserMissileBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/BulletFatMuzzle/BulletFatMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/ChestAppear/ChestAppearPurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Soft/Alpha Blend/FlamethrowerAlphaBlendPurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Stars/StarFog/StarFogRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/RocketMuzzle/RocketMuzzlePink.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/sad.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordHitCritical/SwordHitRedCritical.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/sick.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/NovaMissile/NovaMissilePink.prefab
+- Assets/FX/Epic Toon FX/Materials/Clouds/cloud_2x2_hardshadow.mat
+- Assets/FX/Epic Toon FX/Textures/explosion.png
+- Assets/FX/Epic Toon FX/Textures/bubble_soap.png
+- Assets/FX/Epic Toon FX/Textures/cloud.png
+- Assets/FX/Epic Toon FX/Materials/Text/sharp_red.mat
+- Assets/FX/Epic Toon FX/Materials/Skulls/skull_love.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Soul/SoulMissileOrange.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SoftPortal/SoftPortalRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/SoulMuzzle/SoulMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Shield/shield_magic3.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Fire/NovaFireGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/skull.png
+- Assets/FX/Epic Toon FX/Prefabs 2D/Water/Flowing/WaterFall2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/BombFuse/BombFuse.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/White/SmokeWhiteSoftExplosion.prefab
+- Assets/FX/Epic Toon FX/Materials/Glows/glowALPHABLEND.mat
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_energybig.wav
+- Assets/FX/Epic Toon FX/Materials/Clouds/cloud_2x2_soft.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Water/Flowing/WaterDrippingDynamic.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LaserMuzzle/LaserMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupActivate/PowerupActivateRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/MagicZone/MagicZoneGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/glow2.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SpikyExplosion/SpikyExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/pow.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Healing/HealOnceLoop.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/slash.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordHit/SwordHitRed.prefab
+- Assets/FX/Epic Toon FX/Textures/grab2.png
+- Assets/FX/Epic Toon FX/Models/Materials/No Name.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MagicSoftMuzzle/MagicSoftMuzzleBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/- Misc/SparkExplosion.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fog/Grey/FogCalm.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/ItemSparkle/ItemSparkleGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Spiky/Additive/SpikyFireAdditiveGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Lightning/NovaLightningPurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Hearts/HeartStream.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NovaSmallExplosion/ExplosionNovaSmallBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/splat01.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/BombFuse/BombFuse2.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/Legacy/SwordHitLegacy/SwordHitYellowLegacy.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NovaSmallExplosion/ExplosionNovaSmallPink.prefab
+- Assets/FX/Epic Toon FX/Materials/Clouds/cloud_2x2_hard_UI.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Enchant/MagicEnchantGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Cartoon/FlamethrowerCartoonyGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Lightning/NovaLightningBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/explosion.mat
+- Assets/FX/Epic Toon FX/Materials/Fire/candle_soft2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Sparks/SparkLoopYellow.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_liquid3.wav
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Charge/MagicChargeYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Spiky/Additive/SpikyFireAdditiveYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MagicMuzzle/MagicMuzzlePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Field/MagicFieldYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Feathers/FeatherExplosion.prefab
+- Assets/FX/Epic Toon FX/Textures/portal_stripes3.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LightningMuzzle/LightningMuzzlePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupActivate/PowerupActivateBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/MagicSwordHit/MagicSwordHitYellow.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_rocket02.wav
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Underwater/BubbleBlastUnderwater.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodExplosion.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Money/MoneyDollarbillBlast.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Stars/StarPoof.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/wave2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/NovaMissile/NovaMissileFire.prefab
+- Assets/FX/Epic Toon FX/Materials/Portals/portal_glow_add.mat
+- Assets/FX/Epic Toon FX/Materials/Misc/feather.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/SoulMuzzle/SoulMuzzleOrange.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/ItemSparkle/ItemSparklePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Nuke/NukeMissileFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodExplosionRoundAnimated.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Stars/StarFieldSimple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/TreasureVerticalGlowRays.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/EnergyNovaMuzzle/EnergyNovaMuzzlePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodSplatDirectional.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/ring (alphablended).mat
+- Assets/FX/Epic Toon FX/Textures/Emoticons/disappoint.png
+- Assets/FX/Epic Toon FX/Textures/aura_vertical.png
+- Assets/FX/Epic Toon FX/Materials/Geometric/triangle_soft.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/RoundHit/RoundHitGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/BasicZone/BasicZoneRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/FatBullet/BulletFatFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupGlow/PowerupGlow4.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/happy.mat
+- Assets/FX/Epic Toon FX/Textures/explosionring.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodFlowing.prefab
+- Assets/FX/Epic Toon FX/Models/Materials/M_EtfxShield.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Stars/StarFogFlow/StarFogFlowGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Fire/fire_ground_softest3x3.mat
+- Assets/FX/Epic Toon FX/Materials/Fire/fire_soft_blank_additive.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Stars/StarFogFlow/StarFogFlowRed.prefab
+- Assets/FX/Epic Toon FX/Materials/Shield/shield_magic.mat
+- Assets/FX/Epic Toon FX/Textures/glow3.png
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_lightning.wav
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/GlowOrb/GlowOrbPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Soft/Additive/SoftFireAdditiveYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Charge/MagicChargeBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/NukeMuzzle/NukeMuzzleFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/ElectricDeathYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/Legacy/SwordHitCriticalLegacy/SwordHitYellowCriticalLegacy.prefab
+- Assets/FX/Epic Toon FX/Textures/portal_stripes2.png
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_nuke02.wav
+- Assets/FX/Epic Toon FX/Materials/Sparkle/sparkle2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodFlowing.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LiquidExplosion/Water Splash.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Feathers/FeatherShower.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_slime.wav
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Cartoony/CartoonyPunchExtreme.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Stars/Chappal Explosion.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/NukeMuzzle/NukeMuzzleBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/FrostDeath.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/grab1.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Sparks/SparkRadialExplosionYellow.prefab
+- Assets/FX/Epic Toon FX/Materials/Fire/fire_ground_soft3x3.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Trails/LightningFloorBlueTrail.prefab
+- Assets/FX/Epic Toon FX/Materials/Bubbles/bubble_half_thick.mat
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Green/GreenBloodExplosion2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Water/Flowing/WaterGeysir.prefab
+- Assets/FX/Epic Toon FX/Materials/Hearts/heart2.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/FireballMuzzle/MuzzleFireballGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Cartoony/CartoonyPunchLight.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupActivate/PowerupActivatePurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Money/MoneyCoinBlast.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SmallExplosion/SmallExplosionFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Soft/Additive/FlamethrowerAdditiveGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/ring.png
+- Assets/FX/Epic Toon FX/Materials/Text/pow.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/- Misc/GunFire/GunFirePurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Liquid/WaterBoiling.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Liquid/LavaBoiling.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Soft/SoftPunchMedium.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Bubbles/SoapBubbleEmitter.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Field/MagicFieldGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Geometric/drop.mat
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Yellow/YellowBloodDripping2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/MagicSoft/MagicMissileSoftGreen.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_rocket03.wav
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/Torch/CartoonFireTorchRed.prefab
+- Assets/FX/Epic Toon FX/Textures/skull2.png
+- Assets/FX/Epic Toon FX/Textures/haha.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Trails/IceFloorTrail.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_laser.wav
+- Assets/FX/Epic Toon FX/Materials/Hearts/heart2broken_blue.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Nuke/NukeMissileGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NukeExplosion/NukeExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/FireballMuzzle/MuzzleFireballPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Brawling/Cartoony/CartoonyFightAction2.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MagicSoftMuzzle/MagicSoftMuzzleFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Lightning/LightningMissilePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Yellow/YellowBloodSplatDirectional2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Firework/FireworkGreenCluster.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodFlowing.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/- Misc/CloudExplosionGreenSkull.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LightningExplosion/LightningExplosionYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MagicMuzzle/MagicMuzzleBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Shield/ShieldYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SoftPortal/SoftPortalGold.prefab
+- Assets/FX/Epic Toon FX/Textures/talkbubble_4x4.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Standard/NovaGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/RoundExplosion/ExplosionRoundPink.prefab
+- Assets/FX/Epic Toon FX/Materials/Shield/pngwing_Em.png
+- Assets/FX/Epic Toon FX/Materials/Magic/magic_runecircle.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordSpin/SwordSpinYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Blast/ConfettiBlastOrangeGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/healing.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SimplePortal/SimplePortalPurple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Lightning/Soft/LightningStrikePink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiPuke.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/RoundExplosion/ExplosionRoundGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/laugh.png
+- Assets/FX/Epic Toon FX/Prefabs 2D/Weather/Rain2D.prefab
+- Assets/FX/Epic Toon FX/Textures/glow.png
+- Assets/FX/Epic Toon FX/Materials/Fire/fire_soft_spiky.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Fireball/FireballMissilePink.prefab
+- Assets/FX/Epic Toon FX/Materials/Confetti/confetti_UI.mat
+- Assets/FX/Epic Toon FX/Materials/Glows/lightray.mat
+- Assets/FX/Epic Toon FX/Textures/line_sharp.png
+- Assets/FX/Epic Toon FX/Materials/Misc/nova_2x2_spritesheet.mat
+- Assets/FX/Epic Toon FX/Prefabs/Misc/TypingMessageLight.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/SparkleArea/SparkleAreaYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Hearts/HeartExplosion.prefab
+- Assets/FX/Epic Toon FX/Materials/Magic/orb.mat
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_liquid2.wav
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Zone/MagicZone/MagicZoneYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodExplosionSpikyAnimated.prefab
+- Assets/FX/Epic Toon FX/Textures/drop.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodSplatCritical.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiDisappointed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Circle/MagicCircleYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Lightning/Soft/LightningStrikeTall.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LaserMuzzle/LaserMuzzleRed.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_rocket.wav
+- Assets/FX/Epic Toon FX/Materials/Emoticons/clenchteeth.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/MagicSoftMuzzle/MagicSoftMuzzleGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupGlow/PowerupGlow3.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordHitCritical/SwordHitBlueCritical.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_poof.wav
+- Assets/FX/Epic Toon FX/Materials/Misc/numbers.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/- Misc/MetalHit.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Soft/Additive/FlamethrowerAdditiveRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/NovaSmall/NovaMissileSmallPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Firework/FireworkRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Standard/NovaFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Directional/ConfettiDirectionalGreenYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Water/Other/WaterRipple.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Nuke/NukeMissileBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/LiquidMuzzle/LiquidMuzzleAcid.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/GlowOrb/GlowOrbGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Dust/DustDirtyPoofSoft.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SoftPortal/SoftPortalBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/- Misc/CloudExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Materials/Geometric/triangle.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Green/GreenBloodSplatWideAnimated.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/TallExplosion/TallExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Textures/grab1.png
+- Assets/FX/Epic Toon FX/Textures/Emoticons/silly.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NovaExplosion/ExplosionNovaBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NukeVerticalExplosion/NukeVerticalExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Weather/Snow FX.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_magic.wav
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Lightning/NovaLightningYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Lightning/LightningMissileYellow.prefab
+- Assets/FX/Epic Toon FX/Materials/Emoticons/bigsmile.mat
+- Assets/FX/Epic Toon FX/Sound/etfx_explosion_fireball.wav
+- Assets/FX/Epic Toon FX/Materials/Emoticons/heart.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NovaExplosion/ExplosionNovaGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/- Misc/FlashBomb2.prefab
+- Assets/FX/Epic Toon FX/Materials/Geometric/spiky circular.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Emojis/EmojiHeart.prefab
+- Assets/FX/Epic Toon FX/Textures/spiky circular.png
+- Assets/FX/Epic Toon FX/Textures/coins.png
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Loot/GlowOrb/GlowOrbBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerupGlow/PowerupGlow1.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/SmallExplosion/SmallExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/Wind & Leaves/WindlinesStormy.prefab
+- Assets/FX/Epic Toon FX/Materials/Shield/ShieldHex.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/BulletFatExplosion/BulletFatExplosionBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MagicExplosion/MagicExplosionGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/kiss.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Combat FX.txt
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fog/White/FogCalm.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Nova/Fire/NovaFireRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/MysticExplosion/MysticExplosionOrange.prefab
+- Assets/FX/Epic Toon FX/Sound/etfx_shoot_energy02.wav
+- Assets/FX/Epic Toon FX/Textures/shield_magic2.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LiquidExplosion/LiquidExplosionLava.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodSplatWideAnimated.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Healing/HealStream3.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/Enchant/MagicEnchantBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Bubbles/bubble_soap.mat
+- Assets/FX/Epic Toon FX/Materials/Magic/aura_slam.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordHit/SwordHitYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Red/BloodSplatCritical2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodDripping.prefab
+- Assets/FX/Epic Toon FX/Materials/Splat/splat01_animated_3x3.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Money/MoneyDollarbillFountain.prefab
+- Assets/FX/Epic Toon FX/Textures/Emoticons/cute.png
+- Assets/FX/Epic Toon FX/Materials/Misc/ring (additive).mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fog/Grey/FogHeavy.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Laser/LaserMissileFire.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Soft/Alpha Blend/SoftFireABGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Hearts/HeartBreak.prefab
+- Assets/FX/Epic Toon FX/Materials/Misc/aura_vertical_soft.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/Snow/SnowSpinny.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Portals/SpinPortal/SpinPortalBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Directional/ConfettiDirectionalRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fireflies/FireFliesGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/LightningExplosion/LightningExplosionPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/SwordSlash/SwordSlashRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Water/Flowing/WaterDripping2D.prefab
+- Assets/FX/Epic Toon FX/Textures/fire_ground_soft3x3.png
+- Assets/FX/Epic Toon FX/Textures/wave3.png
+- Assets/FX/Epic Toon FX/Materials/Emoticons/laughcry.mat
+- Assets/FX/Epic Toon FX/Materials/Misc/evil_spirit.mat
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Yellow/YellowBloodShowerLoop2D.prefab
+- Assets/FX/Epic Toon FX/Materials/Splat/splat02.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrb/PowerOrbBlue.prefab
+- Assets/FX/Epic Toon FX/Materials/Stars/star_ADD.mat
+- Assets/FX/Epic Toon FX/Textures/circlestretchy.png
+- Assets/FX/Epic Toon FX/Textures/portal_stripes5.png
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fire/Cartoon/Field/FireFieldPink.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Weather/Snow/SnowLight.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Fog/White/FogLively.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/EvilDeath.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Magic/PillarBlast/MagicPillarBlastGreen.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/boom.png
+- Assets/FX/Epic Toon FX/Materials/Water/waterspray.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Soft/Additive/FlamethrowerAdditivePurple.prefab
+- Assets/FX/Epic Toon FX/Materials/Splat/splat01.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Death/MysticDeath.prefab
+- Assets/FX/Epic Toon FX/Materials/Confetti/confetti_blur.mat
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/- Misc/StunExplosion2.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Bubbles/SoapBubbleBlast.prefab
+- Assets/FX/Epic Toon FX/Textures/cloud_2x2_softshadow.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Sword/MagicSwordHit/MagicSwordHitBlue.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/sharp_green.png
+- Assets/FX/Epic Toon FX/Textures/Emoticons/happy.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Soul/SoulMissileGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Misc/MusicalNotes.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Shower/ConfettiShowerGreenYellow.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbElemental/PowerOrbStormElemental.prefab
+- Assets/FX/Epic Toon FX/Materials/Glows/glowALPHABLEND_Ui.mat
+- Assets/FX/Epic Toon FX/Textures/Text/whammm.png
+- Assets/FX/Epic Toon FX/Materials/Glows/lightray3.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Powerups/PowerOrbSmall/PowerOrbSmallPurple.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/ko.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Yellow/YellowBloodPoolGrowing.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Missiles/Fireball/FireballMissileGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Muzzleflash/SoulMuzzle/SoulMuzzleCrimson.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Blood/Red/BloodPoolGrowing.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/crash.png
+- Assets/FX/Epic Toon FX/Materials/Geometric/circlecurve_magic.mat
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Confetti/Shower/ConfettiShowerRed.prefab
+- Assets/FX/Epic Toon FX/Prefabs 2D/Blood/Green/GreenBloodSplatCritical2D.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Smoke/White/SmokeExplosionWhite.prefab
+- Assets/FX/Epic Toon FX/Textures/Text/crack.png
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Flamethrower/Cartoon/FlamethrowerCartoonyBlue.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Environment/Underwater/BubbleRisingUnderwater.prefab
+- Assets/FX/Epic Toon FX/Materials/money/moneybills.mat
+- Assets/FX/Epic Toon FX/Prefabs/Interactive/Sparkle/SparkleArea/SparkleAreaGreen.prefab
+- Assets/FX/Epic Toon FX/Prefabs/Combat/Explosions/NukeVerticalExplosion/NukeVerticalExplosionPink.prefab
+Dependencies:
+- /Users/funwave1/Desktop/SniperAssetBundles/iOS/fx_magic

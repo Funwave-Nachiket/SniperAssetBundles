@@ -1,0 +1,409 @@
+ManifestFileVersion: 0
+UnityVersion: 6000.3.11f1
+CRC: 1696165824
+Hashes:
+  AssetFileHash:
+    serializedVersion: 2
+    Hash: 4012efa45e950557e6fb103dff8b0930
+  TypeTreeHash:
+    serializedVersion: 2
+    Hash: a71ce5b7bf462289c068aea1b398aa76
+  IncrementalBuildHash:
+    serializedVersion: 2
+    Hash: 5a79e036fa7031a5ac50cf509fc5f271
+HashAppended: 0
+ClassTypes:
+- Class: 21
+  Script: {instanceID: 0}
+- Class: 28
+  Script: {instanceID: 0}
+- Class: 48
+  Script: {instanceID: 0}
+- Class: 49
+  Script: {instanceID: 0}
+- Class: 114
+  Script: {fileID: 11500000, guid: 54d21f6ece3b46479f0c328f8c6007e0, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 71c1514a6bd24e1e882cebbe1904ce04, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 2705215ac5b84b70bacc50632be6e391, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: 84a92b25f83d49b9bc132d206b370281, type: 3}
+- Class: 114
+  Script: {fileID: 11500000, guid: ab2114bdc8544297b417dfefe9f1e410, type: 3}
+- Class: 115
+  Script: {instanceID: 0}
+- Class: 128
+  Script: {instanceID: 0}
+- Class: 213
+  Script: {instanceID: 0}
+SerializeReferenceClassIdentifiers:
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FaceInfo_Legacy
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.FontAssetCreationSettings
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.GlyphAnchorPoint
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.KerningTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.LigatureSubstitutionRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.MarkPositionAdjustment
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.MarkToBaseAdjustmentRecord
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Character
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontFeatureTable
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_FontWeightPair
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Sprite
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteCharacter
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_SpriteGlyph
+- AssemblyName: Unity.TextMeshPro
+  ClassName: TMPro.TMP_Style
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.FaceInfo
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.Glyph
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphMetrics
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.GlyphRect
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphAdjustmentRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphPairAdjustmentRecord
+- AssemblyName: UnityEngine.TextCoreFontEngineModule
+  ClassName: UnityEngine.TextCore.LowLevel.GlyphValueRecord
+Assets:
+- Assets/Military_Shooter_UI/Icons/Optic_01_c.png
+- Assets/Military_Shooter_UI/Parts/Frame_01_b.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP LIT.shadergraph
+- Assets/Fonts/BebasNeue-Regular Border.mat
+- Assets/Military_Shooter_UI/Parts/Bar_02.png
+- Assets/Fonts/BebasNeue-Regular SDF.asset
+- Assets/Military_Shooter_UI/Backgrounds/Background_04_a.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_L3.png
+- Assets/Fonts/ColorGradient.asset
+- Assets/Military_Shooter_UI/Icons/Gun_06_c.png
+- Assets/Military_Shooter_UI/Icons/Optic_01_d.png
+- Assets/Military_Shooter_UI/Icons/Time_01_a.png
+- Assets/UI/scope.png
+- Assets/Military_Shooter_UI/Parts/Button_01_b.png
+- Assets/Military_Shooter_UI/Parts/SliderHandle_01.png
+- Assets/Military_Shooter_UI/Icons/Gun_07_a.png
+- Assets/Military_Shooter_UI/Backgrounds/Background_01_b.png
+- Assets/Military_Shooter_UI/Icons/Skip_01_b.png
+- Assets/Military_Shooter_UI/Icons/Medal_01.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_Y.png
+- Assets/Military_Shooter_UI/Icons/Lock_01_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_10_a.png
+- Assets/UI/daily_reward_icon.png
+- Assets/Military_Shooter_UI/Icons/Menu_01.png
+- Assets/Military_Shooter_UI/Parts/Button_05_Background.png
+- Assets/Military_Shooter_UI/Parts/Pip_01_a.png
+- Assets/Military_Shooter_UI/Parts/Panel_07_b.png
+- Assets/UI/usericon.png
+- Assets/Military_Shooter_UI/Parts/Button_01_Background.png
+- Assets/Military_Shooter_UI/Icons/Skull_01.png
+- Assets/Military_Shooter_UI/Parts/Button_03_a.png
+- Assets/UI/Logo_final.png
+- Assets/Military_Shooter_UI/Icons/Heart_01_a.png
+- Assets/Military_Shooter_UI/Icons/Optic_01_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_06_c.png
+- Assets/Military_Shooter_UI/Parts/Frame_08_a.png
+- Assets/Military_Shooter_UI/Icons/Question_01.png
+- Assets/Military_Shooter_UI/Icons/Arrow_01_d.png
+- Assets/Military_Shooter_UI/Backgrounds/Background_03_b.png
+- Assets/Military_Shooter_UI/Parts/Radio_03_b.png
+- Assets/Military_Shooter_UI/Parts/Frame_05_c.png
+- Assets/TextMesh Pro/Resources/LineBreaking Following Characters.txt
+- Assets/Military_Shooter_UI/Icons/Gun_03_a.png
+- Assets/Military_Shooter_UI/Icons/Time_01_b.png
+- Assets/Military_Shooter_UI/Parts/Button_03_Border.png
+- Assets/Military_Shooter_UI/Backgrounds/Background_02_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_09_a.png
+- Assets/Military_Shooter_UI/Icons/Checkbox_01_a.png
+- Assets/Military_Shooter_UI/Icons/Ammo_01_c.png
+- Assets/Military_Shooter_UI/Parts/Frame_Background_f.png
+- Assets/Military_Shooter_UI/Icons/Gun_03_c.png
+- Assets/UI/weapons/weapon37.png
+- Assets/Military_Shooter_UI/Parts/Panel_03_b.png
+- Assets/Military_Shooter_UI/Icons/Controller_01.png
+- Assets/Military_Shooter_UI/Parts/Button_01_Border.png
+- Assets/UI/dailyLoginRewards 1.png
+- Assets/Military_Shooter_UI/Parts/Frame_08_c.png
+- Assets/Military_Shooter_UI/Parts/Panel_06_a.png
+- Assets/TextMesh Pro/Shaders/TMP_Bitmap-Custom-Atlas.shader
+- Assets/Military_Shooter_UI/Icons/Gun_06_d.png
+- Assets/Military_Shooter_UI/Parts/Frame_03_b.png
+- Assets/Military_Shooter_UI/Parts/Frame_11_c.png
+- Assets/Military_Shooter_UI/Backgrounds/Background_04_b.png
+- Assets/UI/ui_sprite.png
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF.asset
+- Assets/Military_Shooter_UI/Parts/Toggle_05_b.png
+- Assets/TextMesh Pro/Resources/Style Sheets/Default Style Sheet.asset
+- Assets/Military_Shooter_UI/Mockups/FPS_UI_Mockup1.png
+- Assets/Military_Shooter_UI/Parts/Divider_02.png
+- Assets/UI/Logo.png
+- Assets/Military_Shooter_UI/Parts/Button_03_Background.png
+- Assets/Military_Shooter_UI/Parts/Bar_Background_b.png
+- Assets/Military_Shooter_UI/Parts/Button_04_b.png
+- Assets/Military_Shooter_UI/Icons/cart.png
+- Assets/Military_Shooter_UI/Parts/Frame_06_b.png
+- Assets/Military_Shooter_UI/Icons/Arrow_02_c.png
+- Assets/Military_Shooter_UI/Parts/Radio_01.png
+- Assets/Military_Shooter_UI/Icons/Seek_01_b.png
+- Assets/Military_Shooter_UI/Icons/Gun_05_a.png
+- Assets/UI/calendar_check_128dp_FFFFFF_FILL0_wght400_GRAD0_opsz48.png
+- Assets/Military_Shooter_UI/Icons/warning.png
+- Assets/Military_Shooter_UI/Parts/Frame_07_a.png
+- Assets/Military_Shooter_UI/Parts/Divider_04.png
+- Assets/Military_Shooter_UI/Icons/Time_01_c.png
+- Assets/TextMesh Pro/Resources/Sprite Assets/EmojiOne.asset
+- Assets/Military_Shooter_UI/Icons/Cancel_01.png
+- Assets/Military_Shooter_UI/Parts/Toggle_03_a.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_Menu.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_B.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_Share.png
+- Assets/Military_Shooter_UI/Parts/Frame_11_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_14_c.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_LB.png
+- Assets/UI/circle_outline.png
+- Assets/Military_Shooter_UI/Parts/Frame_09_c.png
+- Assets/Military_Shooter_UI/Parts/Panel_05_a.png
+- Assets/Military_Shooter_UI/Parts/Toggle_01.png
+- Assets/UI/india.png
+- Assets/Military_Shooter_UI/Icons/Lock_01_b.png
+- Assets/Military_Shooter_UI/Parts/Bar_01.png
+- Assets/Military_Shooter_UI/Parts/Panel_02_a.png
+- Assets/Military_Shooter_UI/Parts/SliderHandle_02.png
+- Assets/UI/weapons/weapon35.png
+- Assets/Military_Shooter_UI/Parts/SliderHandle_03.png
+- Assets/TextMesh Pro/Shaders/TMP_Sprite.shader
+- Assets/UI/ads.png
+- Assets/Military_Shooter_UI/Mockups/FPS_UI_Mockup2.png
+- Assets/Military_Shooter_UI/Icons/Globe_01.png
+- Assets/Military_Shooter_UI/Icons/Gun_02_a.png
+- Assets/Military_Shooter_UI/Icons/Plus_01.png
+- Assets/Military_Shooter_UI/Parts/Button_02_Border.png
+- Assets/Military_Shooter_UI/Parts/Button_03_b.png
+- Assets/UI/weapons/weapon34.png
+- Assets/Military_Shooter_UI/Parts/Frame_08_b.png
+- Assets/UI/battery.png
+- Assets/Military_Shooter_UI/Icons/Check_01.png
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Outline.mat
+- Assets/Military_Shooter_UI/Parts/Frame_14_b.png
+- Assets/Military_Shooter_UI/Parts/Button_01_c.png
+- Assets/Fonts/BebasNeue-Regular.ttf
+- Assets/Military_Shooter_UI/Icons/Close_01.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF Overlay.shader
+- Assets/Military_Shooter_UI/Icons/Back_01.png
+- Assets/Military_Shooter_UI/Icons/Gun_01_a.png
+- Assets/UI/edit_ico_material.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile-2-Pass.shader
+- Assets/Military_Shooter_UI/Icons/Mail_01.png
+- Assets/Military_Shooter_UI/Icons/Pause_01.png
+- Assets/Military_Shooter_UI/Parts/SliderBar_01.png
+- Assets/Military_Shooter_UI/Parts/Frame_01_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_11_b.png
+- Assets/Military_Shooter_UI/Icons/Gun_04_a.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF-URP Lit.shadergraph
+- Assets/UI/dailyLoginRewards.png
+- Assets/Military_Shooter_UI/Icons/Arrow_01_c.png
+- Assets/Military_Shooter_UI/Parts/Frame_12_a.png
+- Assets/Military_Shooter_UI/Parts/Panel_01_a.png
+- Assets/Military_Shooter_UI/Parts/Button_05_b.png
+- Assets/Military_Shooter_UI/Parts/Panel_07_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_Background_d.png
+- Assets/Military_Shooter_UI/Parts/Button_02_Background.png
+- Assets/UI/shooticon 1.png
+- Assets/Military_Shooter_UI/Parts/Frame_07_b.png
+- Assets/Military_Shooter_UI/Icons/Arrow_01_a.png
+- Assets/UI/googleico.png
+- Assets/UI/weapons/weapon38.png
+- Assets/Military_Shooter_UI/Backgrounds/Background_01_a.png
+- Assets/Military_Shooter_UI/Parts/Toggle_02_b.png
+- Assets/Military_Shooter_UI/Parts/Toggle_04_a.png
+- Assets/TextMesh Pro/Shaders/TMP_Bitmap-Mobile.shader
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Overlay.shader
+- Assets/Military_Shooter_UI/Icons/Fist_01.png
+- Assets/Military_Shooter_UI/Parts/Panel_04_a.png
+- Assets/UI/BulletIcon.png
+- Assets/Military_Shooter_UI/Parts/Frame_Background_b.png
+- Assets/UI/icon.png
+- Assets/TextMesh Pro/Resources/LineBreaking Leading Characters.txt
+- Assets/Military_Shooter_UI/Parts/Frame_13_b.png
+- Assets/Military_Shooter_UI/Icons/skull_headshot.png
+- Assets/Military_Shooter_UI/Icons/Gem_01.png
+- Assets/Military_Shooter_UI/Parts/Bar_03.png
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Drop Shadow.mat
+- Assets/UI/052.png
+- Assets/Military_Shooter_UI/Parts/Frame_10_b.png
+- Assets/Military_Shooter_UI/Parts/Bar_Background_a.png
+- Assets/Military_Shooter_UI/Icons/Gun_02_b.png
+- Assets/Military_Shooter_UI/Parts/Frame_05_a.png
+- Assets/Military_Shooter_UI/Parts/Panel_01_b.png
+- Assets/Military_Shooter_UI/Icons/Seek_01_a.png
+- Assets/Military_Shooter_UI/Icons/Arrow_01_b.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF-URP Unlit.shadergraph
+- Assets/TextMesh Pro/Shaders/TMP_SDF SSD.shader
+- Assets/Military_Shooter_UI/Icons/Social_01.png
+- Assets/Military_Shooter_UI/Backgrounds/Background_02_b.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF.shader
+- Assets/Military_Shooter_UI/Parts/Pip_01_b.png
+- Assets/UI/BgImages/13.png
+- Assets/Military_Shooter_UI/Parts/Button_03_c.png
+- Assets/Military_Shooter_UI/Parts/Frame_12_c.png
+- Assets/UI/Objectives.png
+- Assets/Military_Shooter_UI/Icons/Gun_06_b.png
+- Assets/Military_Shooter_UI/Icons/Audio_01_b.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile.shader
+- Assets/Military_Shooter_UI/Parts/Frame_02_a.png
+- Assets/Military_Shooter_UI/Icons/Gun_01_b.png
+- Assets/Military_Shooter_UI/Parts/Toggle_03_b.png
+- Assets/Military_Shooter_UI/Parts/Radio_02_a.png
+- Assets/Military_Shooter_UI/Parts/gradientWhite.png
+- Assets/UI/circle_glow.png
+- Assets/Military_Shooter_UI/Icons/Gun_04_c.png
+- Assets/Military_Shooter_UI/Parts/Frame_14_a.png
+- Assets/TextMesh Pro/Shaders/TMP_Bitmap.shader
+- Assets/Military_Shooter_UI/Parts/Panel_02_b.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile SSD.shader
+- Assets/Military_Shooter_UI/Icons/Gun_05_b.png
+- Assets/Military_Shooter_UI/Parts/Frame_Background_c.png
+- Assets/Military_Shooter_UI/Parts/Frame_04_b.png
+- Assets/UI/Diamond.png
+- Assets/Military_Shooter_UI/Icons/Gun_07_b.png
+- Assets/Military_Shooter_UI/Icons/Gun_06_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_05_b.png
+- Assets/UI/sniper logo.png
+- Assets/Military_Shooter_UI/Parts/Button_04_Background.png
+- Assets/Military_Shooter_UI/Mockups/FPS_UI_Mockup4.png
+- Assets/Military_Shooter_UI/Parts/Pip_01_c.png
+- Assets/Military_Shooter_UI/Parts/Frame_10_c.png
+- Assets/Military_Shooter_UI/Icons/Info_01.png
+- Assets/Military_Shooter_UI/Icons/Ammo_01_a.png
+- Assets/Military_Shooter_UI/Icons/Shop_01.png
+- Assets/Military_Shooter_UI/Icons/Gun_02_c.png
+- Assets/Military_Shooter_UI/Parts/Panel_03_a.png
+- Assets/Military_Shooter_UI/Icons/Gun_03_b.png
+- Assets/Military_Shooter_UI/Parts/Button_02_b.png
+- Assets/Fonts/BebasNeue-Regular 2.mat
+- Assets/Military_Shooter_UI/Icons/Skip_01_a.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_LT.png
+- Assets/Military_Shooter_UI/Icons/Options_01.png
+- Assets/UI/hexagon.png
+- Assets/Military_Shooter_UI/Icons/Knife_01.png
+- Assets/UI/circle 1.png
+- Assets/Military_Shooter_UI/Parts/Toggle_05_a.png
+- Assets/Military_Shooter_UI/Icons/Search_01.png
+- Assets/UI/Appicon_ios.png
+- Assets/Military_Shooter_UI/Parts/Frame_Background_a.png
+- Assets/UI/kasmirIco.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Surface-Mobile.shader
+- Assets/Military_Shooter_UI/Icons/Controller_01_RB.png
+- Assets/Military_Shooter_UI/Parts/Panel_04_b.png
+- Assets/Military_Shooter_UI/Icons/Trophy_01.png
+- Assets/UI/coin icon.png
+- Assets/Military_Shooter_UI/Parts/Frame_03_c.png
+- Assets/UI/weapons/weapon22.png
+- Assets/Military_Shooter_UI/Icons/Energy_01.png
+- Assets/Military_Shooter_UI/Parts/Frame_03_a.png
+- Assets/Military_Shooter_UI/Icons/Arrow_02_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_13_a.png
+- Assets/Military_Shooter_UI/Icons/Target_01_c.png
+- Assets/Military_Shooter_UI/Parts/Button_05_a.png
+- Assets/Military_Shooter_UI/Mockups/FPS_UI_Mockup3.png
+- Assets/Military_Shooter_UI/Icons/Target_01_a.png
+- Assets/Military_Shooter_UI/Icons/Arrow_02_d.png
+- Assets/Military_Shooter_UI/Icons/Key_01.png
+- Assets/Military_Shooter_UI/Icons/Percent_01.png
+- Assets/Military_Shooter_UI/Icons/Target_01_d.png
+- Assets/Military_Shooter_UI/Icons/Play_01.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_A.png
+- Assets/Military_Shooter_UI/Parts/Frame_04_a.png
+- Assets/Military_Shooter_UI/Icons/Arrow_02_b.png
+- Assets/Military_Shooter_UI/Parts/Panel_03_Border.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Mobile Masking.shader
+- Assets/UI/NightVision.png
+- Assets/Military_Shooter_UI/Parts/Button_04_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_13_c.png
+- Assets/UI/scopeico.png
+- Assets/Military_Shooter_UI/Parts/Bar_Background_w.png
+- Assets/Military_Shooter_UI/Parts/Toggle_02_a.png
+- Assets/Military_Shooter_UI/Parts/Button_02_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_09_b.png
+- Assets/TextMesh Pro/Resources/Fonts & Materials/LiberationSans SDF - Fallback.asset
+- Assets/Military_Shooter_UI/Parts/Pip_01_d.png
+- Assets/Military_Shooter_UI/Parts/Button_05_c.png
+- Assets/UI/051.png
+- Assets/Military_Shooter_UI/Icons/Star_01_b.png
+- Assets/Military_Shooter_UI/Parts/Frame_04_c.png
+- Assets/Military_Shooter_UI/Icons/Settings_01.png
+- Assets/Military_Shooter_UI/Icons/Gun_05_c.png
+- Assets/UI/ui_image.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF-Surface.shader
+- Assets/Military_Shooter_UI/Icons/Grenade_01.png
+- Assets/UI/battery_new.png
+- Assets/Military_Shooter_UI/Parts/Frame_12_b.png
+- Assets/Military_Shooter_UI/Icons/Trash_01.png
+- Assets/Military_Shooter_UI/Icons/Checkbox_01_b.png
+- Assets/UI/circle.png
+- Assets/Military_Shooter_UI/Parts/Frame_01_c.png
+- Assets/UI/ruler.png
+- Assets/UI/Logi.png
+- Assets/Military_Shooter_UI/Icons/Optic_01_b.png
+- Assets/Military_Shooter_UI/Backgrounds/Background_03_a.png
+- Assets/Military_Shooter_UI/Parts/Frame_02_b.png
+- Assets/Military_Shooter_UI/Parts/Frame_07_c.png
+- Assets/Military_Shooter_UI/Icons/Gun_04_b.png
+- Assets/Military_Shooter_UI/Parts/Frame_Background_e.png
+- Assets/Military_Shooter_UI/Icons/Target_01_b.png
+- Assets/UI/bullet 1.png
+- Assets/Military_Shooter_UI/Icons/Messages_01.png
+- Assets/Military_Shooter_UI/Parts/Divider_01.png
+- Assets/Military_Shooter_UI/Parts/Button_04_c.png
+- Assets/Military_Shooter_UI/Parts/Radio_03_a.png
+- Assets/UI/weapons/weapon36.png
+- Assets/Military_Shooter_UI/Parts/Frame_06_a.png
+- Assets/UI/shooticon.png
+- Assets/UI/Buttons.png
+- Assets/Military_Shooter_UI/Parts/SliderHandle_04.png
+- Assets/Military_Shooter_UI/Parts/Frame_02_c.png
+- Assets/UI/hexagon_2.png
+- Assets/Military_Shooter_UI/Parts/Button_01_a.png
+- Assets/Military_Shooter_UI/Parts/Panel_05_b.png
+- Assets/Military_Shooter_UI/Icons/Home_01.png
+- Assets/Military_Shooter_UI/Icons/Gun_01_c.png
+- Assets/UI/bullet.png
+- Assets/UI/coinSingle.png
+- "Assets/UI/Screenshot 2025-12-15 at 3.05.58\u202FPM.png"
+- Assets/Military_Shooter_UI/Icons/Minus_01.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_X.png
+- Assets/Military_Shooter_UI/Parts/Toggle_04_b.png
+- Assets/UI/circlegradient.png
+- Assets/Military_Shooter_UI/Parts/Bar_04.png
+- Assets/Military_Shooter_UI/Icons/Ammo_01_b.png
+- Assets/Military_Shooter_UI/Icons/Heart_01_b.png
+- Assets/Military_Shooter_UI/Icons/Star_01_a.png
+- Assets/Military_Shooter_UI/Parts/Panel_06_b.png
+- Assets/Military_Shooter_UI/Icons/Headphone_01.png
+- Assets/Military_Shooter_UI/Parts/Radio_02_b.png
+- Assets/Military_Shooter_UI/Icons/Money_01.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_RT.png
+- Assets/Military_Shooter_UI/Icons/Audio_01_a.png
+- Assets/Military_Shooter_UI/Icons/Controller_01_R3.png
+- Assets/UI/blurred.png
+- Assets/Military_Shooter_UI/Parts/Divider_03.png
+- Assets/Military_Shooter_UI/Icons/Silencer_01.png
+- Assets/Military_Shooter_UI/Parts/Button_02_c.png
+- Assets/TextMesh Pro/Shaders/TMP_SDF-HDRP UNLIT.shadergraph
+- Assets/UI/Apple_logo_black.png
+- Assets/TextMesh Pro/Resources/TMP Settings.asset
+Dependencies: []

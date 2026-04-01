@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
-UnityVersion: 6000.3.9f1
-CRC: 1506363435
+UnityVersion: 6000.3.11f1
+CRC: 4122069820
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: f642eb2667c53df7f45b3a7fd0571e69
+    Hash: 16c2fd01aa90a3925780b03a84e0e77e
   TypeTreeHash:
     serializedVersion: 2
-    Hash: a8714a32cf781fcf2bd0fd250ee9cc17
+    Hash: 67628d0a4d25bb9cfffd8158756e6f13
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 3041bafcac5c94ea30665ce70670c8dc
+    Hash: 270fbf9a353f2d0b612cba42f66d59ab
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -64,15 +64,11 @@ ClassTypes:
 - Class: 108
   Script: {instanceID: 0}
 - Class: 114
-  Script: {fileID: 11500000, guid: 792ce5380ef984cadbbcc84f87b28872, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: af0f3fa1a04c94efdbcd48a9872ab195, type: 3}
+  Script: {fileID: 11500000, guid: 02d1f85dc0bac483bb6c739f7fc563c9, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: baaf0565473334611a1168e7292af14e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: e37e6a9a722e344a7b2f2f70166e975a, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 5bf551cb87be3493ba584499439b7f8e, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: a09f4a6ae35bb4f958de74456262e61d, type: 3}
 - Class: 114
@@ -86,23 +82,13 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: 82e6cfd39ecb6431583e408dd8d50136, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 41c18c74d310c4af2873b42011e83cac, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 10988dfde02d4cd40979220b87283704, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 67403cff18887734f9aef3cc21680337, type: 3}
-- Class: 114
   Script: {fileID: 11500000, guid: 032afca5781ebbf4297689acad0dc1d8, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: d87cf01376c8daf4491c4aa96b5d9c9a, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 276ac4a31095bfc44b9fd0b4ccdd71d7, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 64336b827d1019e449aa528d932986fd, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 652d08363b6633b44b0ec422c5a59a2b, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: eb3d775e5b8524fdaa279e1adea42d32, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 61dc8ba04e1ad5d40af2dbc451e9b140, type: 3}
 - Class: 114
@@ -154,9 +140,9 @@ ClassTypes:
 - Class: 114
   Script: {fileID: 11500000, guid: ce9fb3be51c0349358e88ae9961b9a0e, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 926253b8618684d01b1ab90c518744d5, type: 3}
+  Script: {fileID: 11500000, guid: 1de051fe064c6493d8262366bd940435, type: 3}
 - Class: 114
-  Script: {fileID: 11500000, guid: 35d206e738b6c4511a6ceeb2465f3881, type: 3}
+  Script: {fileID: 11500000, guid: 926253b8618684d01b1ab90c518744d5, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: d057e8811090d4b1289d7aa2e9314706, type: 3}
 - Class: 114
@@ -257,8 +243,6 @@ ClassTypes:
   Script: {fileID: 11500000, guid: 5f7201a12d95ffc409449d95f23cf332, type: 3}
 - Class: 114
   Script: {fileID: 11500000, guid: 59f8146938fff824cb5fd77236b75775, type: 3}
-- Class: 114
-  Script: {fileID: 11500000, guid: 1de051fe064c6493d8262366bd940435, type: 3}
 - Class: 115
   Script: {instanceID: 0}
 - Class: 120
@@ -329,8 +313,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 328
   Script: {instanceID: 0}
-- Class: 329
-  Script: {instanceID: 0}
 - Class: 363
   Script: {instanceID: 0}
 - Class: 850595691
@@ -342,4 +324,11 @@ ClassTypes:
 SerializeReferenceClassIdentifiers: []
 Assets:
 - Assets/Scenes/MainGameplay.unity
-Dependencies: []
+Dependencies:
+- /Users/funwave1/Desktop/SniperAssetBundles/iOS/environment_highlands
+- /Users/funwave1/Desktop/SniperAssetBundles/iOS/environment_polygon
+- /Users/funwave1/Desktop/SniperAssetBundles/iOS/gameplay_fx
+- /Users/funwave1/Desktop/SniperAssetBundles/iOS/gameplay_misc
+- /Users/funwave1/Desktop/SniperAssetBundles/iOS/shared_assets
+- /Users/funwave1/Desktop/SniperAssetBundles/iOS/sniper_core
+- /Users/funwave1/Desktop/SniperAssetBundles/iOS/ui_assets
