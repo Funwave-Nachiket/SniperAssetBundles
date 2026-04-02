@@ -1,5 +1,5 @@
 {
-    "version": "1.0",
+    "version": "1.2",
     "AppVersion": {
         "Versions": [
             {
@@ -13,6 +13,10 @@
             {
                 "AndroidV": "1.10",
                 "iOSV": "1.10"
+            },
+            {
+                "AndroidV": "1.2",
+                "iOSV": "1.2"
             }
         ]
     }
