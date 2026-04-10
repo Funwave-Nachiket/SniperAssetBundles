@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.11f1
-CRC: 2696390137
+CRC: 4252325301
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 09197f6b12ef64fc668adb677e2c60f2
+    Hash: 9ff659823dde4410cb604a5166f8907a
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 9f456675270b7782376abeea39b4c11a
+    Hash: d25ca899a85157d126f6205a2708f3a6
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 8ca179896a579e40bd8abf257a4a163d
+    Hash: b96b396d0f29a8bd1f39d5a4a57a686d
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -50,8 +50,6 @@ ClassTypes:
 - Class: 83
   Script: {instanceID: 0}
 - Class: 84
-  Script: {instanceID: 0}
-- Class: 89
   Script: {instanceID: 0}
 - Class: 90
   Script: {instanceID: 0}
@@ -577,37 +575,37 @@ Assets:
 - Assets/Military/Texture/FPS_Arms/T_Military_Hands3_color_skin1.png
 - Assets/Military/Texture/Body/T_Military_Head2_ao.png
 - Assets/Military/Texture/Bottom/T_Military_Boots3_Skin2_color.png
-- Assets/Military/StarterAssets/Environment/Art/Models/Ground_Mesh.fbx
+- Assets/Military/Materials URP/URP_FPS_Hands1_Skin1.mat
 - Assets/Military/Texture/Body/T_Military_Gasmask1_nmap.png
 - Assets/Military/Materials URP/URP_Shirt3_Skin3.mat
-- Assets/Military/Materials URP/URP_FPS_Hands1_Skin1.mat
-- Assets/Military/Texture/Bottom/T_Military_Boots1_metalness.png
 - Assets/Military/Materials URP/URP_Cap1_Skin3.mat
-- Assets/Military/Prefab/Modules.prefab
-- Assets/Military/Materials URP/URP_Gasmask1_Skin3.mat
+- Assets/Military/Texture/Bottom/T_Military_Boots1_metalness.png
 - Assets/Military/Materials URP/URP_Rifle1_skin3.mat
+- Assets/Military/Materials URP/URP_Gasmask1_Skin3.mat
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 4.asset
 - Assets/Mesh/textures/Extinguisher_albedo.jpeg
 - Assets/Military/Materials URP/URP_Rifle1_skin4.mat
 - Assets/Military/Texture/Weapon/T_Military_Rifle1_ao.png
 - Assets/Military/Texture/Bottom/T_Military_Pants2_color_skin1.png
+- Assets/Military/Prefab/Modules.prefab
 - Assets/Prefab/UI/WeaponUpgrade/Damage_stat.prefab
 - Assets/Military/Texture/Top/T_Military_Shirt3_Skin2_color.png
 - Assets/Military/Basemesh/Separated/SK_Military_Cap1_Gasmask.fbx
 - Assets/Military/Texture/FPS_Arms/T_Military_Hands3_ao.png
 - Assets/Military/Texture/Body/T_Military_Head2_nmap.png
 - Assets/Military/Materials/Shirt3_Skin3.mat
+- Assets/Military/StarterAssets/Environment/Art/Models/Ground_Mesh.fbx
 - Assets/Settings/Mobile_Renderer.asset
 - Assets/Prefab/Snipers/Recon_E_2_PreSet.prefab
 - Assets/Military/Texture/Equip/T_Military_Pouches1_Skin1_color.png
 - Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Stand--Idle.anim.fbx
 - Assets/Prefab/Snipers/Recon_C_PreSet.prefab
 - Assets/Military/Texture/Weapon/T_Military_Rifle3_nmap.png
-- Assets/Military/StarterAssets/Environment/Art/Models/Structure_Mesh.fbx
-- Assets/Military/Basemesh/Separated/FPS/SK_Miliary_FPS_Arms.fbx
 - Assets/Military/Materials URP/URP_Shirt3_Skin2.mat
-- Assets/Animations/ShooterTargetFall/New Animation.anim
+- Assets/Military/Basemesh/Separated/FPS/SK_Miliary_FPS_Arms.fbx
 - Assets/Military/Texture/Top/T_Military_Caps1_metalness.png
+- Assets/Animations/ShooterTargetFall/New Animation.anim
+- Assets/Military/StarterAssets/Environment/Art/Models/Structure_Mesh.fbx
 - Assets/Military/Texture/Top/T_Military_Shirt2_Skin3_color.png
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 1.asset
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 19.asset
@@ -626,25 +624,25 @@ Assets:
 - Assets/Military/Materials URP/URP_Gasmask1_Skin2.mat
 - Assets/Military/Texture/Bottom/T_Military_Pants1_rough.png
 - Assets/Military/Texture/Body/T_Military_Gasmask1_rough.png
+- Assets/Animations/Car/Standing W_Briefcase Idle.fbx
 - Assets/Military/Materials/Rifle3_skin2.mat
 - Assets/Military/Prefab/Lighting.prefab
-- Assets/Animations/Car/Standing W_Briefcase Idle.fbx
 - Assets/Military/Texture/Weapon/T_Military_Rifle1_nmap.png
 - Assets/Military/Materials/Pouches1_Skin3.mat
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 3.asset
 - Assets/Military/Materials/Rifle1_skin1.mat
 - Assets/Military/Texture/Body/T_Military_Hands1_ao.png
 - Assets/Military/StarterAssets/Environment/Art/Materials/Blue_Mat.mat
-- Assets/Military/Materials/Rifle1_skin4.mat
-- Assets/Military/Materials URP/URP_Vest1_Skin2.mat
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 14.asset
+- Assets/Military/Materials URP/URP_Vest1_Skin2.mat
+- Assets/Military/Materials/Rifle1_skin4.mat
 - Assets/Military/Texture/Weapon/T_Military_Rifle1_color_skin2.png
 - Assets/Military/Texture/Bottom/T_Military_Boots3_nmap.png
 - Assets/Military/Texture/Body/T_Military_Head2_rough.png
 - Assets/Military/Materials/Boots2_Skin2.mat
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_1sena/_sena_update 4.asset
-- Assets/Animations/Aim/Jumping Up.fbx
 - Assets/Military/Texture/Bottom/T_Military_Boots2_rough.png
+- Assets/Animations/Aim/Jumping Up.fbx
 - Assets/Military/Basemesh/Separated/SK_Military_Backpack1_vest.fbx
 - Assets/Military/Texture/Body/T_Military_Head1_color.png
 - Assets/Military/Materials/Pants2_Skin2.mat
@@ -655,8 +653,8 @@ Assets:
 - Assets/Military/Prefab/UI_EventSystem.prefab
 - Assets/Military/Texture/Body/T_Military_Gasmask1_color_skin1.png
 - Assets/Military/Texture/Equip/T_Military_Pouches1_Skin2_color.png
-- Assets/Military/StarterAssets/Environment/Art/Models/Stairs_200x100x200_Mesh.fbx
 - Assets/Military/Basemesh/Separated/SK_Military_Boots3.fbx
+- Assets/Military/StarterAssets/Environment/Art/Models/Stairs_200x100x200_Mesh.fbx
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 21.asset
 - Assets/Military/Texture/Top/T_Military_Shirt3_nmap.png
 - Assets/Military/Texture/Weapon/T_Military_Rifle1_rough.png
@@ -677,19 +675,19 @@ Assets:
 - Assets/Settings/PC_Renderer.asset
 - Assets/Military/Basemesh/Separated/SK_Military_Head1.fbx
 - Assets/Military/Floor/MAT_Floor_URP.mat
-- Assets/Military/StarterAssets/Environment/Art/Models/Stairs_650_400_300_Mesh.fbx
 - Assets/Military/Texture/Top/T_Military_Shirt1_ao.png
+- Assets/Military/StarterAssets/Environment/Art/Models/Stairs_650_400_300_Mesh.fbx
 - Assets/Military/Texture/Top/T_Military_Shirt1_color_skin4.png
-- Assets/Military/Materials/Shirt1_Skin3.mat
+- Assets/Military/Texture/Equip/T_Military_Vest1_Skin1_color.png
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_6DhanushLongShot/_6DhanushLongShotupdate
   1.asset
+- Assets/Military/Materials/Shirt1_Skin3.mat
 - Assets/Military/Materials URP/URP_Pants1_Skin1.mat
 - Assets/Prefab/UI/MainMenu/DailyLoginPanelItem.prefab
 - Assets/Military/Basemesh/Separated/SK_Military_Vest1_4.fbx
-- Assets/Military/Texture/Equip/T_Military_Vest1_Skin1_color.png
-- Assets/Military/Materials/Pants3_Skin2.mat
 - Assets/Military/Texture/Top/T_Military_Shirt1_color_skin2.png
 - Assets/Military/Texture/Weapon/T_Military_Rifle2_color_skin2.png
+- Assets/Military/Materials/Pants3_Skin2.mat
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_6DhanushLongShot/_6DhanushLongShotupdate
   4.asset
 - Assets/Military/Basemesh/Separated/SK_Military_Boots1.fbx
@@ -708,7 +706,6 @@ Assets:
 - Assets/Scripts/Scriptable/Weapons/_2Garuda_tacktical.asset
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_1sena/_sena_update 2.asset
 - Assets/Military/Texture/Bottom/T_Military_Pants1_ao.png
-- Assets/Scenes/MainGameplay/ReflectionProbe-4.exr
 - Assets/Military/Materials URP/URP_Head1.mat
 - Assets/Military/Materials/Head1.mat
 - Assets/Military/Texture/Bottom/T_Military_Pants1_Skin1_color.png
@@ -729,9 +726,9 @@ Assets:
 - Assets/Military/StarterAssets/InputSystem/StarterAssets.inputsettings.asset
 - Assets/Military/Basemesh/Separated/SK_Military_Helmet1_Gasmask.fbx
 - Assets/Prefab/Snipers/Recon_D_PreSet.prefab
-- Assets/Military/Materials/Pants1_Skin2.mat
 - Assets/Military/Materials URP/URP_Shirt1_Skin3.mat
 - Assets/Military/Prefab/URP/URP_Ready-made.prefab
+- Assets/Military/Materials/Pants1_Skin2.mat
 - Assets/Military/Materials/Boots1_Skin1.mat
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_4Bhima Anti-Mat/_4Bhima Anti-Matupdate
   1.asset
@@ -757,8 +754,8 @@ Assets:
 - Assets/Military/Texture/Bottom/T_Military_Pants1_Skin3_color.png
 - Assets/Military/Materials URP/URP_Backpack1_Skin2.mat
 - Assets/Material/shiny.mat
-- Assets/Military/Materials/Rifle2_skin3.mat
 - Assets/Military/Texture/Bottom/T_Military_Boots2_color_skin2.png
+- Assets/Military/Materials/Rifle2_skin3.mat
 - Assets/Military/Basemesh/Separated/SK_Military_Shirt1.fbx
 - Assets/Military/Materials URP/URP_Rifle3_skin1.mat
 - Assets/Military/Materials/Head2.mat
@@ -797,11 +794,11 @@ Assets:
 - Assets/Military/Materials URP/URP_Hands1_Skin1.mat
 - Assets/Military/Texture/FPS_Arms/T_Military_Hands3_nmap.png
 - Assets/Military/Texture/Top/T_Military_Shirt3_Skin1_color.png
-- Assets/Military/StarterAssets/Environment/Art/Models/Tunnel_Mesh.fbx
 - Assets/Military/Materials/Boots2_Skin3.mat
 - Assets/Military/Basemesh/Separated/SK_Military_Backpack1.fbx
-- Assets/Military/Texture/Weapon/T_Military_Rifle2_rough.png
 - Assets/Military/Texture/Top/T_Military_Caps1_skin4_color.png
+- Assets/Military/StarterAssets/Environment/Art/Models/Tunnel_Mesh.fbx
+- Assets/Military/Texture/Weapon/T_Military_Rifle2_rough.png
 - Assets/Scripts/Scriptable/Weapons/_6DhanushLongShot.asset
 - Assets/Military/Texture/Bottom/T_Military_Pants2_nmap.png
 - Assets/Military/Basemesh/Separated/SK_Military_Boots2.fbx
@@ -814,10 +811,9 @@ Assets:
 - Assets/Military/Materials/Vest1_Skin3.mat
 - Assets/Military/Materials/Pants3_Skin1.mat
 - Assets/Mesh/textures/Extinguisher_roughness.jpeg
-- Assets/Military/Materials/Shirt3_Skin2.mat
-- Assets/Scenes/MainGameplay/ReflectionProbe-3.exr
-- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 26.asset
 - Assets/Military/Materials/Shirt2_Skin3.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 26.asset
+- Assets/Military/Materials/Shirt3_Skin2.mat
 - Assets/Military/Texture/Body/T_Military_Head1_nmap.png
 - Assets/Military/Animations/Terrified (1).fbx
 - Assets/Military/Texture/Top/T_Military_Shirt1_color_skin1.png
@@ -827,12 +823,12 @@ Assets:
 - Assets/Military/Texture/Weapon/T_Military_Rifle2_color_skin4.png
 - Assets/Military/Texture/Equip/T_Military_Backpack1_rough.png
 - Assets/Military/Materials/Backpack1_Skin4.mat
-- Assets/Military/Materials/Boots1_Skin3.mat
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/StarterAssetsThirdPerson.controller
 - Assets/Military/Basemesh/Separated/SK_Military_Gasmask1.fbx
 - Assets/Military/Prefab/GameObject.prefab
-- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/StarterAssetsThirdPerson.controller
 - Assets/Military/Basemesh/Separated/FPS/SK_Miliary_Military_FPS_Shirt2.fbx
 - Assets/Military/StarterAssets/InputSystem/StarterAssets.inputactions
+- Assets/Military/Materials/Boots1_Skin3.mat
 - Assets/Military/Basemesh/Separated/SK_Military_Vest1_3.fbx
 - Assets/Military/Texture/Weapon/T_Military_Rifle3_ao.png
 - Assets/Military/Materials URP/URP_Eyes1.mat
@@ -841,8 +837,8 @@ Assets:
   2.asset
 - Assets/Military/Basemesh/Separated/SK_Military_Gasmask1_Filter_L.fbx
 - Assets/Mesh/punjabi_sikh_Kada.fbx
-- Assets/Military/StarterAssets/Environment/Art/Models/Box_350x250x300_Mesh.fbx
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 23.asset
+- Assets/Military/StarterAssets/Environment/Art/Models/Box_350x250x300_Mesh.fbx
 - Assets/Military/Materials/Hands1_Skin1.mat
 - Assets/Military/Floor/MAT_Floor_HDRP.mat
 - Assets/Military/Texture/Top/T_Military_Caps1_rough.png
@@ -858,7 +854,7 @@ Assets:
 - Assets/Military/Texture/Equip/T_Military_Pouches1_Skin3_color.png
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 27.asset
 - Assets/Military/Materials URP/URP_Shirt1_Skin4.mat
-- Assets/Military/Texture/Bottom/T_Military_Boots1_Skin2_color.png
+- Assets/Military/Texture/Weapon/T_Military_Rifle2_color_skin3.png
 - Assets/Military/Texture/Bottom/T_Military_Boots2_nmap.png
 - Assets/Scripts/Scriptable/Weapons/_3Nishabd Covert.asset
 - Assets/Military/Texture/Bottom/T_Military_Boots3_rough.png
@@ -867,9 +863,9 @@ Assets:
 - Assets/Military/Materials URP/URP_Pouches1_Skin3.mat
 - Assets/Military/Texture/Equip/T_Military_Backpack1_ao.png
 - Assets/Military/Materials URP/URP_Boots1_Skin1.mat
-- Assets/Military/Texture/Weapon/T_Military_Rifle2_color_skin3.png
 - Assets/Military/Texture/Weapon/T_Military_Rifle3_color_skin1.png
 - Assets/Military/Texture/Bottom/T_Military_Pants2_metalness.png
+- Assets/Military/Texture/Bottom/T_Military_Boots1_Skin2_color.png
 - Assets/Military/Basemesh/Separated/SK_Military_Cap2_Gasmask.fbx
 - Assets/Military/Texture/Bottom/T_Military_Pants3_Skin3_color.png
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_5Teer_RapidStrike/_5Teer_RapidStrikeupdate
@@ -884,8 +880,8 @@ Assets:
 - Assets/Military/Texture/Equip/T_Military_Backpack1_color_skin3.png
 - Assets/Scripts/Scriptable/Weapons/_4Bhima Anti-Mat.asset
 - Assets/Military/Materials/Rifle3_skin1.mat
-- Assets/Military/Materials/Rifle1_skin2.mat
 - Assets/Military/Texture/Body/T_Military_Gasmask1_color_skin3.png
+- Assets/Military/Materials/Rifle1_skin2.mat
 - Assets/Military/Materials URP/URP_Vest1_Skin1.mat
 - Assets/Military/Texture/Equip/T_Military_Pouches1_ao.png
 - Assets/Military/StarterAssets/Environment/Art/Textures/Grid_01_BaseMap.png
@@ -917,18 +913,18 @@ Assets:
 - Assets/Animations/UI/Highlighter.anim
 - Assets/Military/Texture/Equip/T_Military_Vest1_Skin3_color.png
 - Assets/Animations/Car/Entering Car.fbx
-- Assets/Military/Materials/Pouches1_Skin2.mat
 - Assets/Military/Materials URP/URP_Shirt2_Skin1.mat
-- Assets/Military/Materials/Gasmask1_Skin4.mat
+- Assets/Military/Texture/Equip/T_Military_Vest1_rough.png
 - Assets/Military/Texture/Top/T_Military_Shirt1_nmap.png
 - Assets/Scripts/Scriptable/Maps/AndamanNicobar-MapLevel.asset
 - Assets/Prefab/Snipers/Recon_A_PreSet.prefab
+- Assets/Military/Materials/Gasmask1_Skin4.mat
 - Assets/Military/Texture/Bottom/T_Military_Pants3_ao.png
 - Assets/Military/Materials URP/URP_Boots2_Skin1.mat
 - Assets/Military/Basemesh/Separated/SK_Military_Male_Hands1.fbx
 - Assets/Military/Materials URP/URP_Backpack1_Skin4.mat
+- Assets/Military/Materials/Pouches1_Skin2.mat
 - Assets/Military/Materials URP/URP_Boots2_Skin2.mat
-- Assets/Military/Texture/Equip/T_Military_Vest1_rough.png
 - Assets/Military/Texture/Body/T_Military_Hands1_color_skin2.png
 - Assets/Settings/UniversalRenderPipelineGlobalSettings.asset
 - Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Jump--InAir.anim.fbx
@@ -957,8 +953,8 @@ Assets:
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_3Nishabd Covert/_3Nishabd Covertbase.asset
 - Assets/Military/Basemesh/Separated/FPS/SK_Miliary_FPS_Hands_Gloves1.fbx
 - Assets/Military/Texture/Body/T_Military_Hands1_nmap.png
-- Assets/Military/Materials/Rifle2_skin2.mat
 - Assets/Military/Basemesh/Rifle3.fbx
+- Assets/Military/Materials/Rifle2_skin2.mat
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_1sena/_sena_update 1.asset
 - Assets/Prefab/UI/Objective/InGame/ObjectivePanelUI.prefab
 - Assets/Military/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPAsset.asset
@@ -972,10 +968,10 @@ Assets:
 - Assets/Military/Basemesh/Separated/SK_Military_Vest1_7.fbx
 - Assets/Military/Texture/FPS_Arms/T_Military_Hands3_color_skin2.png
 - Assets/Military/Basemesh/Separated/SK_Military_Male_Arms1_Gloves1.fbx
+- Assets/Military/Texture/Equip/T_Military_Pouches1_nmap.png
 - Assets/Military/Materials/Cap1_Skin2.mat
 - Assets/Military/Basemesh/SK_Modular_Military.fbx
 - Assets/Military/Basemesh/Separated/SK_Military_Vest1_6.fbx
-- Assets/Military/Texture/Equip/T_Military_Pouches1_nmap.png
 - Assets/Military/Texture/Weapon/T_Military_Rifle3_metalness.png
 - Assets/Prefab/Barrel.prefab
 - Assets/Military/Texture/Weapon/T_Military_Rifle2_metalness.png
@@ -987,18 +983,18 @@ Assets:
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_1sena/_sena_base.asset
 - Assets/Military/StarterAssets/Environment/RenderPipelineProfiles/StarterAssetsURPGlobalSettings.asset
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 5.asset
-- Assets/Scripts/Scriptable/Weapons/Upgrades/_2Garuda_tacktical/_2Garuda_tacktical_2.asset
+- Assets/Military/Texture/Bottom/T_Military_Boots1_rough.png
 - Assets/Military/Texture/Bottom/T_Military_Pants2_ao.png
 - Assets/Military/Texture/Equip/T_Military_Backpack1_color_skin4.png
 - Assets/Military/Materials URP/URP_FPS_Hands1_Skin2.mat
-- Assets/Military/Prefab/HDRP/Environment_HDRP.prefab
+- Assets/Military/Materials/Gloves1_Skin1.mat
 - Assets/Prefab/Snipers/Recon_B_PreSet.prefab
 - Assets/Military/Texture/Bottom/T_Military_Boots2_metalness.png
 - Assets/Military/Basemesh/Separated/SK_Military_Cap2.fbx
-- Assets/Military/Texture/Bottom/T_Military_Boots1_rough.png
-- Assets/Military/Materials/Gloves1_Skin1.mat
-- Assets/Military/Materials/Pants1_Skin1.mat
+- Assets/Scripts/Scriptable/Weapons/Upgrades/_2Garuda_tacktical/_2Garuda_tacktical_2.asset
+- Assets/Military/Prefab/HDRP/Environment_HDRP.prefab
 - Assets/Military/Texture/Bottom/T_Military_Pants3_Skin2_color.png
+- Assets/Military/Materials/Pants1_Skin1.mat
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 24.asset
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_4Bhima Anti-Mat/_4Bhima Anti-Matupdate
   3.asset
@@ -1017,31 +1013,31 @@ Assets:
 - Assets/Military/Animations/URP_Ready_made (4).controller
 - Assets/Military/Texture/Top/T_Military_Shirt2_ao.png
 - Assets/Military/Materials/Boots3_Skin3.mat
-- Assets/Military/Materials/Shirt2_Skin1.mat
 - Assets/Scenes/MainGameplay/NavMesh-NacmeshSurface.asset
-- Assets/Military/Materials URP/URP_Pants1_Skin2.mat
 - Assets/Military/Texture/Bottom/T_Military_Boots1_nmap.png
+- Assets/Military/Materials URP/URP_Pants1_Skin2.mat
+- Assets/Military/Materials URP/URP_Cap1_Skin2.mat
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_6DhanushLongShot/_6DhanushLongShotUpdate
   2.asset
-- Assets/Military/Materials URP/URP_Cap1_Skin2.mat
+- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 22.asset
 - Assets/Mesh/textures/Extinguisher_metallic.jpeg
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_3Nishabd Covert/_3Nishabd Covertupdate
   3.asset
-- Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 22.asset
+- Assets/Military/Materials/Shirt2_Skin1.mat
 - Assets/Military/Texture/Top/T_Military_Shirt3_rough.png
 - Assets/Military/Materials URP/URP_Pants3_Skin2.mat
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 2.asset
 - Assets/Military/Texture/Bottom/T_Military_Pants3_Skin1_color.png
 - Assets/Military/Materials/Gasmask1_Skin3.mat
-- Assets/Military/Materials/Cap1_Skin1.mat
+- Assets/Military/Materials URP/URP_Pants1_Skin3.mat
 - Assets/Military/Texture/Top/T_Military_Caps1_Skin2_color.png
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 16.asset
 - Assets/Scripts/Scriptable/Weapons/Upgrades/_5Teer_RapidStrike/_5Teer_RapidStrikebase.asset
 - Assets/Military/Basemesh/Separated/SK_Military_Cap1_Rotated.fbx
-- Assets/Military/Materials URP/URP_Pants1_Skin3.mat
 - Assets/Military/Texture/Weapon/T_Military_Rifle2_nmap.png
-- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N_Land.anim.fbx
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 8.asset
+- Assets/Military/StarterAssets/ThirdPersonController/Character/Animations/Locomotion--Run_N_Land.anim.fbx
+- Assets/Military/Materials/Cap1_Skin1.mat
 - Assets/Military/Prefab/HDRP/HDRP_Ready-made.prefab
 - Assets/Military/Texture/Equip/T_Military_Vest1_ao.png
 - Assets/Military/Texture/Top/T_Military_Caps1_Skin1_color.png
@@ -1054,8 +1050,8 @@ Assets:
 - Assets/Military/Basemesh/Separated/FPS/SK_Miliary_FPS_Arms_Gloves1.fbx
 - Assets/Military/Texture/Body/T_Military_Gasmask1_color_skin2.png
 - Assets/Scenes/MainGameplay/NavMesh-NavmeshSurface 11.asset
-- Assets/Military/Materials/Pants3_Skin3.mat
 - Assets/Mesh/fireextinguisher.fbx
+- Assets/Military/Materials/Pants3_Skin3.mat
 - Assets/Military/Texture/Equip/T_Military_Vest1_Skin2_color.png
 - Assets/Military/Texture/Equip/T_Military_Gloves1_ao.png
 - Assets/Military/Texture/Equip/T_Military_Backpack1_color_skin1.png

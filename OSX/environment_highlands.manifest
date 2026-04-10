@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.11f1
-CRC: 2816226445
+CRC: 3702440840
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: cd9a1f8c7ff42b6de5e142bc8233b8f8
+    Hash: 02381724a365286576dc55af8663ce37
   TypeTreeHash:
     serializedVersion: 2
-    Hash: 867244ba99eac6f039e68405def67370
+    Hash: 61c66b4c9179655357b5d30635dc18ee
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 5e40aa5b831d056ac6550f4143a4c94c
+    Hash: 758d64357c5ac1ed42547db22ce08790
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -131,8 +131,6 @@ ClassTypes:
   Script: {instanceID: 0}
 - Class: 143
   Script: {instanceID: 0}
-- Class: 156
-  Script: {instanceID: 0}
 - Class: 198
   Script: {instanceID: 0}
 - Class: 199
@@ -154,8 +152,6 @@ ClassTypes:
 - Class: 243
   Script: {instanceID: 0}
 - Class: 245
-  Script: {instanceID: 0}
-- Class: 363
   Script: {instanceID: 0}
 - Class: 850595691
   Script: {instanceID: 0}
@@ -245,154 +241,281 @@ SerializeReferenceClassIdentifiers:
 Assets:
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/Fir_Tall_1_Collider.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Owls/Owl_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Sword.prefab
+  Props/Pot.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Quiver_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
   House/Fences_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Sword.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Chair.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Log_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Log.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Boiler_Bonfire_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/FX/Fire.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/FX/Candle
+  Fire.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Flower_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushrooms_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Weapon_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Door/Door_Squeak_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/House_Stairs.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Bucket.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Shield.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Log_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Water/Water_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Candles_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Mountains/Mountain_4_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Rock_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/Fake_Sun_RED.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
+  Colliders/Cart_Collider.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Axe_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/Highlands_InputAsset.inputactions
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/Tent_1_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Rustles/Rustling_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Grass_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Flask_4.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Grass_Smoothness.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Witches
   House/Props.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Flask_4.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Wolfs/Wolf_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props/Jug.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Stone_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Table_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Log_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Mountains/Mountain_2_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Flask_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_Tall_Dead_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Bag_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props (Interactable)/Flask_3.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Skybox.hdr
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Axe.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bag_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Stone_4.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Bag_MetallicSmoothness.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
   House/Furniture_1_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Flowers_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Fish_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Bag_MetallicSmoothness.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Highlands
   Audio Mixer.mixer
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props (Interactable)/Book.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Tall_Fir_Branch.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Arrow.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Branches_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Meat_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Dishes.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Cloud_Shadow.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Timeline/Signals/Crackle.signal
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props (Interactable)/Book.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Tent_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Cup.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_Tall_3.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushroom_4.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/Lamp_Anim_Controller.controller
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Grass_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Dirt_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Wolfs/Wolf_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Sparks.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Witches
   House/Fences.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Food_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Table_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Meat_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Trees_Atlas_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Grass_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
   House/Furniture_1_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props (Interactable)/Flask_4.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Stone_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Trough.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bow.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/Candles_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Grass_4.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Mountains/Mountain_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_Tall_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Bread.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Rustles/Rustling_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Dryer.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_Tall_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Pouch.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stump_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Branch_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Plate_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Quiver.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Grass_2.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Quiver.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props/Bone_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props/Box_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Box_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Trees_Atlas_Color.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Small_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/NightCam.asset
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Branches_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/Candles_2(Light).prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Crackles/Branch_5.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Log_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Meat.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Axe.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_Tall_Dead_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Log_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props/Scroll_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Shield_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Dead_Bush_Bark.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/ReflectionProbe-0.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Gold.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Fir_Bark.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Log_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Dryer_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Knife_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
+  House/Fences_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Barrel_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Cart.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_2_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Gold.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Terrain/Mud_1_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/Candles_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_Dead_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props (Interactable)/Flask_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Meat_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/GodRays_Glow.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Table_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/House.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Wind
+  Settings.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/FX/Glow.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/Highlands
+  Outdoor Volume Profile.asset
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Timeline/Signals/Rustle.signal
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Pot_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Stumps_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Bush.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/Fence_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Shield_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Food_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Boiler_Bonfire.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_3.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_Dead_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Mountains/Mountain_4.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
+  Colliders/Fir_Tall_2_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Quiver_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Mountains/Mountain_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Grass_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Box_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Food.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Shield_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props/Arrow.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Fish.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Tent_4.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Flower_1.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Tent_1.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Onion_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Log_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Rock_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Witches_Boiler.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Terrain/Mud_2_AlbedoSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Shield_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Shield.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/PitchDark.asset
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Dagger.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Flask_3.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Timeline/Signals/Raven.signal
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushrooms_4.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Fork.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Bucket.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/Highlands
+  Indoor Volume Profile.asset
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Branch_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Cart_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props/Flask_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Onion.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props (Interactable)/Flask_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Spoon.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Bottle_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Table.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/Chest.controller
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House/Books_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/Stairs_Collider.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
+  Colliders/Tent_2_Collider.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
+  Colliders/Fir_Tall_3_Collider.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Long_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Cloud_Shadow_URP.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Table.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Gold_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House/Candles_1(Light).prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Barrel_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Shaders/Highlands_Background_Objects.shader
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bucket.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Terrain Layers/Mud_2.terrainlayer
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Jug.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Cloud_Shadow_URP.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Rustles/Rustling_5.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Chest_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Terrain/Mud_1_AlbedoSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Book_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/Dryer_2_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Pouch.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Fog.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Mountains/Mountain_3.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Branches_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bonfire.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Logs.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Owls/Owl_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/FernBranchSmothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_1_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Box_3.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_Tall_Dead_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Bottle_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Moneybag_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
   House/House_Smoothness.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/Fake_Sun.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Onion.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Bow.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Bread.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Fish_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Book_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Logs_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Book_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Chest.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Book_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props/Book.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
@@ -402,11 +525,21 @@ Assets:
   Props (Interactable)/Bottle_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/Shelf.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Mountains/Mountain_4.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House/Fence_4.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Stumps_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Sword_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Mushroom_3.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Bush_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Mountains/Mountain_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bottle_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushrooms_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Log_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Fork_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Fog.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Knife_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/Sun Flare.flare
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Rock_2(Grass).prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Branches_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
@@ -415,51 +548,97 @@ Assets:
   House/Stuff_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Bottle_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Water/Water_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Bonfire_Light.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Cart.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fern_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Fence_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/FX/Fog.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Barrel_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Bone_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Mushroom_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Shield.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/FX/Birds.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Meat_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Mountains/Mountain_3_Normal.PNG
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House/Stand.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Bow.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Mountains/Mountain_1.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Mushrooms_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Spoon_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Fence_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Gold_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Pot.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/Fence_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Meat.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fern_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Birds.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props/Box_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Box_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_1_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Dryer_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Chest.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_2(Grass).prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Mountains/Mountain_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Log_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Mountains/Mountain_3_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Fir_Branch_2.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/Table_Collider.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props/Onion.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Stones_Rocks(Grass).mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Gold_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Mountains/Mountain_3.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Dirt_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/doorClose.anim
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Ravens/Crow_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/FX/Birds.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props/Fork.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Wood_4.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Dresser.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bag_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Vegetable_type2_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Table_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Log_3.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Bark_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Tent_4.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Knife.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Shelf.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Dead_Bush_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Long_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Shaders/Highlands_Surface.shader
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Shaders/Variant/ShaderVariant.shadervariants
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Clovers.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/House_Stairs.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Ravens/Crow_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Bush_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Dryer_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Water/Water_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Table.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Clover.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Flower_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Cup.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/chestClose.anim
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Terrain/Grass_1_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Box_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Log_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/Fake_Sun.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Fire.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Plate.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_3_4_Albedo.png
@@ -471,14 +650,18 @@ Assets:
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props/Mushroom_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Tent_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Grass_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Winds/Wind_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Knife_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Box_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props (Interactable)/Bone_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props/Flask_2.prefab
+  House Props (Interactable)/Mortar_And_Pestle.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
   House/Stuff_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props/Flask_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Mountains/Mountain_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Flask_5.fbx
@@ -486,155 +669,283 @@ Assets:
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Dryer_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Quiver.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Dead_Bush_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Scroll_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props/Meat.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Terrain/Grass_2_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Timeline/SoundManagerTimeline.playable
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Sword.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/Demo_Terrain.asset
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/FernBranch.PNG
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props/Meat.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Barrel_3.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Bark_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Dead_Bush_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Pillar.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
   House/House_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Gold_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Mortar_and_pestle.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Fire_Smoke.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/Table_1_Collider.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Fence_4.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Barrel_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Gold_MetallicSmoothness.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Scroll_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Sword.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Log_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Mushrooms_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Fern.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Fire/Fire_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Food_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Chest.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_1(Grass).prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bag_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House/Pillar.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props (Interactable)/Bone_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Controller.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Wood_5.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Stone_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Stone_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/Chair_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stones.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Boiler_Bonfire_Emission.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fern_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Scroll_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Spoon_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/House_Door.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Bottle_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Fir_Branch.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Dead_Bush_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Terrain Layers/Grass_2.terrainlayer
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_Dead_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Barrel_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Vegetable_type2_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Scroll_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_2_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Dead_Bush_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Rock_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Mushrooms_3.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props/Mushroom_3.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Box_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
+  Colliders/Trough_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Dishes_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Trough.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Grass_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/Tent_3_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/House_Door.controller
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Mushroom_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Cart.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Moss_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Bag.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_Tall_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_3_4_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Cup.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Dryer_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
   House/Fences_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/Dresser.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Stand.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushroom_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Gold_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Weapon_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Crackles/Branch_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/StonesRocks_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Dirt_4.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Bottle_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Log_3.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Bucket_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Plate.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/Highlands
+  Universal Render Pipeline Asset_Renderer.asset
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props (Interactable)/Mushroom_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Bone_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/StonesRocks_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Arrow_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/Demo Lighting
   Settings.lighting
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Dishes_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Fire/Fire_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Trough.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Boiler.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Tent_2.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Candle
   Fire.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Pot.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Log_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Branch_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Chest/Chest_Close.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Box_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Logs_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Bonfire.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Something_on_a_plate_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Stones.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stump_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Bush_Leafs.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/MushroomsFlowers_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Jug.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Bag_AlbedoTransparency.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Grass_1.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Pot_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Small_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Tent_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/Books_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Bush_3.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Branch_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props/Mortar_And_Pestle.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Door/Door_Squeak_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Crackles/Branch_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Onion_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Wood_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/MushroomsFlowers_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Boiler_Cover.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Box_4.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/MushroomsFlowers_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Box_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props/Boiler_Cover.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Table_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Log_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
+  Colliders/Shelf_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Stone_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Fork_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/Boiler_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/Chair.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Owls/Owl_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Mountains/Mountain_2_Normal.PNG
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
-  House/House_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Flower_3.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Small_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props/Fish.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Dagger.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Onion_3.wav
 - "Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/\u0421upboard.prefab"
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Small_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
+  House/House_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_4(Grass).prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Stone_3.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushrooms_3.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Fence_3.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Witches
   House/House.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Bush_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Onion_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Flower_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props (Interactable)/Mushroom_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Mushroom_3.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Box_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/Fake_Sun_sunSet.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Stones_Rocks.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Skybox.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Bag_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Book_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Rustles/Rustling_4.wav
+- "Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
+  Colliders/\u0421upboard_Collider.fbx"
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Bucket_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Flowers_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Branch_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushroom_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Grass_2.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Mountains/Mountain_4.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Stone_5.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Timeline/Signals/Wolf.signal
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Mountains/Mountain_1_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_3_4_MetallicSmoothness.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House/Table.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House/Lamp.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bread.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props/Flask_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Small_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
+  Colliders/Table_2_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Chest/Chest_Open.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushroom_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Terrain Layers/Mud_1.terrainlayer
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Large_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Large_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Barrel_AlbedoTransparency.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Bush_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Dirt_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Mountains/Mountain_2.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/FX/Smoke.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Barrel.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Quiver.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props/Bone_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Fish.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Knife.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Grass_1.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Flask_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Table_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/FX/Smoke.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/chestOpen.anim
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Arrow.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props/Scull.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Plate_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props (Interactable)/Mushroom_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
+  Colliders/PillarLamp_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Tent_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_Tall_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Witches
+  House/Furniture.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_Tall_Dead_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
+  House/Furniture_1_MetallicSmoothness.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Tent_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Arrow_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Dishes_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Lamp.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Stone_4.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_2_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Clovers.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Mushroom_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Fish_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Water.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_4.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Small_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Rock_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Witches
+  House/Glass.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Cart_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Log_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Stumps_MetallicSmoothness.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Moneybag_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Vegetable_type1_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/Pillar_Anim_Controller.controller
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props/Mushroom_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
+  Colliders/Tent_4_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/House.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Boiler.prefab
@@ -645,472 +956,127 @@ Assets:
   House Props (Interactable)/Scroll_1.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props/Flask_5.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Barrel_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Pot_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_3(Grass).prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/Highlands
-  Universal Render Pipeline Asset.asset
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Stump_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Box_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Moss_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Terrain Layers/Grass_1.terrainlayer
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Flower_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Crackles/Branch_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Book_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Bag_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Mountains/Mountain_4_Normal.PNG
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Box_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Mushrooms_4.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Sword_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Bush_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/doorOpen.anim
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Long_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Flower_1.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Boiler_Bonfire_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Timeline/Signals/Owl.signal
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Mushrooms_Flowers.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_1_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/House_Door.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Scull.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Vegetable_type1_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fern_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Log_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Dryer_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Dryer_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Tent_3_4.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Large_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Tent_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Scroll_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Box.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props (Interactable)/Flask_5.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Gold_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bottle_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Flower_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props (Interactable)/Boiler_Cover.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Fork.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Spoon.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House/Scroll_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props/Axe.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Chest_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Sword_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Arrow_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Ravens/Crow_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Quiver_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Shaders/Highlands_Foliage.shader
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
-  House/Stuff_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Branch_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Owls/Owl_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props/Pot.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Quiver_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Chair.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Log.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/FX/Fire.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/FX/Candle
-  Fire.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Flower_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushrooms_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Crackles/Branch_4.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Weapon_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Door/Door_Squeak_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Candles_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
-  Colliders/Cart_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Axe_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Grass_Smoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Wolfs/Wolf_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props/Jug.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Axe.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Log_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Flask_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Fish_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Bag_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Flowers_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Skybox.hdr
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bag_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/Lamp_Anim_Controller.controller
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Dishes.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Cloud_Shadow.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Cup.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Dirt_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Rustles/Rustling_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Wolfs/Wolf_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Sparks.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Food_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Table_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/OcclusionCullingData.asset
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Stone_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Grass_4.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Mountains/Mountain_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_Tall_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Dryer.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_Tall_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stump_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Branch_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Something_on_a_plate_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props/Bone_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props/Box_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Branches_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Log_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props/Scroll_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Shield_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Fir_Bark.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Dryer_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Knife_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
-  House/Fences_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Barrel_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Something_on_a_plate_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Vegetable_type2_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props (Interactable)/Flask_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Meat_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/GodRays_Glow.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Wind
-  Settings.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/FX/Glow.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/Highlands
-  Outdoor Volume Profile.asset
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Timeline/Signals/Rustle.signal
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Pot_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Food_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Boiler_Bonfire.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_Dead_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
-  Colliders/Fir_Tall_2_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Mountains/Mountain_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Box_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props/Arrow.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Tent_4.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Tent_1.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Branch_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Dagger.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Terrain/Mud_2_AlbedoSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Shield_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Flask_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushrooms_4.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Fork.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Bucket.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/Highlands
-  Indoor Volume Profile.asset
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props/Flask_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Onion.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Spoon.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House/Books_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Barrel_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/Chest.controller
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
-  Colliders/Tent_2_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
-  Colliders/Fir_Tall_3_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Long_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House/Candles_1(Light).prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Gold_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bucket.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Terrain Layers/Mud_2.terrainlayer
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Chest_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Terrain/Mud_1_AlbedoSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Book_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_1_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Mountains/Mountain_3.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bonfire.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/FernBranchSmothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_Tall_Dead_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Onion.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Bow.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Logs_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House/Fence_4.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Mountains/Mountain_4.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Stumps_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Mountains/Mountain_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bottle_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushrooms_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Knife_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/Sun Flare.flare
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Bonfire_Light.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Cart.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/ReflectionProbe-1.exr
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fern_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Barrel_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Bone_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Mushroom_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/FX/Birds.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Meat_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House/Stand.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Mountains/Mountain_1.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Gold_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Pot.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Meat.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fern_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Birds.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props/Box_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Dryer_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Chest.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Fir_Branch_2.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props/Onion.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Stones_Rocks(Grass).mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Gold_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Mountains/Mountain_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Dirt_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/doorClose.anim
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Ravens/Crow_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props/Fork.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Table_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Log_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Bark_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Shelf.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Dead_Bush_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Shaders/Variant/ShaderVariant.shadervariants
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Bush_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Flower_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Cup.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/chestClose.anim
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Box_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Log_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/Fake_Sun.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Grass_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Box_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props (Interactable)/Mortar_And_Pestle.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Dead_Bush_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Terrain/Grass_2_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Timeline/SoundManagerTimeline.playable
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/FernBranch.PNG
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Barrel_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Bark_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Dead_Bush_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Pillar.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Mortar_and_pestle.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Fire_Smoke.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Fence_4.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Chest.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Fern.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Fire/Fire_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Food_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Spoon_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bag_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House/Pillar.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Controller.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Wood_5.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Boiler_Bonfire_Emission.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stones.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Bottle_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_Dead_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_2_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Mushrooms_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props/Mushroom_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Box_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
-  Colliders/Trough_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Grass_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Mushroom_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Cart.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fir_Tall_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_3_4_Normal.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Gold_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Dryer_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushroom_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Log_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Arrow_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Dirt_4.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Bottle_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Bucket_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/Highlands
-  Universal Render Pipeline Asset_Renderer.asset
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props (Interactable)/Mushroom_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Boiler.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Pot.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Log_2.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Chest/Chest_Close.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Box_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Jug.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Stones.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stump_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Bush_Leafs.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/MushroomsFlowers_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Small_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Tent_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Bush_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props/Mortar_And_Pestle.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Onion_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Log_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
-  Colliders/Shelf_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Fork_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Owls/Owl_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Flower_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Small_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props/Fish.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Fence_3.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Water/Water_4.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Timeline/Signals/Wolf.signal
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/Fake_Sun_sunSet.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Stones_Rocks.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Vegetable_type1_2.wav
-- "Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
-  Colliders/\u0421upboard_Collider.fbx"
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Branch_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Mountains/Mountain_4.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Stone_5.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House/Table.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props/Flask_3.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
-  Colliders/Table_2_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Mushroom_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Large_2.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Large_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Bush_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props/Bone_2.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Barrel.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
-  Props (Interactable)/Quiver.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Demo/Demo/ReflectionProbe-2.exr
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Grass_1.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Flask_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props/Scull.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Plate_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props (Interactable)/Mushroom_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
-  Colliders/PillarLamp_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Witches
-  House/Furniture.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Arrow_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
-  House/Furniture_1_MetallicSmoothness.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
-  House/Lamp.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Stone_4.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_2_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Fish_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Water.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_4.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Small_1.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Rock_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Witches
-  House/Glass.mat
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Log_1.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/Pillar_Anim_Controller.controller
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House Props/Mushroom_1.prefab
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
-  Colliders/Tent_4_Collider.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props (Interactable)/Scull.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/Log_1_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Winds/Wind_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/FX/GodRays.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Cart_Albedo.png
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Sparks_Trail.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Stone_3(Grass).prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Spoon_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/FX/Sparks_Trail.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Settings/Highlands
+  Universal Render Pipeline Asset.asset
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Stump_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Pot_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Box_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Moss_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Barrel_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Terrain Layers/Grass_1.terrainlayer
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Flower_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Box_4.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Book_3.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Bag_3.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Axe_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Mountains/Mountain_4_Normal.PNG
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_Dead_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Box_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Mushrooms_4.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Weapon.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Scroll_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Sword_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Table_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Bush_3.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Animation/doorOpen.anim
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Stumps.mat
 - "Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/\u0421upboard.fbx"
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Terrain/Grass_2_AlbedoSmoothness.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Weapon_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Wood_Long_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Boiler_Bonfire_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Moneybag_3.wav
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
-  House/Fence_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Flower_1.mat
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Boiler_Bonfire_Albedo.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Timeline/Signals/Owl.signal
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Forest/Mushrooms_Flowers.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props (Interactable)/Knife.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Axe_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House/Fence_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Tent_1_MetallicSmoothness.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Mountains/Mountain_1_Normal.PNG
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Rock_1(Grass).prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Book_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Shaders/Highlands_Water.shader
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/House_Door.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Scull.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
   House Props/Flask_4.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Dirt_5.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Fern_1.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Grass_5.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Log_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Dryer_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Fork_1.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Dryer_Normal.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Mushroom_4.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Tent_3_4.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/MushroomsFlowers_Normal.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Food_Large_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Wood_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Tent_3.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Materials/Camp/Box.mat
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Chest_Albedo.png
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
   House/Candles_2.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props (Interactable)/Flask_5.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Gold_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Bottle_1.fbx
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Flower_3.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Witches
+  House/Scroll_2.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Bucket_2.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Pouch.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House Props (Interactable)/Boiler_Cover.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Barrel_3.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Custom
   Colliders/House_Collider.fbx
-- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Camp/Barrel_3.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Forest/Logs_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Fork.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props (Interactable)/Spoon.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Bottle_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Spoon.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Witches
+  House/Scroll_2.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Footsteps/Footstep_Wood_1.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp/Bag_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
+  Props/Axe.prefab
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Plate_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Camp/Chest_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Metal_Sword_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Item_Arrow_2.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Forest/Ravens/Crow_3.wav
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Audio/Environment/Items/Quiver_3.wav
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_1.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Shaders/Highlands_Foliage.shader
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Forest/Fir_Tall_2.prefab
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Textures/Witches
+  House/Stuff_MetallicSmoothness.png
+- Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Meshes/Forest/Branch_3.fbx
 - Assets/EnvironmentTemplate/HIGHLANDS - Stylized Environment/Assets/Prefabs/Camp
   Props/Dagger.prefab
 Dependencies: []
