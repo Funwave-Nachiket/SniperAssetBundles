@@ -1,16 +1,16 @@
 ManifestFileVersion: 0
 UnityVersion: 6000.3.11f1
-CRC: 2123039731
+CRC: 3241389377
 Hashes:
   AssetFileHash:
     serializedVersion: 2
-    Hash: 7f8d2c5ca3f1c69b056cc3a30ecd41a1
+    Hash: 1245aac86c788e6f6ac9aff3b94c0725
   TypeTreeHash:
     serializedVersion: 2
     Hash: aa9dd729c09e6380694377eb371ebe80
   IncrementalBuildHash:
     serializedVersion: 2
-    Hash: 1c401d8a45b800b2e38292847a6ea819
+    Hash: bf589cf2d0e1f111228dc471b3e16474
 HashAppended: 0
 ClassTypes:
 - Class: 1
@@ -41,87 +41,95 @@ ClassTypes:
   Script: {instanceID: 0}
 SerializeReferenceClassIdentifiers: []
 Assets:
-- Assets/Characters/GenericAnimations/BriefcaseAvatarMask.mask
-- Assets/Characters/Character1/Walk W_ Briefcase.fbm/Ch22_1002_Normal.png
-- Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_01_m.tif
-- Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01bw_c.tif
-- Assets/Characters/GenericAnimations/Fast Run.fbx
 - Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_01_01_m.tif
-- Assets/npc_casual_set_00/Mesh/npc_haircut_a_02.fbx
+- Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_01_m.tif
 - Assets/npc_casual_set_00/Materials/mtl_npc_hmn_face_01m_05_01.mat
-- Assets/npc_casual_set_00/Materials/mtl_npc_csl_tshirt_00m_01_02bw.mat
 - Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01m_05_01.mat
 - Assets/Characters/GenericAnimations/Breathing Idle.fbx
-- Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_01_01_c.tif
 - Assets/Characters/Character1/Materials/Walk W_ Briefcase-Ch22_body.mat
-- Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01_c.tif
-- Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_01_m.tif
 - Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_01_o.tif
 - Assets/Characters/GenericAnimations/Standing W_Briefcase.fbx
 - Assets/Characters/Character1/Materials/Ch22_1002_Diffuse.mat
-- Assets/npc_casual_set_00/Textures/npc_csl_shoe_01_00_01_o.tif
 - Assets/npc_casual_set_00/Textures/npc_hair_01_o.tif
 - Assets/npc_casual_set_00/Textures/npc_hmn_body_01f_01_01_m.tif
-- Assets/Characters/Character1/Walk W_ Briefcase.fbm/Ch22_1001_Normal.png
 - Assets/npc_casual_set_00/Textures/npc_hair_01_c.tif
-- Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01_n.tif
 - Assets/npc_casual_set_00/Mesh/npc_hmn_01m.fbx
 - Assets/npc_casual_set_00/Textures/npc_hmn_body_01f_01_01_o.tif
 - Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_01_01_n.tif
-- Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_01_01_o.tif
+- Assets/Characters/Character1/Materials/Walk W_ Briefcase-Ch22_hair.mat
 - Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00m_01_02bw_c.tif
 - Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01_o.tif
-- Assets/Characters/Character1/Materials/Walk W_ Briefcase-Ch22_hair.mat
 - Assets/npc_casual_set_00/Textures/npc_csl_shoe_01_00_01_c.tif
 - Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00m_01_01_m.tif
 - Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hair_06.mat
-- Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_01_c.tif
-- Assets/npc_casual_set_00/Mesh/npc_csl_00_character_02m.fbx
 - Assets/npc_casual_set_00/Textures/npc_hmn_body_01m_01_01_m.tif
 - Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_05_01_m.tif
 - Assets/npc_casual_set_00/Materials/mtl_npc_csl_pants_00m_01_01.mat
 - Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_body_01f_01_01.mat
 - Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_01f_01.prefab
-- Assets/Characters/Character1/Materials/Ch22_1001_Diffuse.mat
 - Assets/npc_casual_set_00/Textures/npc_hair_01_n.tif
 - Assets/npc_casual_set_00/Materials/mtl_npc_hair_06.mat
-- Assets/Characters/Character1/Walk W_ Briefcase.controller
 - Assets/npc_casual_set_00/Mesh/npc_haircut_c_01.fbx
-- Assets/npc_casual_set_00/Materials/mtl_npc_csl_shoe_01_00_01.mat
-- Assets/npc_casual_set_00/Materials/mtl_npc_csl_pants_00f_01_01.mat
 - Assets/npc_casual_set_00/Textures/npc_hmn_body_01f_01_01_n.tif
-- Assets/npc_casual_set_00/Textures/npc_hmn_body_01m_01_01_o.tif
-- Assets/npc_casual_set_00/Materials/mtl_npc_csl_shirtopenrolled_00m_01_01bw.mat
 - Assets/Characters/Character1/Walk W_ Briefcase.fbm/Ch22_1001_Diffuse.png
-- Assets/npc_casual_set_00/Textures/npc_hair_01_m.tif
-- Assets/npc_casual_set_00/Textures/npc_hmn_body_01m_01_01_c.tif
-- Assets/npc_casual_set_00/Mesh/npc_hmn_01f.fbx
+- Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01f_05_01.mat
 - Assets/npc_casual_set_00/Textures/npc_csl_shoe_01_00_01_m.tif
-- Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00m_01_01_n.tif
 - Assets/Characters/Character1/Walk W_ Briefcase.fbm/Ch22_1002_Diffuse.png
 - Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_01_c.tif
-- Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_01_o.tif
 - Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_05_01_n.tif
-- Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01_m.tif
 - Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_05_01_o.tif
+- Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01m_02_01.mat
+- Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01m_03_01.mat
+- Assets/npc_casual_set_00/Materials/mtl_npc_hair_05.mat
+- Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_01_n.tif
+- Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_05_01_c.tif
+- Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01f_01_01.mat
+- Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01_o.tif
+- Assets/Characters/GenericAnimations/BriefcaseAvatarMask.mask
+- Assets/npc_casual_set_00/Textures/npc_hmn_body_01f_01_01_c.tif
+- Assets/Characters/Character1/Walk W_ Briefcase.fbm/Ch22_1002_Normal.png
+- Assets/Characters/GenericAnimations/Fast Run.fbx
+- Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01bw_c.tif
+- Assets/npc_casual_set_00/Mesh/npc_haircut_a_02.fbx
+- Assets/npc_casual_set_00/Materials/mtl_npc_csl_tshirt_00m_01_02bw.mat
+- Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_01_01_c.tif
+- Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01_c.tif
+- Assets/npc_casual_set_00/Textures/npc_csl_shoe_01_00_01_o.tif
+- Assets/Characters/Character1/Walk W_ Briefcase.fbm/Ch22_1001_Normal.png
+- Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01_n.tif
+- Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01m_04_01.mat
+- Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01m_01_01.mat
+- Assets/npc_casual_set_00/Textures/npc_hmn_face_01f_01_01_o.tif
+- Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_01_c.tif
+- Assets/npc_casual_set_00/Mesh/npc_csl_00_character_02m.fbx
+- Assets/Characters/Character1/Materials/Ch22_1001_Diffuse.mat
+- Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00m_01_01_n.tif
+- Assets/Characters/Character1/Walk W_ Briefcase.controller
+- Assets/npc_casual_set_00/Materials/mtl_npc_csl_shoe_01_00_01.mat
+- Assets/npc_casual_set_00/Materials/mtl_npc_csl_pants_00f_01_01.mat
+- Assets/npc_casual_set_00/Textures/npc_hair_01_m.tif
+- Assets/npc_casual_set_00/Textures/npc_hmn_body_01m_01_01_o.tif
+- Assets/npc_casual_set_00/Materials/mtl_npc_csl_shirtopenrolled_00m_01_01bw.mat
+- Assets/npc_casual_set_00/Textures/npc_hmn_body_01m_01_01_c.tif
+- Assets/npc_casual_set_00/Mesh/npc_hmn_01f.fbx
+- Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_01_o.tif
+- Assets/npc_casual_set_00/Textures/npc_csl_shirtopenrolled_00m_01_01_m.tif
 - Assets/npc_casual_set_00/Prefabs/npc_csl_00_character_02m_01.prefab
 - Assets/npc_casual_set_00/Mesh/npc_hairfacial_a_01.fbx
 - Assets/npc_casual_set_00/Textures/npc_hmn_body_01m_01_01_n.tif
 - Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01_n.tif
+- Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01f_04_01.mat
 - Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01_m.tif
 - Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_body_01m_01_01.mat
-- Assets/npc_casual_set_00/Materials/mtl_npc_hair_05.mat
-- Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_01_n.tif
 - Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hair_05.mat
 - Assets/npc_casual_set_00/Textures/npc_csl_shoe_01_00_01_n.tif
-- Assets/npc_casual_set_00/Textures/npc_hmn_face_01m_05_01_c.tif
+- Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01f_03_01.mat
 - Assets/npc_casual_set_00/Textures/npc_csl_pants_00m_01_01_n.tif
-- Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01f_01_01.mat
 - Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00m_01_01_o.tif
 - Assets/npc_casual_set_00/Materials/mtl_npc_csl_tshirt_00f_01_01.mat
 - Assets/npc_casual_set_00/Mesh/npc_csl_00_character_01f.fbx
+- Assets/npc_casual_set_00/MaterialsUPR/mtl_npc_hmn_face_01f_02_01.mat
 - Assets/Characters/GenericAnimations/EnteringCar.fbx
-- Assets/npc_casual_set_00/Textures/npc_csl_pants_00f_01_01_o.tif
 - Assets/Characters/Character1/Walk W_ Briefcase.fbx
-- Assets/npc_casual_set_00/Textures/npc_hmn_body_01f_01_01_c.tif
+- Assets/npc_casual_set_00/Textures/npc_csl_tshirt_00f_01_01_m.tif
 Dependencies: []
